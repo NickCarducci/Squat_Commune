@@ -5,6 +5,9 @@ export default function App() {
     <div className="App">
       <h1>Squat Commune</h1>
       <h2>not a licensed douche bag</h2>
+      <br />
+      <br />
+      protect yourself from us by joining!
     </div>
   );
 }
