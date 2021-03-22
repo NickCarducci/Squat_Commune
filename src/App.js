@@ -4,9 +4,24 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        <h1>Go against the science</h1>a doctor on wabc says smoke rises because
-        it is smoke, not because it is hot. YOU DONT EVER NEED A MASK, slave,
-        unless over-an open body
+        <h1>
+          Go against the science
+          <a
+            style={{ padding: "2px", width: "23px", display: "inline-block" }}
+            href="https://saverparty.xyz"
+          >
+            <img
+              alt=""
+              style={{
+                width: "100%",
+                height: "auto"
+              }}
+              src="https://www.dl.dropboxusercontent.com/s/oi43wpcc0h9phcz/saverAcorn%20%281%29.png?dl=0"
+            />
+          </a>
+        </h1>
+        a doctor on wabc says smoke rises because it is smoke, not because it is
+        hot. YOU DONT EVER NEED A MASK, slave, unless over-an open body
         <div style={{ position: "relative" }}>
           <a href="https://saverparty.xyz">
             <img
