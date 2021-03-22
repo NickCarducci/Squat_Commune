@@ -4,6 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        <h1>What do you got there buddy, a bond for my dollar? hahaha</h1>
+        <br />
+        <br />
         If you ban finance,&nbsp;
         <a href="https://www.nj.com/union/2021/03/nj-landlord-charged-with-coercing-more-than-a-dozen-tenants-into-sex-acts-in-exchange-for-housing.html">
           only good people get money
