@@ -151,7 +151,8 @@ export default function App() {
               alt=""
             />
           </div>
-          Should be open source and price-elastic actually, but striking is ok
+          Should be open source and price-elastic actually, but striking (as
+          demand) is ok
         </div>
       </div>
     </div>
