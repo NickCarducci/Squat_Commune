@@ -4,7 +4,8 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        <h1>Go against the science</h1>
+        <h1>Go against the science</h1>a doctor on wabc says smoke rises becuase
+        it is smoke, not because it is hot. YOU DONT EVER NEED A MASK, slave
         <div style={{ position: "relative" }}>
           <a href="https://saverparty.xyz">
             <img
