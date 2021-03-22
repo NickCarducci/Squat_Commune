@@ -30,7 +30,8 @@ export default function App() {
         </h2>
         <br />
         <br />
-        protect yourself from us by joining!
+        protect yourself from us by joining with unsettled trade and cross-party
+        risk!
         <br />
         <br />
         <a href="www1.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-city.pdf">
