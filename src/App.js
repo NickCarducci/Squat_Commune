@@ -4,6 +4,17 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        People do drugs because they are mentally ill because
+        rentier-colonialism, financial-cannibalism, duress as&nbsp;
+        <a href="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp">
+          business-logic
+        </a>
+        , and&nbsp;
+        <a href="https://www.researchgate.net/profile/Nicholas-Carducci">
+          fraud
+        </a>
+        <br />
+        <br />
         <h1>
           Go against the science;sell-out to amazon bc their network/copyright?
           sellout-self-harmers
@@ -129,6 +140,7 @@ export default function App() {
               alt=""
             />
           </div>
+          Should be open source and price-elastic actually, but striking is ok
         </div>
       </div>
     </div>
