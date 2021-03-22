@@ -16,7 +16,11 @@ export default function App() {
             />
           </a>
         </div>
-        <h1>Squat Commune</h1>
+        <h1>
+          <a href="https://www.researchgate.net/publication/344197041_FEC_government_spending_as_advertised_in_political_campaigns_as_free_to_even_the_beneficiary_when_actually_it_is_misleading_towards_indentured_servitude_heightened_cost_capacity_requires_dollar-split">
+            Squat Commune
+          </a>
+        </h1>
         <h2>
           not a licensed&nbsp;
           <a href="https://www.researchgate.net/publication/346041766_The_FTC_has_responded_to_my_complaints_and_so_has_the_industry_Allstate_Progressive_Geico_all_say_they_save_you_money_by_switching_or_bundling_yet_neo-insurance_companies_like_CarShieldUSA_still_says_">
