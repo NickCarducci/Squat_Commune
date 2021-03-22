@@ -4,6 +4,7 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        free trade is settled trade
         <h1>What do you got there buddy, a bond for my dollar? hahaha</h1>
         <br />
         <br />
