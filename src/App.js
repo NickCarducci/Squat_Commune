@@ -4,8 +4,18 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        free trade is settled trade
-        <h1>What do you got there buddy, a bond for my dollar? hahaha</h1>
+        free trade is settled, individual trade (
+        <a href="https://micro-theory.com">most frugal supply and demand</a>
+        &nbsp;
+        <a href="https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/volume-on-the-bid-and-ask-bavol/">
+          last trade
+        </a>
+        )
+        <h1>
+          What do you got there&nbsp;<a href="https://carshield.com/">buddy</a>,
+          a bond for my dollar? hahaha
+        </h1>
+        <span style={{ fontSize: "12px" }}>serenity now</span>
         <br />
         <br />
         If you ban finance,&nbsp;
@@ -151,8 +161,11 @@ export default function App() {
               alt=""
             />
           </div>
-          Should be open source and price-elastic actually, but striking (as
-          demand) is ok
+          Should be open source and price-elastic actually, but striking (
+          <a href="https://www.ftc.gov/tips-advice/competition-guidance/guide-antitrust-laws/antitrust-laws">
+            as demand
+          </a>
+          ) is ok
         </div>
       </div>
     </div>
