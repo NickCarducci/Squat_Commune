@@ -17,7 +17,13 @@ export default function App() {
           </a>
         </div>
         <h1>Squat Commune</h1>
-        <h2>not a licensed douche bag</h2>
+        <h2>
+          not a licensed&nbsp;
+          <a href="https://www.researchgate.net/publication/346041766_The_FTC_has_responded_to_my_complaints_and_so_has_the_industry_Allstate_Progressive_Geico_all_say_they_save_you_money_by_switching_or_bundling_yet_neo-insurance_companies_like_CarShieldUSA_still_says_">
+            douche
+          </a>
+          &nbsp;bag
+        </h2>
         <br />
         <br />
         protect yourself from us by joining!
@@ -44,6 +50,16 @@ export default function App() {
         <br />
         <br />
         slaverybyproxymonopsony.<a href="https://saverparty.xyz">86</a>
+        <br />
+        <br />
+        <a href="https://vianickcarducci.medium.com/gdp-the-big-lie-b1a0868785f4">
+          can
+        </a>
+        &nbsp;someone&nbsp;
+        <a href="https://www.researchgate.net/publication/346041766_The_FTC_has_responded_to_my_complaints_and_so_has_the_industry_Allstate_Progressive_Geico_all_say_they_save_you_money_by_switching_or_bundling_yet_neo-insurance_companies_like_CarShieldUSA_still_says_">
+          appraise this (FTC insurance complaint)
+        </a>
+        &nbsp; ?
       </div>
     </div>
   );
