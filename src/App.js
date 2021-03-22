@@ -67,7 +67,10 @@ export default function App() {
         <a href="https://www.researchgate.net/publication/346041766_The_FTC_has_responded_to_my_complaints_and_so_has_the_industry_Allstate_Progressive_Geico_all_say_they_save_you_money_by_switching_or_bundling_yet_neo-insurance_companies_like_CarShieldUSA_still_says_">
           appraise this (FTC insurance complaint)
         </a>
-        &nbsp; ?
+        &nbsp;?
+        <br />
+        <br />
+        hostels are fine {"<"}1mo advances
       </div>
     </div>
   );
