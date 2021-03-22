@@ -4,6 +4,12 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        If you ban finance,&nbsp;
+        <a href="https://www.nj.com/union/2021/03/nj-landlord-charged-with-coercing-more-than-a-dozen-tenants-into-sex-acts-in-exchange-for-housing.html">
+          only good people get money
+        </a>
+        <br />
+        <br />
         People do drugs because they are mentally ill because
         rentier-colonialism, financial-cannibalism, duress as&nbsp;
         <a href="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp">
