@@ -4,6 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Selling bonds to genocidal foreigners is aid and comfort to enemies but
+        competitors are enemies in violation of Article 4;4 as well
+        <br />
+        <br />
         finance is communism, free markets and counterfeit are diametrically
         opposed. any movement of equity for loss is prohibition, colonialism,
         exclusion and monopoly by Government
