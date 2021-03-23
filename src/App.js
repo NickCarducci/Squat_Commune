@@ -4,6 +4,12 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Republicans are attesting to my claim that government spending by tax or
+        debt is faster, well after further consideration and experience I must
+        argue that the only speed gained is in stealing copyright by government,
+        otherwise competition from supply is faster
+        <br />
+        <br />
         Contempt of court
         <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
           <img
@@ -46,10 +52,11 @@ export default function App() {
         </div>{" "}
         "Will not hurt small businesses or americans" - you are taking equity
         from people and allow business keep assets profits gained by
-        "guaranteed" labor you have no right to sign for... need to have prior
-        business income, no new business; appraised by revenue not expenses.
-        Labor is slave here because these stagnant businesses keep the
-        profit/assets gained
+        "guaranteed" labor (pre-rev inventors, stifling competition, higher
+        utility:price, colonialism by intent and understanding and real data)
+        you have no right to sign for... need to have prior business income, no
+        new business; appraised by revenue not expenses. Labor is slave here
+        because these stagnant businesses keep the profit/assets gained
         <br />
         "our most basic tools are here to acheive price stabiility by moving
         interest rates up and down [buy and sell corporate/U.S. bonds with
@@ -400,4 +407,3 @@ export default function App() {
     </div>
   );
 }
-
