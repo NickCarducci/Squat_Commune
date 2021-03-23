@@ -4,6 +4,24 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        If you want to suffice healthcare needs without going broke, stop
+        gorging prices with invoices, pooling cross-party risk and debt. Leave
+        this to the economists and not the biased ones with public stock or
+        bonds
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Joice Baity"
+            src="https://www.dl.dropboxusercontent.com/s/3vgelexc01gwjjb/ObamacareMonopsony.jpg?dl=0"
+          />
+        </div>{" "}
+        <br />
+        <br />
         slut, if you want people to be sane, then stop holding them to
         impossible obligations 41 times what exists. I am going crazy just from
         your ineptitude. kill yourself for me
@@ -13,7 +31,7 @@ export default function App() {
               height: "auto",
               width: "100%"
             }}
-            alt="Bill Foster"
+            alt="Newsmax"
             src="https://www.dl.dropboxusercontent.com/s/qp6pyyj36gaqwt3/MentalHealth.jpg?dl=0"
           />
         </div>
@@ -33,7 +51,7 @@ export default function App() {
               height: "auto",
               width: "100%"
             }}
-            alt="Bill Foster"
+            alt="Pelosi Schumer and medical industry collusion to corner profits"
             src="https://www.dl.dropboxusercontent.com/s/8rdzw2lpvhalq97/LaughingAtLoss.jpg?dl=0"
           />
         </div>{" "}
