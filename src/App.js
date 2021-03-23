@@ -4,6 +4,26 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        It's&nbsp;<a href="https://vaults.biz">all green</a>&nbsp;to Al
+        <br />
+        "We are helping the smallest small business" - you are redistributing
+        assets/profits to business instead of labor/artists/pre-rev-inventors,
+        enslaving them, promising dollars' of savers, and merely raising price
+        which is conspiracy to not compete with said saver-types
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Al Green"
+            src="https://www.dl.dropboxusercontent.com/s/heojvze8d9sdqq6/AllGreenToAl.jpg?dl=0"
+          />
+        </div>{" "}
+        <br />
+        <br />
         "not something we force them to do, at this time" -What jurisdiction of
         force have you ever had? you say congress regulates, but you have
         autonomy for price-stability. then stop bondage. RECURSIONS CANNOT RUN.
@@ -17,7 +37,7 @@ export default function App() {
               height: "auto",
               width: "100%"
             }}
-            alt="Scott suggests expanding the fraud of FDIC beyond glass-steagal clinton appeal atrocity"
+            alt="Powell circle blame logic"
             src="https://www.dl.dropboxusercontent.com/s/1ebukagymab6ba0/PowellAloof.jpg?dl=0"
           />
         </div>{" "}
