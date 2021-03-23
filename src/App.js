@@ -4,6 +4,24 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "not something we force them to do, at this time" -What jurisdiction of
+        force have you ever had? you say congress regulates, but you have
+        autonomy for price-stability. then stop bondage. RECURSIONS CANNOT RUN.
+        You are guilty of intentful harm
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Scott suggests expanding the fraud of FDIC beyond glass-steagal clinton appeal atrocity"
+            src="https://www.dl.dropboxusercontent.com/s/1ebukagymab6ba0/PowellAloof.jpg?dl=0"
+          />
+        </div>{" "}
+        <br />
+        <br />
         You want to have resilience, then stop accrual accounting altogether
         retard
         <br />
