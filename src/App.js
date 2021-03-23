@@ -4,6 +4,13 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        This is not satire, this is comparative law
+        <br />
+        <br />
+        "Down the tubes" - a.k.a. last-traded price ask
+        opportunity/usurped-bondage
+        <br />
+        <br />
         find a tennant and get the money that is due to you!" -{" "}
         <a href="http://www.homeownerlandlord.org/">
           http://homeownerlandlord.org
