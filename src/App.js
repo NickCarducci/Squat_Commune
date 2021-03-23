@@ -4,6 +4,11 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "funding needed to address pandemic" the only need is bad bets made, not
+        debts owed. they are not owed. they are illegal and worth zero in a
+        court of law
+        <br />
+        <br />
         Are slaves or serfs allowed to kill slave-owners or colonists? what is a
         proportionate remedy? You care about bondaging all races now not just
         chalks
