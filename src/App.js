@@ -4,6 +4,13 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "The debt, your children will never recover." "just wait until the
+        dollar decreases" - against what dumbass? you know actually and are
+        misleading. you know the debt doesn't matter in paying back, only
+        price-inelasticity and bond-holders' bottom line they "withdrawal"
+        against. it has steadily increased since 1908 from 1:1 to 41:1
+        <br />
+        <br />
         "Pick your favorite mechanic to do the work, and carsheild [runs up the
         bill]{/* does the
         rest*/}" - Mark Levin
@@ -14,7 +21,7 @@ export default function App() {
               height: "auto",
               width: "100%"
             }}
-            alt="Sec Kirby"
+            alt="Levin"
             src="https://www.dl.dropboxusercontent.com/s/byr7a49by5rpstc/Levin.png?dl=0"
           />
         </div>{" "}
