@@ -4,6 +4,12 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        find a tennant and get the money that is due to you!" -{" "}
+        <a href="http://www.homeownerlandlord.org/">
+          http://homeownerlandlord.org
+        </a>
+        <br />
+        <br />
         free trade is settled, individual trade (
         <a href="https://micro-theory.com">most frugal supply and demand</a>
         &nbsp;
