@@ -4,6 +4,13 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Labor is slave&nbsp;
+        <a href="https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program">
+          here
+        </a>
+        &nbsp;because these stagnant businesses keep the profit/assets gained
+        <br />
+        <br />
         Kilmeade: "$400trillion total slavery costs [or saved by mirrorcode]?"
         <div
           style={{
