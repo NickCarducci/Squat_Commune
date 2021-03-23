@@ -4,6 +4,14 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        debt:cash is 41:1! used to be 1:1. we certainly are a team, with shares,
+        but lawmakers don't treat us like it
+        <br />
+        <br />
+        loans are not partnerships they're fraud/counterfeit-in-contract and
+        insurance is a moot contract by duress
+        <br />
+        <br />
         No matter what political bias you have
         <br />
         <br />
