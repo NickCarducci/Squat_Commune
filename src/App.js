@@ -48,8 +48,10 @@ export default function App() {
         from people and allow business keep assets profits gained by
         "guaranteed" labor you have no right to sign for
         <br />
-        "our most basic tools are here to acheive price stabiiliuty by moving
-        interest rates up and down [with counterfeit-in-contract]"
+        "our most basic tools are here to acheive price stabiility by moving
+        interest rates up and down [buy and sell corporate/U.S. bonds with
+        counterfeit-in-contract/loitering/prohibiting-settlement as private debt
+        is as well]"
         <br />
         <br />
         Who are they? J. Powell blames it on the&nbsp;
