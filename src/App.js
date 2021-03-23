@@ -4,6 +4,17 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        <a href="https://history-first.com/2018/01/30/martin-van-buren-and-the-myth-of-ok/">
+          O.K.
+        </a>
+        &nbsp;
+        <a href="https://www.cnn.com/2021/02/24/europe/cocaine-bust-grm-intl-scli/index.html">
+          causal
+        </a>
+        &nbsp;<a href="https://www.uhc.com/">cocaine</a>&nbsp;
+        <a href="https://www.medicalnewstoday.com/articles/221211">homicide</a>
+        <br />
+        <br />
         Bill O'reilly thinks "capitalism is getting money for doing stuff." So
         you ready to be held up?
         <br />
