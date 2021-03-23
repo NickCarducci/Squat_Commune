@@ -5,9 +5,9 @@ export default function App() {
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
         If you want to suffice healthcare needs without going broke, stop
-        gorging prices with invoices, pooling cross-party risk and debt. Leave
-        this to the economists and not the biased ones with public stock or
-        bonds
+        gorging prices with invoices, pooling cross-party risk and debt... you
+        are just raising premiums (demand capacity, not supply). Leave this to
+        the economists and not the biased ones with public stock or bonds
         <br />
         <br />
         <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
@@ -19,7 +19,8 @@ export default function App() {
             alt="Joice Baity"
             src="https://www.dl.dropboxusercontent.com/s/3vgelexc01gwjjb/ObamacareMonopsony.jpg?dl=0"
           />
-        </div>{" "}
+        </div>
+        You don't need something that just raises price for no better product
         <br />
         <br />
         slut, if you want people to be sane, then stop holding them to
