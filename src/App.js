@@ -9,6 +9,11 @@ export default function App() {
         _positive_ or vaccine card" - Rich Valdes, exclusion/duress
         <br />
         <br />
+        Fines/taxes/dilution trickles down too - push free-rider-immutable and
+        network/{"<"}
+        20/rental monopsony to the user (3% under $2k)
+        <br />
+        <br />
         "Down the tubes" - a.k.a. last-traded price ask
         opportunity/usurped-bondage
         <br />
