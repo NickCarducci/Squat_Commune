@@ -9,8 +9,12 @@ export default function App() {
         _positive_ or vaccine card" - Rich Valdes, exclusion/duress
         <br />
         <br />
-        Fines/taxes/dilution trickles down too - push free-rider-immutable and
-        network/{"<"}
+        <a href="https://www.fbi.gov/investigate/public-corruption">Fines</a>
+        /taxes/
+        <a href="https://newsroompost.com/world/facebook-penalized-multiple-times-by-these-countries-for-alleged-violations-full-details-here/584800.html">
+          dilution
+        </a>
+        &nbsp;trickles down too - push free-rider-immutable and network/{"<"}
         20/rental monopsony to the user (3% under $2k)
         <br />
         <br />
