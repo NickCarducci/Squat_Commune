@@ -6,7 +6,7 @@ export default function App() {
       <div style={{ position: "relative", maxWidth: "600px" }}>
         slut, if you want people to be sane, then stop holding them to
         impossible obligations 41 times what exists. I am going crazy just from
-        your ineptitude
+        your ineptitude. kill yourself for me
         <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
           <img
             style={{
