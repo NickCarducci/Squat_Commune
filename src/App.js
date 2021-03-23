@@ -4,6 +4,26 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "Improve the ACA subsidies by increaseing their value" claims Schumer,
+        old people are so incompetent, subsidies decrease the value by
+        increasing price...
+        <br />
+        laughing at what they are for now getting away with in false advertising
+        due to their own malfeasance or incompetence and therefore requires
+        resignation and awards for me
+        <br />
+        <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Bill Foster"
+            src="https://www.dl.dropboxusercontent.com/s/8rdzw2lpvhalq97/LaughingAtLoss.jpg?dl=0"
+          />
+        </div>{" "}
+        <br />
+        <br />
         business cannot go under, courts and creditors collude to commit fraud
         <br />
         <br />
