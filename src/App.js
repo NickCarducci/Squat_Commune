@@ -4,6 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        You do not owe debt you have, the lending-party knows the risk of
+        technical legality becoming precedence
+        <br />
+        <br />
         "opportunity zones" is a strategy to corner assets with bond-value
         fraud, lending is a strategy to corner assets
         <br />
