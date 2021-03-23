@@ -4,6 +4,34 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+    if you don't want people to lose everything if they are sick, you can ban invoices instead of split to suffice them you old fucking retard
+    <br/>
+    <br/>
+        "you're gonna&nbsp;
+        <a href="https://www.investopedia.com/ask/answers/what-stock-split-why-do-stocks-split/">
+          split
+        </a>
+        " "our investment[monopsony, gorging, anticompetitive, cheating]"
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Biden curate by frontrunning, healthcare.gov, where doctors go to collude on price"
+            src="https://www.dl.dropboxusercontent.com/s/w5c13j1ky1ydmc9/YoureGonnaSplit.jpg?dl=0"
+          />
+        </div>{" "}
+        <br />
+        <br />
+        "affordable, better premiums, $600 a year" this is not true. if it
+        doesn't save in total, it doesn't save in part
+        <br />
+        "drug companies don't have the [supply] capacity," money is not supply!!
+        <br />
+        <br />
         The covid family has been around for decades. Can someone cite
         controlled evidence that it is deadlier than previous years? Why is
         population data still delayed 2 months? This is in the meat by your own
