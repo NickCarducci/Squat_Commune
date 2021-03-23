@@ -4,15 +4,34 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Belt & Road initiative is not explicitly predatory lending more than
+        others are
+        <br />
+        <br />
         Selling bonds to genocidal foreigners is aid and comfort to enemies but
         competitors are enemies in violation of Article 4;4 as well
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
+          <a href="https://hill.house.gov/">
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="Bill Foster"
+              src="https://www.dl.dropboxusercontent.com/s/rrd33fwj5xq62c2/FrenchHillSellOut.jpg?dl=0"
+            />
+          </a>
+        </div>{" "}
         <br />
         <br />
         finance is communism, free markets and counterfeit are diametrically
         opposed. any movement of equity for loss is prohibition, colonialism,
         exclusion and monopoly by Government
         <h2>
-          State plagerism of private citizen's&nbsp;
+          State&nbsp;<a href="https://vaults.biz">plagerism</a>&nbsp;of private
+          citizen's&nbsp;
           <a href="https://magnate.company">inventions</a>&nbsp;and theorums
         </h2>
         <br />
