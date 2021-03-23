@@ -4,7 +4,7 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        <h1>A bad bet</h1>
+        <h1>A bad bet: 41 winks</h1>
         "The debt, your children will never recover." "just wait until the
         dollar decreases" - against what dumbass? you know actually and are
         misleading. you know the debt doesn't matter in paying back, only
