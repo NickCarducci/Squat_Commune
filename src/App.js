@@ -9,6 +9,25 @@ export default function App() {
         court of law
         <br />
         <br />
+        "we want to end the race to the bottom of double taxation for going
+        public we want to monopsonize that shit" - Yellen you don't lose 9.5m
+        jobs. that is not an asset. you just want to prohibit trade bitch
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
+          <a href="https://www.youtube.com/watch?v=XoNIsoqT5s0">
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="Bill Foster"
+              src="https://www.dl.dropboxusercontent.com/s/2lk87kbaw6qw2fg/YellenRemedyPromise.jpg?dl=0"
+            />
+          </a>
+        </div>{" "}
+        <br />
+        <br />
         Are slaves or serfs allowed to kill slave-owners or colonists? what is a
         proportionate remedy? You care about bondaging all races now not just
         chalks
