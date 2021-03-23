@@ -4,7 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        State plagerism of private citizen's inventions and theorums
+        <h2>
+          State plagerism of private citizen's&nbsp;
+          <a href="https://magnate.company">inventions</a>&nbsp;and theorums
+        </h2>
         <br />
         <br />
         <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
@@ -22,7 +25,8 @@ export default function App() {
         <br />
         <br />
         Interest rates rises to a max-profit royalty conract without debt
-        probably to similar rates
+        probably to similar rates - which waits for willing and able customers
+        without cross-party risk like with tranche further unsettled trade
         <br />
         <br />
         anonymous && hidden don't have to be at the same time. login.gov can
