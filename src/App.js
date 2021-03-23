@@ -4,6 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        (politics) office, force, what want to do, certify, verify, move,
+        defend, assets, skill (rights)
+        <br />
+        <br />
         Commisioning of mental health assesments from owning a firearm should be
         barred for unless a threat is made, not an eccectricism, influence by
         real-life trauma or anger, jealousy, frustration etc. or AR until the
