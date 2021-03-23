@@ -17,16 +17,45 @@ export default function App() {
         No matter what political bias you have
         <br />
         <br />
-        <div style={{ position: "relative" }}>
-          <img
-            style={{
-              height: "auto",
-              width: "100%"
-            }}
-            alt="zoltan tasi on unsplash: sheep and lamb in meadow"
-            src="https://www.dl.dropboxusercontent.com/s/h4bu7cdlupw6crx/BabyBonds.jpg?dl=0"
-          />
-        </div>{" "}
+        <div style={{ width: "100%", display: "flex", flexWrap: "wrap" }}>
+          <div
+            style={{ position: "relative", width: "33%", minWidth: "100px" }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="booker baby bonds"
+              src="https://www.dl.dropboxusercontent.com/s/h4bu7cdlupw6crx/BabyBonds.jpg?dl=0"
+            />
+          </div>
+          <div
+            style={{ position: "relative", width: "33%", minWidth: "100px" }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="booker baby bonds"
+              src="https://www.dl.dropboxusercontent.com/s/dalhqrh99nk60um/BananaBuck.gif?dl=0"
+            />
+          </div>
+          <div
+            style={{ position: "relative", width: "33%", minWidth: "100px" }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="jetset menendez"
+              src="https://www.dl.dropboxusercontent.com/s/u4y9q71b4s5t3sj/JetsetMenendez.png?dl=0"
+            />
+          </div>
+        </div>
+        "https://www.dropbox.com/s/dalhqrh99nk60um/BananaBuck.gif?dl=0"
         <br />
         <br />
         I don't have a bias. now he says it was likely spread in the meat. take
