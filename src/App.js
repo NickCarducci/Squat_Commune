@@ -4,6 +4,40 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Who are they? J. Powell blames it on the treasury, treasury blames it on
+        congress, congress blames it on polls that are proven to be inaccurate
+        at worst and assumptive at best
+        <br />
+        "market makers" who make the odds/book/spread and change it once a
+        retail trader hits their ask or bid
+        <br />
+        <br />
+        <div style={{ fontSize: "12px", border: "1px dotted" }}>
+          borrower promises to creditor what lender wants and expenses it on
+          their consumers & loiters. Bitcoin rising in December 2017 triggered
+          me to hold tvix until September 2018, and then CTB puts in December
+          2018 to which I also held for too long. Then I knew since I sacrificed
+          my trading ability and the put went in the money by Pattern Day
+          Trading for {"<"}$25k, that my shares are under different regulation
+          than {">"}5% 13d filers. Some will say it was luck
+          <br />
+          <br />a bridge to no where doesn’t form a destination by traching or
+          applying cross-party risk, stop prohibiting trade settlements. There
+          would be less occurances for the need to hedge if anonymity was the
+          same for the anonymity-to-exchange 13D filers and “retail-traders” and
+          you can be exactly wrong for everyone
+        </div>
+        <br />
+        <br />
+        Allpoint, Greendot (& Heartland?) atm oligopoly prevents me from
+        extending payable services because it requires me to take counterfeit
+        offers with cross-party down-payment malfeasant-jurisprudence risk in
+        requiring that I accept credit to accept debit, and banks that cost
+        $10/mo instead of ATM networks and Dwolla, Shazam & Galileo are U.S.
+        only + no cash, every provider must provide option to disable
+        credit-collusion [certainly not $75/mo startup mastercard]
+        <br />
+        <br />
         <a href="https://history-first.com/2018/01/30/martin-van-buren-and-the-myth-of-ok/">
           O.K.
         </a>
