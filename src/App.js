@@ -4,6 +4,26 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        No matter what political bias you have
+        <br />
+        <br />
+        <div style={{ position: "relative" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="zoltan tasi on unsplash: sheep and lamb in meadow"
+            src="https://www.dl.dropboxusercontent.com/s/h4bu7cdlupw6crx/BabyBonds.jpg?dl=0"
+          />
+        </div>{" "}
+        <br />
+        <br />
+        I don't have a bias. now he says it was likely spread in the meat. take
+        off your mask, join the partyif you want to invest, invest in my
+        companies cheddars (dairy) and beatsme (veggies). Shut up baby bonds
+        <br />
+        <br />
         (politics) office, force, what want to do, certify, verify, move,
         defend, assets, skill (rights)
         <br />
@@ -53,7 +73,8 @@ export default function App() {
           dilution
         </a>
         &nbsp;trickles down too - push free-rider-immutable and network/{"<"}
-        20/rental monopsony to the user (3% under $2k)
+        20/rental monopsony to the user (3% under $2k)... shouldn't that be a
+        class-action tort?
         <br />
         <br />
         "Down the tubes" - a.k.a. last-traded price ask
