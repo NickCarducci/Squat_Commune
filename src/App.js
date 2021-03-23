@@ -234,12 +234,14 @@ export default function App() {
         defend, assets, skill (rights)
         <br />
         <br />
-        Commisioning of mental health assesments from owning a firearm should be
-        barred for unless a threat is made, not an eccectricism, influence by
-        real-life trauma or anger, jealousy, frustration etc. or AR until the
-        government promises to not use S.W.A.T. to 'go after spring breakers'
-        with&nbsp;<a href="https://moldmask.co">duress</a>&nbsp;or break with
-        the rest of our&nbsp;
+        Commisioning of mental health assesments (you can sue certified
+        physician monopsony-of-pharmaceutical members for libel) from owning a
+        firearm should be barred for unless a threat is made, not an
+        eccectricism, influence by real-life trauma or anger, jealousy,
+        frustration etc. or AR until the government promises to not use S.W.A.T.
+        to 'go after spring breakers' with&nbsp;
+        <a href="https://moldmask.co">duress</a>&nbsp;or break with the rest of
+        our&nbsp;
         <a href="https://constitutioncenter.org/interactive-constitution/amendment/amendment-v">
           civil
         </a>
