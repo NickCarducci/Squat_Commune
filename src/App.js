@@ -4,6 +4,22 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "Pick your favorite mechanic to do the work, and carsheild [runs up the
+        bill]{/* does the
+        rest*/}" - Mark Levin
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Sec Kirby"
+            src="https://www.dl.dropboxusercontent.com/s/byr7a49by5rpstc/Levin.png?dl=0"
+          />
+        </div>{" "}
+        <br />
+        <br />
         The only supply to which this guy can provide is forving demand on
         free-rider-immutable services, otherwise those that need it meets their
         demand without you
