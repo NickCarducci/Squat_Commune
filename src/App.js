@@ -4,6 +4,26 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Stop being racist with penalties, make the tort on an individual basis
+        you fucking whore
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Al Green"
+            src="https://www.dl.dropboxusercontent.com/s/hpsddoljiabk7mq/SellOutOrPlagarism.jpg?dl=0"
+          />
+        </div>
+        <br />
+        <br />
+        Shortage of lending institutions? LENDING IS ILLEGAL especially
+        collateralized it is loitering conspiracy to prohibit settled trade
+        <br />
+        <br />
         You do not owe debt you have, the lending-party knows the risk of
         technical legality becoming precedence
         <br />
