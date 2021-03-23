@@ -4,6 +4,18 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Contempt of court
+        <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Contempt face of Maxine waters, head of finance as I write this"
+            src="https://www.dl.dropboxusercontent.com/s/srqc6scocw7kint/ContemptWaters.jpg?dl=0"
+          />
+        </div>
+        <br />{" "}
         <a
           href="https://www.ftc.gov/tips-advice/competition-guidance/guide-antitrust-laws/antitrust-laws"
           style={{
@@ -28,10 +40,17 @@ export default function App() {
               height: "auto",
               width: "100%"
             }}
-            alt="booker baby bonds"
+            alt="janet yellen testifies for Biden Administration"
             src="https://www.dl.dropboxusercontent.com/s/bbebuh6fn1p6nkj/YellenMopMonop.jpg?dl=0"
           />
         </div>{" "}
+        "Will not hurt small businesses or americans" - you are taking equity
+        from people and allow business keep assets profits gained by
+        "guaranteed" labor you have no right to sign for
+        <br />
+        "our most basic tools are here to acheive price stabiiliuty by moving
+        interest rates up and down [with counterfeit-in-contract]"
+        <br />
         <br />
         Who are they? J. Powell blames it on the&nbsp;
         <a href="https://foiegras.life">treasury</a>, treasury blames it on
