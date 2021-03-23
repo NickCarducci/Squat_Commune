@@ -4,7 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        Are slaves or serfs allowed to kill slave-owners or colonists? what is a proportionate remedy
+        Are slaves or serfs allowed to kill slave-owners or colonists? what is a
+        proportionate remedy? You care about bondaging all races now not just
+        chalks
         <br />
         <br />
         Belt & Road initiative is not explicitly predatory lending more than
