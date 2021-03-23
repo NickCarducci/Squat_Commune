@@ -99,9 +99,12 @@ export default function App() {
             border: "1px dotted"
           }}
         >
-          <a href="https://foiegras.life">Dom Carter</a>&nbsp;caller said 150%
-          up for all races, here updated 3/4/21 all time-period changes are
-          negative, the race-to-race&nbsp;
+          <a href="https://foiegras.life">Dom Carter</a>&nbsp;caller said&nbsp;
+          <a href="https://www.csusb.edu/sites/default/files/FACT%20SHEET-%20Anti-Asian%20Hate%202020%203.2.21.pdf">
+            150%
+          </a>
+          &nbsp; up for all races, here updated 3/4/21 all time-period changes
+          are negative, the race-to-race&nbsp;
           <a href="https://fbi.gov/news/pressrel/press-releases/overview-of-preliminary-uniform-crime-report-january-june-2020">
             homocides
           </a>
