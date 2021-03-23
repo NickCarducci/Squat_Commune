@@ -4,6 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Bill O'reilly thinks "capitalism is getting money for doing stuff." So
+        you ready to be held up?
+        <br />
+        <br />
         debt:cash is 41:1! used to be 1:1. we certainly are a team, with shares,
         but lawmakers don't treat us like it. just helps the&nbsp;
         <a href="https://foiegras.life">ask</a>. food security turns into duress
