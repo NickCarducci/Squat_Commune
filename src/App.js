@@ -4,10 +4,37 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        People need to know the risks of sucking my cock - FDIC is bring people
+        in by misnomer of "savings" it is a valuation of last trade, retard
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Scott suggests expanding the fraud of FDIC beyond glass-steagal clinton appeal atrocity"
+            src="https://www.dl.dropboxusercontent.com/s/cmu7fsh93dxmjyy/ScottCommune.jpg?dl=0"
+          />
+        </div>{" "}
+        <br />
         Banking is not a business, lending is allowed, but the contract is moot.
-        If it were to be real and respected as it is now, all it does is raise
-        price for the same utility by increaseing demand curve instead of moving
-        supply to the right or moving it flatter
+        If it were to be real and respected as it is now
+        <br />
+        <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="OK wants to collude with federal government to promise money to themselves that isn't theirs to merely increase their competitive input cost-bid"
+            src="https://www.dl.dropboxusercontent.com/s/ci5vmwt0ng22gk8/BondageGooseMe.jpg?dl=0"
+          />
+        </div>{" "}
+        <br />
+        all it does is raise price for the same utility by increaseing demand
+        curve instead of moving supply to the right or moving it flatter
         <br />
         <br />
         Republicans are attesting to my claim that government spending by tax or
