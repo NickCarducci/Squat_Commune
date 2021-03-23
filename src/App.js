@@ -4,6 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        finance is communism, free markets and counterfeit are diametrically
+        opposed. any movement of equity for loss is prohibition, colonialism,
+        exclusion and monopoly by Government
         <h2>
           State plagerism of private citizen's&nbsp;
           <a href="https://magnate.company">inventions</a>&nbsp;and theorums
