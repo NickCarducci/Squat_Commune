@@ -5,7 +5,8 @@ export default function App() {
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
         This is not satire, this is&nbsp;
-        <a href="https://saverparty.xyz">comparative law</a>
+        <a href="https://saverparty.xyz">comparative law</a>.&nbsp;"need covid
+        _positive_ or vaccine card" - Rich Valdes, exclusion/duress
         <br />
         <br />
         "Down the tubes" - a.k.a. last-traded price ask
