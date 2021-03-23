@@ -6,7 +6,7 @@ export default function App() {
       <div style={{ position: "relative", maxWidth: "600px" }}>
         Commisioning of mental health assesments from owning a firearm should be
         barred for unless a threat is made, not an eccectricism, influence by
-        real-life trauma or anger, jealousy, frustration etc. until the
+        real-life trauma or anger, jealousy, frustration etc. or AR until the
         government promises to not use S.W.A.T. to 'go after spring breakers'
         with&nbsp;<a href="https://moldmask.co">duress</a>&nbsp;or break with
         the rest of our&nbsp;
