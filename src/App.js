@@ -4,6 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        You want to have resilience, then stop accrual accounting altogether
+        retard
+        <br />
+        <br />
         People need to know the risks of sucking my cock - FDIC is bring people
         in by misnomer of "savings" it is a valuation of last trade, retard
         <br />
