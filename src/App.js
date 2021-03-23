@@ -10,7 +10,7 @@ export default function App() {
             fontFamily: '"Pacifico", sans-serif'
           }}
         >
-          Monopsony
+          Monopsony & trade-prohibition
         </a>{" "}
         they understand the harm they are doing + lying about -&nbsp;
         <a href="https://vianickcarducci.medium.com/gdp-the-big-lie-b1a0868785f4">
@@ -20,6 +20,18 @@ export default function App() {
         year-to-year instead of inflation from counterfeit-in-contract
         inelasticity... rental assistance to families prevents trade and
         price-elasticity for the monopsony of assets/year-to-year profits
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="booker baby bonds"
+            src="https://www.dl.dropboxusercontent.com/s/bbebuh6fn1p6nkj/YellenMopMonop.jpg?dl=0"
+          />
+        </div>{" "}
         <br />
         Who are they? J. Powell blames it on the&nbsp;
         <a href="https://foiegras.life">treasury</a>, treasury blames it on
