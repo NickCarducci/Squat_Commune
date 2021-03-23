@@ -4,7 +4,8 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        This is not satire, this is comparative law
+        This is not satire, this is&nbsp;
+        <a href="https://saverparty.xyz">comparative law</a>
         <br />
         <br />
         "Down the tubes" - a.k.a. last-traded price ask
