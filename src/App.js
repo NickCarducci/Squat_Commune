@@ -174,6 +174,12 @@ export default function App() {
         money to you and collude with district attorneys. Give me all your money
         <br />
         <br />
+        After age 40 your politics rationally changes to support front_running
+        purchases and prohibiting settled trade instead of investing. A DEPOSIT
+        IS NOT AN OPTION TO BUY; rentier-colonialism is prohibiting trade and
+        slavery-by-proxy. Unless you’re a good person always
+        <br />
+        <br />
         Religious inclusion? need to enforce the option to not deal in credit
         for all merchant providers
         <br />
