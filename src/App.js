@@ -4,6 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "opportunity zones" is a strategy to corner assets with bond-value
+        fraud, lending is a strategy to corner assets
+        <br />
+        <br />
         It's&nbsp;<a href="https://vaults.biz">all green</a>&nbsp;to Al
         <br />
         "We are helping the smallest small business" - you are redistributing
@@ -133,6 +137,7 @@ export default function App() {
         you have no right to sign for... need to have prior business income, no
         new business; appraised by revenue not expenses. Labor is slave here
         because these stagnant businesses keep the profit/assets gained
+        <br />
         <br />
         "our most basic tools are here to acheive price stabiility by moving
         interest rates up and down [buy and sell corporate/U.S. bonds with
