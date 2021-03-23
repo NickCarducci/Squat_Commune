@@ -5,7 +5,8 @@ export default function App() {
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
         Stop being racist with penalties, make the tort on an individual basis
-        you fucking whore
+        you fucking whore(access opportunity and equity TAKE THOSE NAMES OUT OF
+        YOUR AD, you need to be in jail by ftc for that)
         <br />
         <br />
         More for businesses and accelerators [to take equity for the state
@@ -24,7 +25,7 @@ export default function App() {
         </div>
         <br />
         <br />
-        Shortage of lending institutions? LENDING IS ILLEGAL especially
+        "Shortage of lending institutions?" LENDING IS ILLEGAL especially
         collateralized it is loitering conspiracy to prohibit settled trade
         <br />
         <br />
