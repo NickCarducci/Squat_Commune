@@ -4,6 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Old people are incompetent or evil
+        <br />
+        <br />
         "I never force anyone to do anything," claims @JCats2013 while he takes
         ad money from landlords/build-to-rent. YOU ARE FORCING PEOPLE TO PAY
         MORE FOR NOTHING I AM A BUILDER YOU ARE A CREDITOR promising savers'
