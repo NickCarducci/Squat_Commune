@@ -4,7 +4,20 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        Who are they? J. Powell blames it on the treasury, treasury blames it on
+        <span
+          style={{
+            fontFamily: '"Pacifico", sans-serif'
+          }}
+        >
+          Monopsony
+        </span>{" "}
+        they understand the harm they are doing + lying about - price stability?
+        stupid... debt:cash is 4200% inflation you look at inflation in prices
+        year-to-year instead of inflation from counterfeit-in-contract
+        inelasticity
+        <br />
+        Who are they? J. Powell blames it on the&nbsp;
+        <a href="https://foiegras.life">treasury</a>, treasury blames it on
         congress, congress blames it on polls that are proven to be inaccurate
         at worst and assumptive at best
         <br />
