@@ -4,6 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Are slaves or serfs allowed to kill slave-owners or colonists? what is a proportionate remedy
+        <br />
+        <br />
         Belt & Road initiative is not explicitly predatory lending more than
         others are
         <br />
