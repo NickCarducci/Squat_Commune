@@ -37,14 +37,16 @@ export default function App() {
           <div
             style={{ position: "relative", width: "33%", minWidth: "100px" }}
           >
-            <img
-              style={{
-                height: "auto",
-                width: "100%"
-              }}
-              alt="booker baby bonds"
-              src="https://www.dl.dropboxusercontent.com/s/dalhqrh99nk60um/BananaBuck.gif?dl=0"
-            />
+            <a href="https://vianickcarducci.medium.com/gdp-the-big-lie-b1a0868785f4">
+              <img
+                style={{
+                  height: "auto",
+                  width: "100%"
+                }}
+                alt="booker baby bonds"
+                src="https://www.dl.dropboxusercontent.com/s/dalhqrh99nk60um/BananaBuck.gif?dl=0"
+              />
+            </a>
           </div>
           <div
             style={{ position: "relative", width: "33%", minWidth: "100px" }}
@@ -59,7 +61,6 @@ export default function App() {
             />
           </div>
         </div>
-        "https://www.dropbox.com/s/dalhqrh99nk60um/BananaBuck.gif?dl=0"
         <br />
         <br />
         I don't have a bias. now he says it was likely spread in the meat. take
