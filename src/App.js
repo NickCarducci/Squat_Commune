@@ -5,7 +5,9 @@ export default function App() {
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
         debt:cash is 41:1! used to be 1:1. we certainly are a team, with shares,
-        but lawmakers don't treat us like it
+        but lawmakers don't treat us like it. just helps the&nbsp;
+        <a href="https://foiegras.life">ask</a>. food security turns into duress
+        or monopsony quickly
         <br />
         <br />
         loans are not partnerships they're fraud/counterfeit-in-contract and
