@@ -4,6 +4,12 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "I never force anyone to do anything," claims @JCats2013 while he takes
+        ad money from landlords/build-to-rent. YOU ARE FORCING PEOPLE TO PAY
+        MORE FOR NOTHING I AM A BUILDER YOU ARE A CREDITOR promising savers'
+        money to you and collude with district attorneys. Give me all your money
+        <br />
+        <br />
         Religious inclusion? need to enforce the option to not deal in credit
         for all merchant providers
         <br />
