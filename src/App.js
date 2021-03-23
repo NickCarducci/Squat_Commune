@@ -4,6 +4,16 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        <div
+          style={{
+            width: "100%",
+            lineHeight: "5",
+            backgroundColor: "rgb(100,170,255)"
+          }}
+        >
+          The government is not the people, they own them
+        </div>
+        <br />
         This is not satire, this is&nbsp;
         <a href="https://saverparty.xyz">comparative law</a>.&nbsp;"need covid
         _positive_ or vaccine card" - Rich Valdes, exclusion/duress
