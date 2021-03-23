@@ -7,7 +7,8 @@ export default function App() {
         "not something we force them to do, at this time" -What jurisdiction of
         force have you ever had? you say congress regulates, but you have
         autonomy for price-stability. then stop bondage. RECURSIONS CANNOT RUN.
-        You are guilty of intentful harm
+        &nbsp;
+        <a href="https://foiegras.life">You are guilty of intentful harm</a>
         <br />
         <br />
         <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
