@@ -4,7 +4,26 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        Before getting on stage he asked if he needs to keep on the mask, and near the end he tells everyone to do so
+        The only supply to which this guy can provide is forving demand on
+        free-rider-immutable services, otherwise those that need it meets their
+        demand without you
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Sec Kirby"
+            src="https://www.dl.dropboxusercontent.com/s/tzmvhhf1bfqybsv/SupplyFreeImmutable.jpg?dl=0"
+          />
+        </div>
+        This is tough! I think I forget 1/50 thoughts, but usually they are
+        things I stumble upon again
+        <br />
+        <br /> Before getting on stage he asked if he needs to keep on the mask,
+        and near the end he tells everyone to do so
         <br />
         <br />
         Coverage is only a threat because of force by duress and priners'
