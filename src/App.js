@@ -4,6 +4,12 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Banking is not a business, lending is allowed, but the contract is moot.
+        If it were to be real and respected as it is now, all it does is raise
+        price for the same utility by increaseing demand curve instead of moving
+        supply to the right or moving it flatter
+        <br />
+        <br />
         Republicans are attesting to my claim that government spending by tax or
         debt is faster, well after further consideration and experience I must
         argue that the only speed gained is in stealing copyright by government,
