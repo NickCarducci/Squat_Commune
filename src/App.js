@@ -86,7 +86,8 @@ export default function App() {
             src="https://www.dl.dropboxusercontent.com/s/3vgelexc01gwjjb/ObamacareMonopsony.jpg?dl=0"
           />
         </div>
-        You don't need something that just raises price for no better product
+        You don't need something that just raises price for no better product...
+        maybe blacks really are the dumbest
         <br />
         <br />
         slut, if you want people to be sane, then stop holding them to
