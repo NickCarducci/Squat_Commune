@@ -4,6 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Religious inclusion? need to enforce the option to not deal in credit
+        for all merchant providers
+        <br />
+        <br />
         "funding needed to address pandemic" the only need is bad bets made, not
         debts owed. they are not owed. they are illegal and worth zero in a
         court of law
