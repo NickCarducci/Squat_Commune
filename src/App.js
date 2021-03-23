@@ -4,6 +4,11 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Census bureau/gallup need oversight by civil rights-oriented politicians
+        to not make so many assumptions of samples, especially not shuffled or
+        of at least half the population,
+        <br />
+        <br />
         Old people are incompetent or evil
         <br />
         <br />
