@@ -4,17 +4,22 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        <span
+        <a
+          href="https://www.ftc.gov/tips-advice/competition-guidance/guide-antitrust-laws/antitrust-laws"
           style={{
             fontFamily: '"Pacifico", sans-serif'
           }}
         >
           Monopsony
-        </span>{" "}
-        they understand the harm they are doing + lying about - price stability?
-        stupid... debt:cash is 4200% inflation you look at inflation in prices
+        </a>{" "}
+        they understand the harm they are doing + lying about -&nbsp;
+        <a href="https://vianickcarducci.medium.com/gdp-the-big-lie-b1a0868785f4">
+          price stability
+        </a>
+        ? stupid... debt:cash is 4200% inflation you look at inflation in prices
         year-to-year instead of inflation from counterfeit-in-contract
-        inelasticity
+        inelasticity... rental assistance to families prevents trade and
+        price-elasticity for the monopsony of assets/year-to-year profits
         <br />
         Who are they? J. Powell blames it on the&nbsp;
         <a href="https://foiegras.life">treasury</a>, treasury blames it on
