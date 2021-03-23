@@ -8,6 +8,10 @@ export default function App() {
         you fucking whore
         <br />
         <br />
+        More for businesses and accelerators [to take equity for the state
+        monopsony]
+        <br />
+        <br />
         <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
           <img
             style={{
