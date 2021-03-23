@@ -4,6 +4,17 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        The covid family has been around for decades. Can someone cite
+        controlled evidence that it is deadlier than previous years? Why is
+        population data still delayed 2 months? This is in the meat by your own
+        reporters, meaning it was distributed in us food networks conclusively.
+        I’m not going to be wearing a tie/noose to subjugate my points
+        <br />
+        <br />
+        American rescue plan is fraud you could void all obligations and allow
+        prices to fall instead of prohibit trade
+        <br />
+        <br />
         If you want to suffice healthcare needs without going broke, stop
         gorging prices with invoices, pooling cross-party risk and debt... you
         are just raising premiums (demand capacity, not supply). Leave this to
@@ -20,7 +31,7 @@ export default function App() {
             src="https://www.dl.dropboxusercontent.com/s/3vgelexc01gwjjb/ObamacareMonopsony.jpg?dl=0"
           />
         </div>
-        You don't need something that just raises price for no better product... wow, black people really are dumb
+        You don't need something that just raises price for no better product
         <br />
         <br />
         slut, if you want people to be sane, then stop holding them to
