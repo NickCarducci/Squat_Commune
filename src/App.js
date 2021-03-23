@@ -4,6 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Coverage is only a threat because of force by duress and priners' dilemma
+        <br />
+        <br />
     if you don't want people to lose everything if they are sick, you can ban invoices instead of split to suffice them you old fucking retard
     <br/>
     <br/>
