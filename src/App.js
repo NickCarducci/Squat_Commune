@@ -43,7 +43,7 @@ export default function App() {
         </div>{" "}
         <br />
         Banking is not a business, lending is allowed, but the contract is moot.
-        If it were to be real and respected as it is now
+        If it were to be real and respected as it is now all it does is
         <br />
         <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
           <img
@@ -56,8 +56,8 @@ export default function App() {
           />
         </div>{" "}
         <br />
-        all it does is raise price for the same utility by increaseing demand
-        curve instead of moving supply to the right or moving it flatter
+        raise price for the same utility by increaseing demand curve instead of
+        moving supply to the right or moving it flatter
         <br />
         <br />
         Republicans are attesting to my claim that government spending by tax or
