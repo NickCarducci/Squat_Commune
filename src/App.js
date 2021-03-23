@@ -4,6 +4,7 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Kilmeade: "$400trillion total slavery costs [or saved by mirrorcode]?"
         <div
           style={{
             width: "100%",
