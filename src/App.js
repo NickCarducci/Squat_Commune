@@ -15,7 +15,9 @@ export default function App() {
         dollar decreases" - against what dumbass? you know actually and are
         misleading. you know the debt doesn't matter in paying back, only
         price-inelasticity and bond-holders' bottom line they "withdrawal"
-        against. it has steadily increased since 1908 from 1:1 to 41:1
+        against. it has steadily increased since 1908 from&nbsp;
+        <a href="https://www.youtube.com/watch?v=oPK7ZF6jfJE">1:1</a>&nbsp;to
+        41:1
         <br />
         <br />
         "Pick your favorite mechanic to do the work, and carsheild [runs up the
