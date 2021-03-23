@@ -4,6 +4,21 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        slut, if you want people to be sane, then stop holding them to
+        impossible obligations 41 times what exists. I am going crazy just from
+        your ineptitude
+        <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Bill Foster"
+            src="https://www.dl.dropboxusercontent.com/s/qp6pyyj36gaqwt3/MentalHealth.jpg?dl=0"
+          />
+        </div>
+        <br />
+        <br />
         "Improve the ACA subsidies by increaseing their value" claims Schumer,
         old people are so incompetent, subsidies decrease the value by
         increasing price...
