@@ -4,6 +4,32 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        State plagerism of private citizen's inventions and theorums
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "100%", minWidth: "100px" }}>
+          <a href="https://vianickcarducci.medium.com/optimal-security-for-webapps-dd2a65c2418c">
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="Bill Foster"
+              src="https://www.dl.dropboxusercontent.com/s/xhuyl9vq801m8s4/FintechIDPlagerism.jpg?dl=0"
+            />
+          </a>
+        </div>
+        <br />
+        <br />
+        Interest rates rises to a max-profit royalty conract without debt
+        probably to similar rates
+        <br />
+        <br />
+        anonymous && hidden don't have to be at the same time. login.gov can
+        have card to login to encrypted intranet, Bill Foster. STOP IGNORING ME
+        AS ALWAYS TO EVERYONE's DETRIMENT
+        <br />
+        <br />
         Stop being racist with penalties, make the tort on an individual basis
         you fucking whore(access opportunity and equity TAKE THOSE NAMES OUT OF
         YOUR AD, you need to be in jail by ftc for that)
