@@ -4,6 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Saver Party is just as non-partisan as a judge
+        <br />
+        <br />
         I AM PART OF THE ISLE, 40% OF VOTERS (INDEPENDENTS) IN NJ ARE PART OF
         THE ISLE
         <br />
@@ -12,6 +15,7 @@ export default function App() {
         per capita, trade-volume per capita per basis, or ease-of-life] by
         banning fractional-reserves" - Jerome Powell, Bilenial session March
         24th, 2021
+        <br />
         <br />
         [In fact, along all metrics in the array does 1:1
         debt:equityutilitymoney increase them therein]
