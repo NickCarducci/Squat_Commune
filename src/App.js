@@ -4,6 +4,13 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "
+        <a href="https://www.google.com/search?q=denominator">
+          Increase, not decrease
+        </a>
+        "
+        <br />
+        <br />
         "so important the fed is independent of the citizenry it forced its use
         of" -everyone in the committee is corrupt
         <br />
