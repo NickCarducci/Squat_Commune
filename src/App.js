@@ -4,6 +4,31 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Unemployment (retirement?), price-stability (absolute?), and
+        price-stability of the financial system goals are not helped by
+        monopsoy. you enable crashes/cross-party-risk, inequality-from-non-work
+        and gorge-demand-capacity instead of ban rentier-colonialism/ "help keep
+        roof over their head" fraud for landlords (40+). direct payments,
+        "appropriate" - Powell, "helpful for suffering" -Yellen, spending it
+        will reduce will speed back the economy. banks buying back their stock
+        as treasury shares is accounting fraud. "financial institutions look
+        healthier" -Yellen
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Levin"
+            src="https://www.dl.dropboxusercontent.com/s/yi88ihc6g4035v8/AppropriateFraud.png?dl=0"
+          />
+        </div>{" "}
+        <br />
+        <br />
+        fraud, bail-out for bad bets, split dollar-share to do so without
+        consent. rape!
         <h1>
           A bad bet:&nbsp;
           <a href="https://www.carbonbrief.org/explainer-how-the-rise-and-fall-of-co2-levels-influenced-the-ice-ages">
@@ -553,6 +578,9 @@ export default function App() {
         defend, assets, skill (rights)
         <br />
         <br />
+        {/*(reason) jealousy, efficiency, impact-charity, charity
+        <br />
+        <br />*/}
         Commisioning of mental health assesments (you can sue certified
         physician monopsony-of-pharmaceutical members for libel) from owning a
         firearm should be barred for unless a threat is made, not an
