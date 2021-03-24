@@ -4,6 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Rudy: "Trump will be president when he puts his social platform up"
+        <br />
+        <br />
         I have been called schitzophenic and took bail, license to
         shoot-on-site, as is being an austrian-economist who understands the
         Quran calls debt haram and 9/11 is insurance fraud and Rudy Giuliani knows now
