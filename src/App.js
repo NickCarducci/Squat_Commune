@@ -4,9 +4,12 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        this cunt still wants to trade bonds - just allow smaller banks to
+        monopsonize communities... lending is not investment. now she is
+        complaining that banks got bailed out but acting oblivious to the
+        laundering through relief instead of adjunication she just supported
+        2020-21
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
-          this cunt still wants to trade bonds - just allow smaller banks to
-          monopsonize communities... lending is not investment
           <img
             style={{
               height: "auto",
