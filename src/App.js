@@ -4,7 +4,8 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        Vote bus must be without candidate-ad
+        Vote bus must be without candidate-ad; 2-2-1 at least assumes all 5
+        don't want to be Saver Party
         <br />
         <br />
         It is already illegal to discriminate based not on skill if employ or
