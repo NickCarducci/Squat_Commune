@@ -4,6 +4,43 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        This democratic douche passing honest ads act while allowing his
+        co-party-members to advertise gov residue-split as free. it is
+        laundering. you must adjunicate and stop being malfeasant and
+        prohibiting settled-trade. Russians have the right to share their
+        opinion, the problem is identification abilities for bots to be on
+        sites. implement login.gov api now for encrypted intranet for
+        non-convicts and a backdoor-intranet for convists
+        <br />
+        <br />
+        <div style={{ display: "flex" }}>
+          <div
+            style={{ position: "relative", width: "50%", minWidth: "100px" }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="honest ads: wertheimer"
+              src="https://www.dl.dropboxusercontent.com/s/u8x1p03lu20n4ej/Screen%20Shot%202021-03-24%20at%201.42.21%20PM.png?dl=0"
+            />
+          </div>
+          <div
+            style={{ position: "relative", width: "50%", minWidth: "100px" }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="honest ads: wertheimer"
+              src="https://www.dl.dropboxusercontent.com/s/ccbv5x2adplp177/Screen%20Shot%202021-03-24%20at%201.39.21%20PM.png?dl=0"
+            />
+          </div>
+        </div>
+        <br />
+        <br />
         "Delay funds to American families" It is residue of what you take from
         them, just have torts for the wealthiest and do not collect $200 for
         government & it is laundering to the producers and creditors. You cannot
