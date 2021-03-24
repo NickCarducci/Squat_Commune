@@ -22,8 +22,9 @@ export default function App() {
         Government monopsony of ideas AND assets/profits
         <br />
         <br />
-        "No disclosure for 501c4 but for SuperPAC? Literally wtf" - Senator King
-        & Mr. Potter
+        "No disclosure for 501c4 but for SuperPAC? Literally wtf. Need registrar
+        of internet, tv & radio ads not just newspaper tho..." - Senator King &
+        Mr. Potter
         <br />
         <br />
         Fact-checking is illegal to promulgate if it is only
