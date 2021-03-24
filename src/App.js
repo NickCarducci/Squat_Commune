@@ -4,7 +4,15 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        "618b critical relief to small businesses" - corrupt menendez<br/><br/>
+        "618b critical relief to small businesses" - corrupt menendez
+        <br />
+        <br />
+        "3/5 will not survive without assistance from the population." the
+        problem is finance/property-tax/rentier-colonialism retard customers can
+        wait. expunge back-rent instead of bail-out the bad bets for your
+        special interests
+        <br />
+        <br />
         fungibility of what? "we have thorny questions to work though: what does
         using money from this for tax-cuts"
         <br />
