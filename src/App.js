@@ -4,11 +4,35 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "Delay funds to American families" It is residue of what you take from
+        them, just have torts for the wealthiest and do not collect $200 for
+        government & it is laundering to the producers and creditors. You cannot
+        be that stupid, you must be a special interest fronting as a voter
+        education platform to really deceive people about equity and
+        efficiency/competitive/earnings for work harm to labor
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Levin"
+            src="https://www.dl.dropboxusercontent.com/s/0gsyc4vz3ppty8s/Screen%20Shot%202021-03-24%20at%201.36.18%20PM.png?dl=0"
+          />
+        </div>
+        <br />
+        <br />
         Delusion prone: debt is not matter (cancer for the cure; equity is,
         because that is Intellectual Property), does it matter? not as much as
         the equityutilitymoney it wages and the rights of the actual owner
-        therein (ignoring bad economic-efficiency/fairness/ease-of-living stuff,
-        unless for tort repartations)
+        therein (ignoring bad
+        economic-efficiency/fairness/ease-of-living/demand-gorging-
+        <a href="https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/volume-on-the-bid-and-ask-bavol/">
+          ask
+        </a>
+        &nbsp;stuff, unless for tort repartations)
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
           <img
             style={{
