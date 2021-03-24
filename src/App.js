@@ -4,6 +4,11 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        PEW 76% of Americans (of a sample... of who can answer the phone...), 50
+        years age is obviously not a factor or is assumed that pollsters speak
+        truths only when possible. Government and people are being conflated
+        <br />
+        <br />
         Vote bus must be without candidate-ad; 2-2-1 at least assumes all 5
         don't want to be Saver Party
         <br />
