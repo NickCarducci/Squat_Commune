@@ -5,7 +5,7 @@ export default function App() {
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
         'there is no "negative impact to the economy [trade-volume, trade-volume
-        per capita, or ease-of-life] by banning fractional-reserves]" - Jerome
+        per capita, or ease-of-life] by banning fractional-reserves" - Jerome
         Powell, Bilenial session March 24th, 2021
         <br />
         [In fact, along all metrics in the array does 1:1
