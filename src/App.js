@@ -4,6 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Rich people that aren't in finance/insurance/rent/invoice/credit earned
+        it
+        <br />
+        <br />
         PEW 76% of Americans (of a sample... of who can answer the phone...), 50
         years age is obviously not a factor or is assumed that pollsters speak
         truths only when possible. Government and people are being conflated,
