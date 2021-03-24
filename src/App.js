@@ -12,8 +12,8 @@ export default function App() {
         even throw an error if the same person comes up or do you just count
         it?), there was election fraud by lying about finished elections on
         election day at 61% counted in NJ. Those are justification to insurrect
-        blind and apathetic certification... Voter ID adds not "confidence" in the
-        process but identification check at issuance or in-person
+        blind and apathetic certification... Voter ID adds not "confidence" in
+        the process but identification check at issuance or in-person
         <br />
         <br />
         Saver Party is just as
@@ -70,10 +70,10 @@ export default function App() {
         <br />
         <br />
         want to focus on certain hospitality industry, not artists/nick carducci
-        who has saved up to bootstrap inventions. go to hell bitch. to boot
-        business keep assts/profit not labor, and it ruins price-negotiations
-        and prohibits foreclosure or class-action suit against creditors
-        (prohibiting-trade)
+        (non-governmental organization, non-profit) who has saved up to
+        bootstrap inventions. go to hell bitch. to boot business keep
+        assts/profit not labor, and it ruins price-negotiations and prohibits
+        foreclosure or class-action suit against creditors (prohibiting-trade)
         <br />
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
           <img
