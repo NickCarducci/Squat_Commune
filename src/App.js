@@ -4,6 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        I AM PART OF THE ISLE, 40% OF VOTERS (INDEPENDENTS) IN NJ ARE PART OF
+        THE ISLE
+        <br />
+        <br />
         'there is no "negative impact to the economy [trade-volume, trade-volume
         per capita, trade-volume per capita per basis, or ease-of-life] by
         banning fractional-reserves" - Jerome Powell, Bilenial session March
