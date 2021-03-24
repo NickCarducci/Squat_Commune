@@ -6,10 +6,10 @@ export default function App() {
       <div style={{ position: "relative", maxWidth: "600px" }}>
         this cunt still wants to trade bonds - just allow smaller banks to
         monopsonize communities... lending is not investment. now she is
-        complaining that banks got bailed out but acting oblivious to the
-        laundering through relief instead of adjunication she just supported
-        2020-21... "aid"/residue-split to small business and nonprofits (no only
-        501c3 owned by gov)
+        complaining that banks got bailed out but acting oblivious to the same
+        ends of the laundering through relief instead of adjunication she just
+        supported 2020-21... "aid"/residue-split to small business and
+        nonprofits (no only 501c3 owned by gov)
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
           <img
             style={{
