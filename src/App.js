@@ -4,6 +4,19 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Delusion prone
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Levin"
+            src="https://www.dl.dropboxusercontent.com/s/8vpd37ngiz0q0xf/DelusionProne.png?dl=0"
+          />
+        </div>
+        <br />
+        <br />
         One man's voter supression is another's sample bias by campaign funding.
         Georgia 501c4 claiming they are voter education 501c3 (there can be
         voter fraud easily by signature, there doesn't need to be a mistake to
