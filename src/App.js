@@ -12,7 +12,8 @@ export default function App() {
         even throw an error if the same person comes up or do you just count
         it?), there was election fraud by lying about finished elections on
         election day at 61% counted in NJ. Those are justification to insurrect
-        blind and apathetic certification
+        blind and apathetic certification... Voter ID adds not "confidence" in the
+        process but identification check at issuance or in-person
         <br />
         <br />
         Saver Party is just as
