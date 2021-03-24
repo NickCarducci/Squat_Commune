@@ -4,6 +4,20 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          this cunt still wants to trade bonds - just allow smaller banks to
+          monopsonize communities
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Levin"
+            src="https://www.dl.dropboxusercontent.com/s/rtl5u4j3ir35l4g/WeAllWantToTradeBonds.png?dl=0"
+          />
+        </div>
+        <br />
+        <br />
         Money for landlords, racist priorities
         <br />
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
@@ -24,7 +38,8 @@ export default function App() {
         "3/5 will not survive without assistance from the population." the
         problem is finance/property-tax/rentier-colonialism retard customers can
         wait. expunge back-rent instead of bail-out the bad bets for your
-        special interests
+        special interests. work for work's sake as claimed, but I think it is to
+        pay off bad bets and steal
         <br />
         <br />
         fungibility of what? "we have thorny questions to work though: what does
@@ -83,6 +98,21 @@ export default function App() {
         <br />
         "Fiscal space" is fraud, I am not economist because I am suing you and
         JHU is corrrupt
+        <br />
+        <br />
+        Work for thee but not for me
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Levin"
+            src="https://www.dl.dropboxusercontent.com/s/pggb6id6zbc2tm1/WorkForThee.png?dl=0"
+          />
+        </div>{" "}
         <br />
         <br />
         "We all want people to get back to work and the rescue plan has doen a
