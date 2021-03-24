@@ -180,7 +180,7 @@ export default function App() {
         <br />
         <br />
         I AM PART OF THE ISLE, 40% OF VOTERS (INDEPENDENTS) IN NJ ARE PART OF
-        THE ISLE
+        THE ISLE. the isle only happens per case or binary affinity study
         <br />
         <br />
         'there is no "negative impact to the economy [trade-volume, trade-volume
