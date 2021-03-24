@@ -4,6 +4,22 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "so important the fed is independent of the citizenry it forced its use
+        of" -everyone in the committee is corrupt
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Levin"
+            src="https://www.dl.dropboxusercontent.com/s/lnqac0yyuzh5fhw/FedIndependence.png?dl=0"
+          />
+        </div>
+        <br />
+        <br />
         "mask-wearing, social-distanceing will allow us to open again," are we
         going to wait until their are no more virus' Jerome Powell?
         <br />
@@ -13,7 +29,10 @@ export default function App() {
         <br />
         <br />
         want to focus on certain hospitality industry, not artists/nick carducci
-        who has saved up to bootstrap inventions. go to hell bitch
+        who has saved up to bootstrap inventions. go to hell bitch. to boot
+        business keep assts/profit not labor, and it ruins price-negotiations
+        and prohibits foreclosure or class-action suit against creditors
+        (prohibiting-trade)
         <br />
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
           <img
