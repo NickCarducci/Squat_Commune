@@ -4,6 +4,20 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "anyone who lives with family we know has mental issues"
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="newsmax presents new $3t bill with a smile Mar2021"
+            src="https://www.dl.dropboxusercontent.com/s/in44lqbdxoqnrq2/LivesWithFamily.png?dl=0"
+          />
+        </div>
+        <br />
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
           <img
             style={{
