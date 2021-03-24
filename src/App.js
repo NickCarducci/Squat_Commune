@@ -4,6 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Yellen thinks corporate taxes will not be elastic for corporate
+        expansion purposes, only investor ideas to value last trade. wtf?
+        <br />
+        <br />
         this cunt still wants to trade bonds - just allow smaller banks to
         monopsonize communities... lending is not investment. now she is
         complaining that banks got bailed out but acting oblivious to the same
