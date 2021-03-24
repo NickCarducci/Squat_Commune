@@ -395,6 +395,15 @@ export default function App() {
         that is not depositary
         <br />
         <br />
+        <h1
+          style={{
+            fontFamily: '"Pacifico", sans-serif'
+          }}
+        >
+          getting it from all sides
+        </h1>
+        <br />
+        <br />
         Unemployment (retirement?), price-stability (absolute?), and
         price-stability of the financial system goals are not helped by
         monopsoy. you enable crashes/cross-party-risk, inequality-from-non-work
@@ -403,7 +412,11 @@ export default function App() {
         "appropriate" - Powell, "helpful for suffering" -Yellen, spending it
         will reduce will speed back the economy. banks buying back their stock
         as treasury shares is accounting fraud. "financial institutions look
-        healthier" -Yellen
+        healthier" -Yellen... It is a lie to say you "
+        <a href="https://www.americanfinancing.net/">
+          pay significantly less for your mortgage by paying less up front
+        </a>
+        " - Mark Levin
         <br />
         <br />
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
