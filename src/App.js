@@ -6,12 +6,11 @@ export default function App() {
       <div style={{ position: "relative", maxWidth: "600px" }}>
         Rudy: "Trump will be president when he puts his social platform up"
         <br />
-        <br />
-        I have been called schitzophenic and took bail, license to
+        <br />I have been called schitzophenic and took bail, license to
         shoot-on-site, as is being an austrian-economist who understands the
         Quran calls debt haram and 9/11 is insurance fraud and Rudy Giuliani
         knows now. on the radio show he tells us to kiss the ground when we wake
-        up
+        up{/**and wear tie/noose */}
         <br />
         <br />
         "All my money is in pain-killers"
@@ -515,7 +514,10 @@ export default function App() {
           />
         </div>
         You don't need something that just raises price for no better product...
-        maybe blacks really are the dumbest
+        maybe blacks really are the dumbest (tbh, I think Bio is not descriptive
+        of what we should say afro/euro/asian/tarded, housing monopsony and
+        education-closed-source is for any sample study or empirical count in a
+        time-frame)
         <br />
         <br />
         slut, if you want people to be sane, then stop holding them to
