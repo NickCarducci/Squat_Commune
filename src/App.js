@@ -4,6 +4,11 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        I have been called schitzophenic and took bail, license to
+        shoot-on-site, as is being an austrian-economist who understands the
+        Quran calls debt haram and 9/11 is insurance fraud and Rudy Giuliani knows now
+        <br />
+        <br />
         "All my money is in pain-killers"
         <br />
         <br />
