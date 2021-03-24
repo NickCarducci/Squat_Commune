@@ -4,6 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "All my money is in pain-killers"
+        <br />
+        <br />
         Rich people that aren't in, or booned from in part by,
         finance/insurance/rent/invoice/credit earned it... what I want you to
         take from this is my sweaty balls. Saver Party is not a political party
