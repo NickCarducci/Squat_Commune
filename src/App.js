@@ -4,7 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        "No disclosure for 501c4 but for SuperPAC? Literally wtf" - Sentator King
+        Government monopsony of ideas AND assets/profits
+        <br />
+        <br />
+        "No disclosure for 501c4 but for SuperPAC? Literally wtf" - Senator King
         <br />
         <br />
         Fact-checking is illegal to promulgate if it is only
@@ -1135,4 +1138,3 @@ export default function App() {
     </div>
   );
 }
-
