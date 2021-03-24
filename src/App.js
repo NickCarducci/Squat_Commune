@@ -14,7 +14,11 @@ export default function App() {
             src="https://www.dl.dropboxusercontent.com/s/fh512zt7y0a1bk6/NoMercy.jpg?dl=0"
           />
         </div>
-        No mercy abound
+        No&nbsp;
+        <a href="https://open.spotify.com/track/4mR98gi1hEEMR4X8Yo4B7M?si=134YTMpGR4SQZcWLbbndSA">
+          mercy
+        </a>
+        &nbsp;abound
         <br />
         YOU NOT STUPID THEN YOU'RE GUILTY (bang up job! In tricking consumers);
         (1) there'sn't collateral on personal loans, (2) they know I have no
