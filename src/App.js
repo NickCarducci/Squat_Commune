@@ -6,7 +6,7 @@ export default function App() {
       <div style={{ position: "relative", maxWidth: "600px" }}>
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
           this cunt still wants to trade bonds - just allow smaller banks to
-          monopsonize communities
+          monopsonize communities... lending is not investment
           <img
             style={{
               height: "auto",
