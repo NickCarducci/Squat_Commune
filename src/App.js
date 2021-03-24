@@ -16,8 +16,8 @@ export default function App() {
         <br />
         <br />
         Saver Party is just as
-        non-partisan/non-political/non-force/non-net-defense/non-exclusionary as
-        a judge. government bonds are not people it is a cudgel, a scourge on
+        non-partisan/non-political/non-force/non-net-aggression/non-exclusionary
+        as a judge. government bonds are not people it is a cudgel, a scourge on
         them. start counting prosperity after removing red ink
         <br />
         <br />
