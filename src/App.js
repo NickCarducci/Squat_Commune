@@ -4,7 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        Saver Party is just as non-partisan as a judge
+        Saver Party is just as
+        non-partisan/non-political/non-force/non-net-defense/non-exclusionary as
+        a judge
         <br />
         <br />
         I AM PART OF THE ISLE, 40% OF VOTERS (INDEPENDENTS) IN NJ ARE PART OF
