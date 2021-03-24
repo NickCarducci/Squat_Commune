@@ -4,9 +4,16 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Fact-checking is illegal to promulgate if it is only
+        correlative/empirical instead of wholly-logistical
+        <br />
+        <br />
         This democratic douche passing honest ads act while allowing his
-        co-party-members to advertise gov residue-split as free. it is
-        laundering. you must adjunicate and stop being malfeasant and
+        co-party-members to advertise gov residue-split as&nbsp;
+        <a href="https://www.researchgate.net/publication/344197041_FEC_government_spending_as_advertised_in_political_campaigns_as_free_to_even_the_beneficiary_when_actually_it_is_misleading_towards_indentured_servitude_heightened_cost_capacity_requires_dollar-split">
+          free
+        </a>
+        . it is laundering. you must adjunicate and stop being malfeasant and
         prohibiting settled-trade. Russians have the right to share their
         opinion, the problem is identification abilities for bots to be on
         sites. implement login.gov api now for encrypted intranet for
@@ -46,7 +53,7 @@ export default function App() {
         government & it is laundering to the producers and creditors. You cannot
         be that stupid, you must be a special interest fronting as a voter
         education platform to really deceive people about equity and
-        efficiency/competitive/earnings for work harm to labor
+        efficiency/competitive/earnings-for-work harm to labor{/**monopsony */}
         <br />
         <br />
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
