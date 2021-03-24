@@ -4,6 +4,33 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "Fiscal space" is fraud, I am not economist because I am suing you and
+        JHU is corrrupt
+        <br />
+        <br />
+        "We all want people to get back to work and the rescue plan has doen a
+        great deal"
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Levin"
+            src="https://www.dl.dropboxusercontent.com/s/023903d4sqr3kb8/DemandCapacity.png?dl=0"
+          />
+        </div>{" "}
+        you're damn right it has if you remove the word and, work without
+        consent by consumer willingness & ability in their individual propensity
+        without cross-party risk tranche of valuation or pooling for variable
+        gift cards and counterfeit-in-contract invoices... not giving it as ubi
+        and instead to non-artists/pre-rev entrepreneurs is not equitable.
+        Yellen projects her willingness to find more equitable solutions. YOU
+        HAVE BEEN DOING THIS YOUR ENTIRE LIFE YOU TINY IDIOT
+        <br />
+        <br />
         SDR is not debt, credit or fractional certificate of secured-assets,
         that is not depositary
         <br />
