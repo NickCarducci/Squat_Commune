@@ -444,7 +444,13 @@ export default function App() {
         <a href="https://www.americanfinancing.net/">
           pay significantly less for your mortgage by paying less up front
         </a>
-        " - Mark Levin
+        " - Mark Levin. I am trying to tell you an bill o'reilly man, it is you
+        who are bankrupting yourself, it is your money you are losing, you
+        cannot expect bonds to win more than is possible or the dollars to be
+        paid especially without picking up the pace of
+        printing/splitting-reserve-certificates-of-the-dollar (which is illegal
+        "not good economically" per Jerome Powell himself) and the cessation of
+        further debt
         <br />
         <br />
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
