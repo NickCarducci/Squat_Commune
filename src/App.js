@@ -5,7 +5,8 @@ export default function App() {
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
         Fact-checking is illegal to promulgate if it is only
-        correlative/empirical instead of wholly-logistical
+        correlative/empirical instead of wholly-logistical (polls are not
+        descriptive, especially if not shuffled)
         <br />
         <br />
         This democratic douche passing honest ads act while allowing his
@@ -17,7 +18,7 @@ export default function App() {
         prohibiting settled-trade. Russians have the right to share their
         opinion, the problem is identification abilities for bots to be on
         sites. implement login.gov api now for encrypted intranet for
-        non-convicts and a backdoor-intranet for convists
+        non-convicts and a backdoor-intranet for convicts
         <br />
         <br />
         <div style={{ display: "flex" }}>
@@ -1131,3 +1132,4 @@ export default function App() {
     </div>
   );
 }
+
