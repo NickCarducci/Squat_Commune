@@ -5,7 +5,14 @@ export default function App() {
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
         One man's voter supression is another's sample bias by campaign funding.
-        Georgia 501c4 claiming they are voter education 501c3
+        Georgia 501c4 claiming they are voter education 501c3 (there can be
+        voter fraud easily by signature, there doesn't need to be a mistake to
+        prevent it especially when it probably already happened without the (1)
+        ability to check signatures because signatures are useless - (2) do you
+        even throw an error if the same person comes up or do you just count
+        it?), there was election fraud by lying about finished elections on
+        election day at 61% counted in NJ. Those are justification to insurrect
+        blind and apathetic certification
         <br />
         <br />
         Saver Party is just as
