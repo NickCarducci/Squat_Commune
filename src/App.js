@@ -4,6 +4,20 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Money for landlords, racist priorities
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Levin"
+            src="https://www.dl.dropboxusercontent.com/s/hok5nvqp49u6o9d/MoneyForLandlords.png?dl=0"
+          />
+        </div>
+        <br />
+        <br />
         "618b critical relief to small businesses" - corrupt menendez
         <br />
         <br />
