@@ -4,6 +4,12 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        interest to debt is not a metric to follow, we/labor aren't going to
+        switch places with lenders 41 times. 2% "assets" are assets. 2% of
+        income is financial sector. Top 2% income earners work in financial
+        sector. We were forced under the gun to use your coin FOR A CENTURY
+        <br />
+        <br />
         "Fiscal space" is fraud, I am not economist because I am suing you and
         JHU is corrrupt
         <br />
