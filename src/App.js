@@ -4,7 +4,8 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        SDR is not debt, that is not depositary
+        SDR is not debt, credit or fractional certificate of secured-assets,
+        that is not depositary
         <br />
         <br />
         Unemployment (retirement?), price-stability (absolute?), and
