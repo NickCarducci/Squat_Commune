@@ -4,8 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        YOU NOT STUPID THEN YOU'RE GUILTY (bang up job!). there is no collateral
-        on personal loans
+        YOU NOT STUPID THEN YOU'RE GUILTY (bang up job! In tricking consumers).
+        there is no collateral on personal loans, They know I have no right to
+        this money && everyone else was doing it
         <br />
         <br />
         Rudy: "Trump will be president when he puts his social platform up"
