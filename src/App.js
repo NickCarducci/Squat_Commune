@@ -4,9 +4,21 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        YOU NOT STUPID THEN YOU'RE GUILTY (bang up job! In tricking consumers).
-        there is no collateral on personal loans, They know I have no right to
-        this money && everyone else was doing it
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="newsmax presents new $3t bill with a smile Mar2021"
+            src="https://www.dl.dropboxusercontent.com/s/fh512zt7y0a1bk6/NoMercy.jpg?dl=0"
+          />
+        </div>
+        No mercy abound
+        <br />
+        YOU NOT STUPID THEN YOU'RE GUILTY (bang up job! In tricking consumers);
+        (1) there'sn't collateral on personal loans, (2) they know I have no
+        right to this money & (3) everyone else was doing it
         <br />
         <br />
         Rudy: "Trump will be president when he puts his social platform up"
