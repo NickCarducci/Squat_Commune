@@ -6,7 +6,8 @@ export default function App() {
       <div style={{ position: "relative", maxWidth: "600px" }}>
         Saver Party is just as
         non-partisan/non-political/non-force/non-net-defense/non-exclusionary as
-        a judge
+        a judge. government bonds are not people it is a cudgel, a scourge on
+        them. start counting prosperity after removing red ink
         <br />
         <br />
         I AM PART OF THE ISLE, 40% OF VOTERS (INDEPENDENTS) IN NJ ARE PART OF
