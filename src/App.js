@@ -4,7 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        "
+        "we are doing the best we can" - Yellen
+        <br />
+        <br />"
         <a href="https://www.google.com/search?q=denominator">
           Increase, not decrease
         </a>
