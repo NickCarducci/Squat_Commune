@@ -4,6 +4,7 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "618b critical relief to small businesses" - corrupt menendez<br/><br/>
         fungibility of what? "we have thorny questions to work though: what does
         using money from this for tax-cuts"
         <br />
