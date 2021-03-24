@@ -4,10 +4,17 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        It is already illegal to discriminate based not on skill if employ or
+        funds to which they have a right to promise or use, for it is
+        free-riding on the static societal contributions the exclusionary
+        defendant would skate across
+        <br />
+        <br />
         Government monopsony of ideas AND assets/profits
         <br />
         <br />
         "No disclosure for 501c4 but for SuperPAC? Literally wtf" - Senator King
+        & Mr. Potter
         <br />
         <br />
         Fact-checking is illegal to promulgate if it is only
