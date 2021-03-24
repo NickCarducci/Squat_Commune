@@ -14,7 +14,9 @@ export default function App() {
         years age is obviously not a factor or is assumed that pollsters speak
         truths only when possible. Government and people are being conflated,
         people are being conflated with individuals (even if thumbprint was made
-        for one-nation alone, you cannot void copyright)
+        for one-nation alone, you cannot void copyright; it is encompassing but
+        my goal is to keep it fit and not sell-out to someone who would not
+        operate for government or profit)
         <br />
         <br />
         Vote bus must be without candidate-ad; 2-2-1 at least assumes all 5
