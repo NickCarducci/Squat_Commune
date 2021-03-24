@@ -4,6 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        One man's voter supression is another's sample bias by campaign funding.
+        Georgia 501c4 claiming they are voter education 501c3
+        <br />
+        <br />
         Saver Party is just as
         non-partisan/non-political/non-force/non-net-defense/non-exclusionary as
         a judge. government bonds are not people it is a cudgel, a scourge on
