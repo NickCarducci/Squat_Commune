@@ -4,6 +4,15 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        The steepening of the yield curve is because "vaccination" and growth,
+        says Powell. Growth is a measure of population, money, and debt, not
+        trade and certainly not health or ease-of-life. That depends on
+        individual-efficiency and comparative advantage. I should take Jerome
+        Powell's place. Trade is (v2 - (GDP/m2-currencyComponentOfM1)) *
+        currencyComponentOfM1, health and ease-of-life is
+        hoursworked/housing-price:median-wage
+        <br />
+        <br />
         interest to debt is not a metric to follow, we/labor aren't going to
         switch places with lenders 41 times. 2% "assets" are assets. 2% of
         income is financial sector. Top 2% income earners work in financial
