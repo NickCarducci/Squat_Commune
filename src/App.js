@@ -4,6 +4,29 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "mask-wearing, social-distanceing will allow us to open again," are we
+        going to wait until their are no more virus' Jerome Powell?
+        <br />
+        <br />
+        Literally so glad you stole for us, because of the virus (that doesn't
+        make sense)
+        <br />
+        <br />
+        want to focus on certain hospitality industry, not artists/nick carducci
+        who has saved up to bootstrap inventions. go to hell bitch
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Levin"
+            src="https://www.dl.dropboxusercontent.com/s/xjgd12k1k0fneoq/LiterallyGlad.png?dl=0"
+          />
+        </div>{" "}
+        <br />
+        <br />
         "sdr" by Yellen wants to imerialize foreign countries, "interest earned
         is a wash with what we pay to the top 2%" efficiency is not greed but
         fairness, good incentive and good rapport.
@@ -963,4 +986,3 @@ export default function App() {
     </div>
   );
 }
-
