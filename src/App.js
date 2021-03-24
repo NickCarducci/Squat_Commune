@@ -4,7 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        Delusion prone: debt is not matter (cancer for the cure)
+        Delusion prone: debt is not matter (cancer for the cure), does it
+        matter? not as much as the equityutilitymoney it wages and the rights of
+        the actual owner therein (ignoring bad economic stuff)
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
           <img
             style={{
