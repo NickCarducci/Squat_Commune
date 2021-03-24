@@ -4,7 +4,7 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        Delusion prone: debt is not matter
+        Delusion prone: debt is not matter (cancer for the cure)
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
           <img
             style={{
