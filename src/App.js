@@ -4,6 +4,33 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        fungibility of what? "we have thorny questions to work though: what does
+        using money from this for tax-cuts"
+        <br />
+        <br />
+        "money responsibily and with congress' direction" pay off 41x what is
+        possible insteat of adjunicating now, stop prohibiting-trade
+        price-fixing and monopsony. More money doesn't increase productivity,
+        people do. money just raises price. money is market-share on a
+        cash-basis and equity on an accrual-basis
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Levin"
+            src="https://www.dl.dropboxusercontent.com/s/7ua6iw6bfp2i570/Greed.png?dl=0"
+          />
+        </div>
+        <br />
+        <br />
+        Monetary inflation (cpi) minus housing is 102%, financial inflation is
+        4200% (debt:cash).
+        <br />
+        <br />
         The steepening of the yield curve is because "vaccination" and growth,
         says Powell. Growth is a measure of population, money, and debt, not
         trade and certainly not health or ease-of-life. That depends on
@@ -11,6 +38,18 @@ export default function App() {
         Powell's place. Trade is (v2 - (GDP/m2-currencyComponentOfM1)) *
         currencyComponentOfM1, health and ease-of-life is
         hoursworked/housing-price:median-wage
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Levin"
+            src="https://www.dl.dropboxusercontent.com/s/b5e7eybz9kr24cq/VaccineMoney.png?dl=0"
+          />
+        </div>{" "}
         <br />
         <br />
         interest to debt is not a metric to follow, we/labor aren't going to
