@@ -4,6 +4,11 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "sdr" by Yellen wants to imerialize foreign countries, "interest earned
+        is a wash with what we pay to the top 2%" efficiency is not greed but
+        fairness, good incentive and good rapport.
+        <br />
+        <br />
         Yellen thinks corporate taxes will not be elastic for corporate
         expansion purposes, only investor ideas to value last trade. wtf?
         <br />
@@ -958,3 +963,4 @@ export default function App() {
     </div>
   );
 }
+
