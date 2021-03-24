@@ -7,7 +7,8 @@ export default function App() {
         Delusion prone: debt is not matter (cancer for the cure; equity is,
         because that is Intellectual Property), does it matter? not as much as
         the equityutilitymoney it wages and the rights of the actual owner
-        therein (ignoring bad economic stuff)
+        therein (ignoring bad economic-efficiency/fairness/ease-of-living stuff,
+        unless for tort repartations)
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
           <img
             style={{
