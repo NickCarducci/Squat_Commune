@@ -4,6 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        SDR is not debt, that is not depositary
+        <br />
+        <br />
         Unemployment (retirement?), price-stability (absolute?), and
         price-stability of the financial system goals are not helped by
         monopsoy. you enable crashes/cross-party-risk, inequality-from-non-work
