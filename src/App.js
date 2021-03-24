@@ -179,12 +179,26 @@ export default function App() {
         Georgia 501c4 claiming they are voter education 501c3 (there can be
         voter fraud easily by signature, there doesn't need to be a mistake to
         prevent it especially when it probably already happened without the (1)
-        ability to check signatures because signatures are useless - (2) do you
-        even throw an error if the same person comes up or do you just count
-        it?), there was election fraud by lying about finished elections on
-        election day at 61% counted in NJ. Those are justification to insurrect
-        blind and apathetic certification... Voter ID adds not "confidence" in
-        the process but identification check at issuance or in-person
+        ability to check signatures because signatures are useless
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="Ossoff"
+            src="https://www.dl.dropboxusercontent.com/s/wstja3t84wwl7to/OsmosisJones.png?dl=0"
+          />
+        </div>
+        <br />
+        (2) do you even throw an error if the same person comes up or do you
+        just count it?), there was election fraud by lying about finished
+        elections on election day at 61% counted in NJ. Those are justification
+        to insurrect blind and apathetic certification... Voter ID adds not
+        "confidence" in the process but identification check at issuance or
+        in-person
         <br />
         <br />
         Saver Party is just as
