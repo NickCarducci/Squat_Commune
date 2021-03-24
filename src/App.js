@@ -4,6 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Vote bus must be without candidate-ad
+        <br />
+        <br />
         It is already illegal to discriminate based not on skill if employ or
         funds to which they have a right to promise or use, for it is
         free-riding on the static societal contributions the exclusionary
