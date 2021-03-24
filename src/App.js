@@ -9,7 +9,9 @@ export default function App() {
         <br />
         I have been called schitzophenic and took bail, license to
         shoot-on-site, as is being an austrian-economist who understands the
-        Quran calls debt haram and 9/11 is insurance fraud and Rudy Giuliani knows now
+        Quran calls debt haram and 9/11 is insurance fraud and Rudy Giuliani
+        knows now. on the radio show he tells us to kiss the ground when we wake
+        up
         <br />
         <br />
         "All my money is in pain-killers"
