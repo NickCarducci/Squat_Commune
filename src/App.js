@@ -4,6 +4,39 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        In economics, the same world is attained except for
+        comparative-advantage and the state of the world &nbsp;
+        <span style={{ color: "rgb(80,80,80)" }}>
+          so pay in dollars does not neccesarily mean for dollars, it means for
+          assets... which are zero-sum (except for the assets gained beyond
+          exchanging-mutual-benefits in comparative-advantage)
+        </span>
+        <div
+          style={{
+            display: "flex",
+            width: "80%",
+            justifyContent: "space-around"
+          }}
+        >
+          <div
+            style={{
+              width: "30%",
+              position: "relative",
+              backgroundColor: "rgba(20,20,50,.7)",
+              color: "rgb(255,244,244)"
+            }}
+          >
+            <div style={{ borderBottom: "1px solid" }}>Bond-spending</div>
+            Pay in bond-value, price & monopsony
+          </div>
+          <div style={{ width: "30%", position: "relative" }}>
+            <div style={{ borderBottom: "1px solid" }}>Taxes</div>
+            Free-rider-mutable or non-reparations/-tortsUBI(classAction), pays
+            for things in price, amount-attinable and quality.
+          </div>
+        </div>
+        <br />
+        <br />
         We have to respect shareholders, if we don’t life is harder (incentive,
         productive-earnings: individual-efficiency benefit/cost
         <br />
