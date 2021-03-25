@@ -7,6 +7,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        If you are a platform without written but edited content, then I can use
+        your copyright for the uncovered use case
+        <br />
+        <br />
         Dorsey: "Anything in the integrity of elections goes uncontested," while
         you allowed AP to call the election unshuffled in NJ...
         <br />
