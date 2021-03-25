@@ -5,6 +5,22 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Disrupt your work in certifying the election? Warning about harm and
+        giving legal advice that duress is force and exclusion is free-riding?
+        Why did Dominion hesitate in allowing audits? I have been working since
+        2014 on having consensus and they fucking require a court order after
+        the Associated Press and Google MISINFORM that an UNSHUFFLED election on
+        ELECTION DAY is "CALLED" at 61% reported est. midday for NJ. Stop
+        assimilating the group with members, having an authorized encrypted
+        intranet with login.gov api is all we need. I was the first to say phone
+        number login is more secure in managing criminals - but that retard
+        dorsey shuts down critics in a network he serves on the net, like the
+        Apple store is a market in a market and internet is a network, these
+        items are margin-targetable as a matter of trust-immutable monopoly or
+        monopsony. Labels are required for confirmations, no errors can be laid
+        without logistical proof, not correlative and assumptive
+        <br />
+        <br />
         currency/person, same as trueGDP/person,
         <br />
         as well as (newDebt-trade)/person (damage)
