@@ -7,6 +7,23 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        We cannot accept what you say without logistical, controlled proof. I
+        will not follow any law or agency to prioritize ideas without a cease
+        and desist letter from a judge, who would need inherent truth/no
+        reasonable doubt
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="newsmax presents new $3t bill with a smile Mar2021"
+            src="https://www.dl.dropboxusercontent.com/s/2bwbg2su5w0th0n/WarningWithoutDesist.jpg?dl=0"
+          />
+        </div>
+        <br />
         Quality is just as important as price, if there is a monopsony,
         microeconomics says you can step in to target-margin of what goes beyond
         mvp. I call this, "design first"
