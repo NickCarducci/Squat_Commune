@@ -7,6 +7,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "investors make startups, lending is not investment" - Larry Kudlow
+        <br/>
+        <br/>
         Catsimitidis and Schumer lying on their own radio station wabc that NYC
         was saved by the bail out rather than default on the creditors, and that
         the vaccine saved millions of lives. that is not an explicit truth, I
