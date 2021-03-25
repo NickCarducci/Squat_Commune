@@ -7,29 +7,48 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Dorsey: "Anything in the integrity of elections goes uncontested," while
+        you allowed AP to call the election unshuffled in NJ...
+        <br />
+        <br />
         You don't need help you are malfeasant in having login.gov api with
         govID and violent convict tag...
         <br />
         <br />
-        How can we trust what you put into the shots; a mosquito is viral when suckin' - I contend virus' seep into pores mostly. you aren't even holding
-        the NIH accountable but admitting guilt by pulling out of Wuhan covid
-        experiement funding...
+        <div style={{ position: "relative", width: "10%", minWidth: "10px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="newsmax presents new $3t bill with a smile Mar2021"
+            src="https://www.dl.dropboxusercontent.com/s/bm2w0p4x0ghmwud/LoginGovMalfeasance.jpg?dl=0"
+          />
+        </div>
+        <br />
+        <br />
+        How can we trust what you put into the shots; a mosquito is viral when
+        suckin' - I contend virus' seep into pores mostly. you aren't even
+        holding the NIH accountable but admitting guilt by pulling out of Wuhan
+        covid experiement funding...
         <br />
         <br />
         "Take the bias out"
         <br />
         <br />
-        Imagine if I went to court that day and they were like, "get outta here!" then I drive 3hrs back
+        Imagine if I went to court that day and they were like, "get outta
+        here!" then I drive 3hrs back
         <br />
         <br />
-        "The SEC was formed to make sure the private companies didn't have to defend against it"
+        "The SEC was formed to make sure the private companies didn't have to
+        defend against it"
         <br />
         <br />
         BIDEN: "3X AS MANY BRIDGES BEING BUILT IN CHINA THAN THE UNITED STATES.
         productivity and jobs! THE ROADS THAT WERE ABOVE THE DRAIN, NOW IT HAS
         TO BE 3FT HIGHER"
-        <br/>
-        <br/>
+        <br />
+        <br />
         it is faster to steal, yes
         <br />
         <br />
