@@ -13,6 +13,17 @@ export default function App() {
         the Antarctic?"
         <br />
         <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="newsmax presents new $3t bill with a smile Mar2021"
+            src="https://www.dl.dropboxusercontent.com/s/xcg9y1tmvxzdr8l/ThrottleWitness.jpg?dl=0"
+          />
+        </div>
+        <br />
         We cannot accept what you say without logistical, controlled proof. I
         will not follow any law or agency to prioritize ideas without a cease
         and desist letter from a judge, who would need inherent truth/no
