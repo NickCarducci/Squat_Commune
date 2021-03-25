@@ -34,12 +34,17 @@ export default function App() {
             }}
           >
             <div style={{ borderBottom: "1px solid" }}>Bond-spending</div>
-            Pay in bond-value, price & monopsony
+            Pay in bond-value, price &&nbsp;
+            <span style={{ textDecoration: "underline" }}>monopsony</span>
           </div>
           <div style={{ width: "30%", position: "relative" }}>
             <div style={{ borderBottom: "1px solid" }}>Taxes</div>
             Free-rider-mutable or non-reparations/-tortsUBI(classAction), pays
-            for things in price, amount-attainable and quality.
+            for things in price,&nbsp;
+            <span style={{ textDecoration: "underline" }}>
+              amount-attainable
+            </span>
+            &nbsp;and quality.
           </div>
         </div>
         <br />
