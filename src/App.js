@@ -65,7 +65,9 @@ export default function App() {
         items are margin-targetable as a matter of trust-immutable monopoly or
         monopsony. Labels are required for confirmations, no errors can be laid
         without logistical proof, not correlative and assumptive. sorting or
-        throttling cannot be so adaptive except by a linear variable
+        throttling cannot be so adaptive except by a linear variable, or
+        labeling select words with institutions - especially when the CDC
+        is&nbsp;<a href="https://moldmask.co">wrong</a>&nbsp;and often
         <br />
         <br />
         currency/person, same as trueGDP/person,
