@@ -1,12 +1,53 @@
 import Fraud3 from "./Fraud3";
+import Fraud4 from "./Fraud4";
 import "./styles.css";
 
 export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="newsmax presents new $3t bill with a smile Mar2021"
+            src="https://www.dl.dropboxusercontent.com/s/tagjadv1d0remwy/MisesCreditCycle.png?dl=0"
+          />
+        </div>
+        {/*stop shouting fire in a crowded theatre when there is no fire
+        <br/>*/}
         I can punch your block out if you attempt to take my car, why not the
         election certification or my equity?
+        <br />
+        <br />
+        <div style={{ display: "flex", flexWrap: "wrap" }}>
+          <div
+            style={{ position: "relative", width: "50%", minWidth: "100px" }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="newsmax presents new $3t bill with a smile Mar2021"
+              src="https://www.dl.dropboxusercontent.com/s/me5rysjp7ovwg1u/NoDiscipline.png?dl=0"
+            />
+          </div>
+          <div
+            style={{ position: "relative", width: "50%", minWidth: "100px" }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="newsmax presents new $3t bill with a smile Mar2021"
+              src="https://www.dl.dropboxusercontent.com/s/9hnhe2ymgcexsfa/NoProofBan.jpeg?dl=0"
+            />
+          </div>
+        </div>
         <Fraud4 />
         <br />
         <br />
