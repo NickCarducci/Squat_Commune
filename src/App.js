@@ -7,6 +7,7 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "Not fast enough, we will take action" - like what how I am anti-finance, Jewish say to lay interest on only non-Jewish, and Islam considers that haram. I am also a competing govtech/lighttech that actually DOESN'T harm people.  you haven't presented a solution, just a board that you want them to promise to participate in.  I am smarter than all of you
         <h1
           style={{
             fontFamily: '"Pacifico", sans-serif'
