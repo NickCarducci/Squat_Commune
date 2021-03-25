@@ -4,7 +4,7 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        We are not liable for the harm be do in partnership with Delaware
+        We are not liable for the harm we do in partnership with Delaware
         Facists
         <br />
         <br />
