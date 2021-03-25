@@ -7,6 +7,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "The SEC was formed to make sure the private companies didn't have to defend against it"
+        <br />
+        <br />
         BIDEN: "3X AS MANY BRIDGES BEING BUILT IN CHINA THAN THE UNITED STATES.
         productivity and jobs! THE ROADS THAT WERE ABOVE THE DRAIN, NOW IT HAS
         TO BE 3FT HIGHER"
