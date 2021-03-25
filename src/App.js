@@ -7,6 +7,16 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        <h1
+          style={{
+            fontFamily: '"Pacifico", sans-serif'
+          }}
+        >
+          listen retards - monopoly can be identified by not having {">"}20
+          non-colluding producers, but the remedy can primarily be in quality
+          and privacy. don't break them up when you can do that first
+        </h1>
+        <br />
         "Do you feel responsible for allowing the non-coincidence of planning of
         retribution without evidence except for misinformation on election day
         calling the election in NJ? and more witnesses of fraud than crossing
