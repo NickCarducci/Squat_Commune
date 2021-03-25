@@ -1,3 +1,4 @@
+import Fraud3 from "./Fraud3";
 import Fraud4 from "./Fraud4";
 import Fraud5 from "./Fraud5";
 import "./styles.css";
@@ -6,6 +7,13 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        <h1
+          style={{
+            fontFamily: '"Pacifico", sans-serif'
+          }}
+        >
+          Free-rider hearing
+        </h1>
         "We listen to CDC WHO about 'harmful statements' no matter" - M. Zuck/
         Link to the source please
         <br />
