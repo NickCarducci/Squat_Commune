@@ -18,7 +18,8 @@ export default function App() {
         Apple store is a market in a market and internet is a network, these
         items are margin-targetable as a matter of trust-immutable monopoly or
         monopsony. Labels are required for confirmations, no errors can be laid
-        without logistical proof, not correlative and assumptive
+        without logistical proof, not correlative and assumptive. sorting or
+        throttling cannot be so adaptive except by a linear variable
         <br />
         <br />
         currency/person, same as trueGDP/person,
