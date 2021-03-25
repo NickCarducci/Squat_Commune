@@ -7,6 +7,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "Take the bias out"
+        <br />
+        <br />
         Imagine if I went to court that day and they were like, "get outta here!" then I drive 3hrs back
         <br />
         <br />
