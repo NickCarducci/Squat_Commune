@@ -1,5 +1,6 @@
 import Fraud3 from "./Fraud3";
 import Fraud4 from "./Fraud4";
+import Fraud5 from "./Fraud5";
 import "./styles.css";
 
 export default function App() {
@@ -179,6 +180,11 @@ export default function App() {
             src="https://www.dl.dropboxusercontent.com/s/in44lqbdxoqnrq2/LivesWithFamily.png?dl=0"
           />
         </div>
+        <br />
+        It takes 9 years of living with your parents and not eating to be able
+        to afford a home
+        <br />
+        <Fraud5 />
         <br />
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
           <img
