@@ -7,6 +7,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        I am seeking to foment insurrection as I can serve people better without
+        any harm
+        <br />
+        <br />
         "I ask unanimous content"
         <br />
         1/5 arrested on Jan 6 were military!
