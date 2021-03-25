@@ -7,6 +7,14 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        If you can gather CO2 data from Ice Coring, how can you be sure a large
+        portion of the carbon stays at the top? Logistically that would
+        make&nbsp;
+        <a href="https://www.ncdc.noaa.gov/news/picture-climate-what-can-we-learn-ice">
+          sense
+        </a>
+        <br />
+        <br />
         Will you add Italian and Polish Americans to your fact-certification
         board?
         <br />
