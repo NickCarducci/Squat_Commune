@@ -1,4 +1,3 @@
-import Fraud3 from "./Fraud3";
 import Fraud4 from "./Fraud4";
 import Fraud5 from "./Fraud5";
 import "./styles.css";
@@ -7,7 +6,27 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        "Not fast enough, we will take action" - like what how I am anti-finance, Jewish say to lay interest on only non-Jewish, and Islam considers that haram. I am also a competing govtech/lighttech that actually DOESN'T harm people.  you haven't presented a solution, just a board that you want them to promise to participate in.  I am smarter than all of you
+        "We listen to CDC WHO about 'harmful statements' no matter" - M. Zuck/
+        Link to the source please
+        <br />
+        <br />
+        "Not fast enough, we will take action" - like what how I am
+        anti-finance, Jewish say to lay interest on only non-Jewish, and Islam
+        considers that haram. I am also a competing govtech/lighttech that
+        actually DOESN'T harm people. you haven't presented a solution, just a
+        board that you want them to promise to participate in. I am smarter than
+        all of you
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="newsmax presents new $3t bill with a smile Mar2021"
+            src="https://www.dl.dropboxusercontent.com/s/jp7zbac10lx3vfa/BiasedAssumptions.jpg?dl=0"
+          />
+        </div>
         <h1
           style={{
             fontFamily: '"Pacifico", sans-serif'
