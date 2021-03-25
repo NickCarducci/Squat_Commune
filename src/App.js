@@ -4,6 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        We have to respect shareholders, if we don’t life is harder (incentive,
+        productive-earnings: individual-efficiency benefit/cost
+        <br />
+        <br />
         "anyone who lives with family we know has mental issues"
         <br />
         <br />
