@@ -4,6 +4,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        liberty implies shareholder security
+        <br />
+        <br />
         In economics, the same world is attained except for
         comparative-advantage and the state of the world &nbsp;
         <span style={{ color: "rgb(80,80,80)" }}>
@@ -36,7 +39,7 @@ export default function App() {
           <div style={{ width: "30%", position: "relative" }}>
             <div style={{ borderBottom: "1px solid" }}>Taxes</div>
             Free-rider-mutable or non-reparations/-tortsUBI(classAction), pays
-            for things in price, amount-attinable and quality.
+            for things in price, amount-attainable and quality.
           </div>
         </div>
         <br />
