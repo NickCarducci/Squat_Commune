@@ -7,6 +7,13 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Catsimitidis and Schumer lying on their own radio station wabc that NYC
+        was saved by the bail out rather than default on the creditors, and that
+        the vaccine saved millions of lives. that is not an explicit truth, I
+        doubt because mostly old people died, population stats are delayed two
+        months, and old people are mostly first world. just because I cannot
+        afford a cease and desist doesn't mean you aren't breaking the law
+        (fcc/ftc/justice is conflicted in speaking truth on this)
         <h1
           style={{
             fontFamily: '"Pacifico", sans-serif'
