@@ -7,6 +7,11 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Quality is just as important as price, if there is a monopsony,
+        microeconomics says you can step in to target-margin of what goes beyond
+        mvp. I call this, "design first"
+        <br />
+        <br />
         I am seeking to foment insurrection as I can serve people better without
         any harm
         <br />
