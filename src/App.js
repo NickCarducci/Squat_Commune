@@ -5,21 +5,20 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        currency/person same as trueGDP/person
+        currency/person, same as trueGDP/person,
         <br />
-        and (newDebt-trade)/person (damage)
+        as well as (newDebt-trade)/person (damage)
         <Fraud3 />
         <br />
         <br />
-        the value of private stock doesn't increase indirectly from
-        splitting-shares like public does if they aren't on the table
+        The value of private stock doesn't increase indirectly from
+        splitting-shares like public does if they aren't on the ask
         <br />
         <br />
-        We are not liable for the harm we do in partnership with Delaware
-        Facists
+        "We are not liable for the harm we do" - LP, LLC, Delaware...
         <br />
         <br />
-        liberty implies shareholder security
+        Liberty implies shareholder security..
         <br />
         <br />
         In economics, the same world is attained except for
