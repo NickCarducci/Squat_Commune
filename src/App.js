@@ -6,12 +6,22 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        With or without Section 230, liability is only ascertainable for
+        contributions of the platform if the writers are paid or edited
+        <br />
+        To boot, platforms should not be destroying evidence, they should be
+        highlighting illegal threats so other users know what is not acceptable,
+        and investigations without circumstantial/correlative data or not,
+        should be unfettered until a cease and decist order is properly
+        adjunicated.
+        <br />
+        <br />
         You cannot call government 501c3 nonprofit
         <br />
         <br />
         You cannot incite an action by someone else
-        <br/>
-        <br/>
+        <br />
+        <br />
         You cannot disprove something without deducing all other reasons
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
           <img
