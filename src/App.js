@@ -7,6 +7,12 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "Do you feel responsible for allowing the non-coincidence of planning of
+        retribution without evidence except for misinformation on election day
+        calling the election in NJ? and more witnesses of fraud than crossing
+        the Antarctic?"
+        <br />
+        <br />
         We cannot accept what you say without logistical, controlled proof. I
         will not follow any law or agency to prioritize ideas without a cease
         and desist letter from a judge, who would need inherent truth/no
