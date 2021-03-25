@@ -1,9 +1,13 @@
+import Fraud3 from "./Fraud3";
 import "./styles.css";
 
 export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        <Fraud3 />
+        <br />
+        <br />
         the value of private stock doesn't increase indirectly from
         splitting-shares like public does if they aren't on the table
         <br />
