@@ -5,6 +5,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        currency/person same as trueGDP/person
+        <br />
+        and (newDebt-trade)/person (damage)
         <Fraud3 />
         <br />
         <br />
