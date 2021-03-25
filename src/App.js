@@ -7,6 +7,23 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Will you ban extremist content?
+        <br />
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="newsmax presents new $3t bill with a smile Mar2021"
+            src="https://www.dl.dropboxusercontent.com/s/vc7iseogqavyop9/ExtremistContent.jpg?dl=0"
+          />
+        </div>
+        <br />
+        How do you define extremist content?
+        <br />
+        <br />
         If you are a platform without written but edited content, then I can use
         your copyright for the uncovered use case
         <br />
@@ -1484,3 +1501,4 @@ export default function App() {
     </div>
   );
 }
+
