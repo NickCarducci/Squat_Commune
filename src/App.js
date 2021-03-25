@@ -7,6 +7,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        "The federal budget," says Biden, "doesn't matter"
+        <br />
+        <br />
         "vaccines"/grafts work but benefit/expected-risk is negative
         <br />
         <br />
