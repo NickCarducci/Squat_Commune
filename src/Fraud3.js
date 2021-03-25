@@ -32,7 +32,7 @@ class Fraud3 extends React.Component {
               height: "900px"
             }}
             title="(( (v2- (GDP/(m2-currencyComponentOfM1)) )*currencyComponentOfM1 - NM - ND) / P) / currencyComponentOfM1"
-            src={`https://fred.stlouisfed.org/graph/graph-landing.php?g=CjZg&width=600&height=800`}
+            src={`https://fred.stlouisfed.org/graph/graph-landing.php?g=CkfT&width=600&height=800`}
             scrolling="no"
             className="embed-container1"
           />
