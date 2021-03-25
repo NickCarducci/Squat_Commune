@@ -7,6 +7,24 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Extremists that arent threats are "emotionally charged content that are
+        mostly harmful"
+        <br />
+        <br />
+        NancyTicker: BondLiquidityMeister
+        <br />
+        <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt="newsmax presents new $3t bill with a smile Mar2021"
+            src="https://www.dl.dropboxusercontent.com/s/vckh69jkbs4m2ch/BondLiquidity.jpg?dl=0"
+          />
+        </div>
+        <br />
+        <br />
         Will you ban extremist content?
         <br />
         <br />
@@ -1501,4 +1519,3 @@ export default function App() {
     </div>
   );
 }
-
