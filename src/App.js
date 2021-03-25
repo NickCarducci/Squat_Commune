@@ -7,6 +7,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        Will you add Italian and Polish Americans to your fact-certification
+        board?
+        <br />
+        <br />
         Extremists that arent threats are "emotionally charged content that are
         mostly harmful"
         <br />
