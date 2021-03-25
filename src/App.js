@@ -4,6 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        the value of private stock doesn't increase indirectly from
+        splitting-shares like public does if they aren't on the table
+        <br />
+        <br />
         We are not liable for the harm we do in partnership with Delaware
         Facists
         <br />
