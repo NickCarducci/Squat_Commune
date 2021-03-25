@@ -211,8 +211,16 @@ export default function App() {
         </div>
         <br />
         <br />
-        We have to respect shareholders, if we don’t life is harder (incentive,
-        productive-earnings: individual-efficiency benefit/cost
+        <div
+          style={{
+            padding: "10px 0px",
+            backgroundColor: "rgb(20,20,60)",
+            color: "rgb(200,220,255)"
+          }}
+        >
+          We have to respect shareholders, if we don’t life is harder
+          (incentive, productive-earnings: individual-efficiency benefit/cost
+        </div>
         <br />
         <br />
         "anyone who lives with family we know has mental issues"
