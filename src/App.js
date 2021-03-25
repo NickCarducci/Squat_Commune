@@ -7,6 +7,11 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        How can we trust what you put into the vaccine. you aren't even holding
+        the NIH accountable but admitting guilt by pulling out of Wuhan covid
+        experiement funding...
+        <br />
+        <br />
         "Take the bias out"
         <br />
         <br />
