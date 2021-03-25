@@ -450,7 +450,10 @@ export default function App() {
         paid especially without picking up the pace of
         printing/splitting-reserve-certificates-of-the-dollar (which is illegal
         "not good economically" per Jerome Powell himself) and the cessation of
-        further debt
+        further debt... form and substance for institutions? Marx talked about
+        labor taking equity of institutions, and assumed capitalism neccesarily
+        has debt, cross-party risk and dominos of foreclosures instead of
+        max-profit royalty contracts upon sale or withdrawal
         <br />
         <br />
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
