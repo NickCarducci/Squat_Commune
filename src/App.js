@@ -7,9 +7,13 @@ export default function App() {
         In economics, the same world is attained except for
         comparative-advantage and the state of the world &nbsp;
         <span style={{ color: "rgb(80,80,80)" }}>
-          so pay in dollars does not neccesarily mean for dollars, it means for
-          assets... which are zero-sum (except for the assets gained beyond
-          exchanging-mutual-benefits in comparative-advantage)
+          so pay in dollars does not neccesarily mean for... a different amount
+          of dollars, it means for assets... which are zero-sum (except for the
+          assets gained beyond exchanging-mutual-benefits in
+          comparative-advantage). (time is not securitizable, if it is it is
+          prohibiting trade in conspiracy to not compete for customers&nbsp;
+          <span style={{ color: "blue" }}>favor, willingness and ability</span>
+          &nbsp;but buying without the intent to use)
         </span>
         <div
           style={{
