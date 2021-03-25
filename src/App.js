@@ -7,6 +7,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        BIDEN: "3X AS MANY BRIDGES BEING BUILT IN CHINA THAN THE UNITED STATES"
+        <br />
+        <br />
         "The federal budget," says Biden, "doesn't matter"
         <br />
         <br />
