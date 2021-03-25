@@ -6,8 +6,15 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
-        With or without Section 230, liability is only ascertainable for
-        contributions of the platform if the writers are paid or edited
+        "vaccines"/grafts work but benefit/expected-risk is negative
+        <br />
+        <br />
+        I'm sure if you ask the insurrectionist if they were trying to contest
+        the certification vs overthrow the governemnt (bonds? police-comms? I'd
+        bet just the certification) With or without Section 230, liability is
+        only ascertainable for contributions of the platform if the writers are
+        paid or edited
+        <br />
         <br />
         To boot, platforms should not be destroying evidence, they should be
         highlighting illegal threats so other users know what is not acceptable,
