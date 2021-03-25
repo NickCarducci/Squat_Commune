@@ -5,6 +5,11 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        I can punch your block out if you attempt to take my car, why not the
+        election certification or my equity?
+        <Fraud4 />
+        <br />
+        <br />
         Disrupt your work in certifying the election? Warning about harm and
         giving legal advice that duress is force and exclusion is free-riding?
         Why did Dominion hesitate in allowing audits? I have been working since
