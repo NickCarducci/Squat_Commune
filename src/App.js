@@ -8,17 +8,20 @@ export default class App extends React.Component {
   constructor(props) {
     super(props);
     this.priceQuality = React.createRef();
+    this.tranche = React.createRef();
   }
   render() {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
           <h1>Unjust success: winning at the expense of customers</h1>
-          You may trade your time/labor to earn that
-          property/(non-service/-vacation) of which is scarce, but you can’t
-          charge interest/rent to get more, that is just involuntary or
-          not-trade (assuming traded = owned, settled & not-tranched or -input c
-          of another)
+          <span ref={this.tranche}>
+            You may trade your time/labor to earn that
+            property/(non-service/-vacation) of which is scarce, but you can’t
+            charge interest/rent to get more, that is just involuntary or
+            not-trade (assuming traded = owned, settled & not-tranched or -input
+            c of another)
+          </span>
           <br />
           <br />
           Evidence by correlation is impossible, what study shows transmission
@@ -407,7 +410,15 @@ export default class App extends React.Component {
           <br />
           currency/person, same as trueGDP/person,
           <br />
-          as well as (newDebt-trade)/person (damage)
+          as well as (newDebt-trade)/person (damage from finance
+          price-inelasticity, debt-valuation on&nbsp;
+          <span
+            style={{ textDecoration: "underline" }}
+            onClick={() => this.tranche.current.scrollIntoView("smooth")}
+          >
+            tranche
+          </span>
+          &nbsp;conspiracy in addition to monetary inflation)
           <Fraud3 />
           <br />
           <br />
