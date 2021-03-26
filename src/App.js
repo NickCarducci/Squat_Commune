@@ -419,7 +419,7 @@ export default class App extends React.Component {
           >
             tranche
           </span>
-          &nbsp;(space) conspiracy in addition to monetary inflation]
+          &nbsp;(space) conspiracy ...in addition to monetary inflation]
           <Fraud3 />
           <br />
           <br />
