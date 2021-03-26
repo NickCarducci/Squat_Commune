@@ -14,6 +14,9 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          <h3>You're an idiot, a retard or guilty</h3>
+          the new Jim Crow: 9-5 voting. I CAN DO THE&nbsp;
+          <a href="https://thumbprint.us">ELECTIONS</a>&nbsp;or do paper ballots
           <h1>Unjust success: winning at the expense of customers</h1>
           <span ref={this.tranche}>
             You may trade your time/labor to earn that
