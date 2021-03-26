@@ -15,8 +15,48 @@ export default class App extends React.Component {
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
           <h3>You're an idiot, a retard or guilty</h3>
+          beneficiaries get residual of what you take for only an increase in
+          price instead of allowing demand to negotiate
+          <br />
+          <div
+            style={{ position: "relative", width: "50%", minWidth: "100px" }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="newsmax presents new $3t bill with a smile Mar2021"
+              src="https://www.dl.dropboxusercontent.com/s/ocbg3k68ctqxo5e/VaccineDemand.jpg?dl=0"
+            />
+          </div>
           the new Jim Crow: 9-5 voting. I CAN DO THE&nbsp;
           <a href="https://thumbprint.us">ELECTIONS</a>&nbsp;or do paper ballots
+          <br />
+          <div
+            style={{ position: "relative", width: "50%", minWidth: "100px" }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="newsmax presents new $3t bill with a smile Mar2021"
+              src="https://www.dl.dropboxusercontent.com/s/0m95d0s3ufxams4/Screen%20Shot%202021-03-26%20at%206.23.35%20PM.png?dl=0"
+            />
+          </div>
+          <div
+            style={{ position: "relative", width: "50%", minWidth: "100px" }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="newsmax presents new $3t bill with a smile Mar2021"
+              src="https://www.dl.dropboxusercontent.com/s/enev4jc9sv2726w/Screen%20Shot%202021-03-26%20at%206.22.57%20PM.png?dl=0"
+            />
+          </div>
           <h1>Unjust success: winning at the expense of customers</h1>
           <span ref={this.tranche}>
             You may trade your time/labor to earn that
