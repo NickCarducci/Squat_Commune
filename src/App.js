@@ -7,6 +7,9 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        There was massive election Fraud in 2020; trump is still a douche
+        <br />
+        <br />
         I think most people deserve precedential-acknowledgement to a "simple
         majority" as to ethical-standard for significance, which is what
         representatives are and what laws is - a simpleton assumption of the
