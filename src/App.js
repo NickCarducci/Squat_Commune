@@ -445,7 +445,7 @@ export default class App extends React.Component {
           following "services" without our consent in adjunicating and not
           preventing credit promises (and the insidious movement through the
           supply chain, enslaving-demand and instituting slavery-by-proxy
-          therein)&nbsp;
+          therein):&nbsp;
           <span style={{ backgroundColor: "rgb(255,200,150)" }}>
             price-inelasticity
           </span>
