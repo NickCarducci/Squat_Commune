@@ -411,14 +411,15 @@ export default class App extends React.Component {
           currency/person, same as trueGDP/person,
           <br />
           as well as (newDebt-trade)/person (damage from finance
-          price-inelasticity, debt-valuation on&nbsp;
+          price-inelasticity (time), debt-valuation (mislead of using lastTrade
+          assumption of fair value) on&nbsp;
           <span
             style={{ textDecoration: "underline" }}
             onClick={() => this.tranche.current.scrollIntoView("smooth")}
           >
             tranche
           </span>
-          &nbsp;conspiracy in addition to monetary inflation)
+          &nbsp;(space) conspiracy in addition to monetary inflation)
           <Fraud3 />
           <br />
           <br />
