@@ -13,6 +13,14 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          <h1>Unjust success: winning at the expense of customers</h1>
+          You may trade your time/labor to earn that
+          property/(non-service/-vacation) of which is scarce, but you can’t
+          charge interest/rent to get more, that is just involuntary or
+          not-trade (assuming traded = owned, settled & not-tranched or -input c
+          of another)
+          <br />
+          <br />
           Evidence by correlation is impossible, what study shows transmission
           in a room without touching, Dr. Wen?
           <br />
