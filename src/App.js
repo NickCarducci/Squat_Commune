@@ -9,7 +9,12 @@ export default function App() {
       <div style={{ position: "relative", maxWidth: "600px" }}>
         I think most people deserve precedential-acknowledgement to a "simple
         majority" as to ethical-standard for significance, which is what
-        representatives are and what laws is
+        representatives are and what laws is - a simpleton assumption of the
+        majority of full-willingness and rationale. Yes. The Saver Party thinks
+        people walk into pitfalls set by some "producers" who bring everyone
+        else around them. This understanding of people, society & government is
+        the reason to make the&nbsp;
+        <a href="https://saverparty.xyz">Perfect Society</a>
         <br />
         <br />
         "investors make startups, lending is not investment" - Larry Kudlow
