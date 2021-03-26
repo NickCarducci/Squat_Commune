@@ -39,7 +39,9 @@ export default class App extends React.Component {
           the new Jim Crow: 9-5 voting. I CAN DO THE&nbsp;
           <a href="https://thumbprint.us">ELECTIONS</a>&nbsp;or do paper
           ballots. Like security is integral to trade, voting ID is integral to
-          voting
+          voting. Signature matches never worked, neither does social security
+          number. if the government uses only that and your favorite color to
+          give-back residuals is liable
           <br />
           <div
             style={{ position: "relative", width: "50%", minWidth: "100px" }}
