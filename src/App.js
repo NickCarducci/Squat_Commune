@@ -8,8 +8,8 @@ export default function App() {
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
         "investors make startups, lending is not investment" - Larry Kudlow
-        <br/>
-        <br/>
+        <br />
+        <br />
         Catsimitidis and Schumer lying on their own radio station wabc that NYC
         was saved by the bail out rather than default on the creditors, and that
         the vaccine saved millions of lives. that is not an explicit truth, I
@@ -548,9 +548,10 @@ export default function App() {
         <br />
         One man's voter supression is another's sample bias by campaign funding.
         Georgia 501c4 claiming they are voter education 501c3 (there can be
-        voter fraud easily by signature, there doesn't need to be a mistake to
-        prevent it especially when it probably already happened without the (1)
-        ability to check signatures because signatures are useless
+        voter fraud easily by signature (cause it is hard to match it is hard to
+        prove a match is forged), there doesn't need to be a mistake to prevent
+        it especially when it probably already happened without the (1) ability
+        to check signatures because signatures are useless
         <br />
         <br />
         <div style={{ position: "relative", width: "50%", minWidth: "100px" }}>
