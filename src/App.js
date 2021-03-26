@@ -411,13 +411,41 @@ export default class App extends React.Component {
           <a href="https://moldmask.co">wrong</a>&nbsp;and often
           <br />
           <br />
-          currency/person, same as trueGDP/person, as well as
-          <br />
-          (newDebt-trade)/person [damage from finance&nbsp;
+          <span
+            style={{ color: "rgb(150,200,255)", WebkitTextStroke: "1px black" }}
+          >
+            currency/person
+          </span>
+          , same as&nbsp;
+          <span
+            style={{ color: "rgb(100,215,150)", WebkitTextStroke: "1px black" }}
+          >
+            trueGDP/person
+          </span>
+          , as well as
+          <hr />(
+          <span
+            style={{ color: "rgb(255,200,150)", WebkitTextStroke: "1px black" }}
+          >
+            newDebt
+          </span>
+          -
+          <span
+            style={{ color: "rgb(100,215,150)", WebkitTextStroke: "1px black" }}
+          >
+            trade
+          </span>
+          )/
+          <span
+            style={{ color: "rgb(150,200,255)", WebkitTextStroke: "1px black" }}
+          >
+            person
+          </span>
+          &nbsp;[damage from finance&nbsp;
           <span style={{ backgroundColor: "rgb(255,200,150)" }}>
             price-inelasticity
           </span>
-          &nbsp;(time),
+          &nbsp;(time),&nbsp;
           <span style={{ backgroundColor: "rgb(255,200,150)" }}>
             debt-valuation
           </span>
@@ -437,7 +465,7 @@ export default class App extends React.Component {
             monetary inflation
           </span>
           ]
-          <br />
+          <hr />
           Bancruptcy happens the minute you increase the bid’s price with the
           credit -&nbsp;
           <span style={{ backgroundColor: "rgb(100,215,150)" }}>reverse</span>
