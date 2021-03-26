@@ -14,7 +14,9 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
-          There is no evidence asymptomatic have virus
+          There is no evidence asymptomatic have virus, where vaccine would help
+          in stopping the transmission. Only if they are symptomatic is vaccine
+          useful (2 weeks after)
           <h3>You're an idiot, a retard or guilty</h3>
           beneficiaries get residual of what you take for only an increase in
           price instead of allowing demand to negotiate
