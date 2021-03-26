@@ -21,14 +21,16 @@ export default class App extends React.Component {
           <div
             style={{ position: "relative", width: "50%", minWidth: "100px" }}
           >
-            <img
-              style={{
-                height: "auto",
-                width: "100%"
-              }}
-              alt="newsmax presents new $3t bill with a smile Mar2021"
-              src="https://www.dl.dropboxusercontent.com/s/ocbg3k68ctqxo5e/VaccineDemand.jpg?dl=0"
-            />
+            <a href="https://humanharvest.info">
+              <img
+                style={{
+                  height: "auto",
+                  width: "100%"
+                }}
+                alt="newsmax presents new $3t bill with a smile Mar2021"
+                src="https://www.dl.dropboxusercontent.com/s/ocbg3k68ctqxo5e/VaccineDemand.jpg?dl=0"
+              />
+            </a>
           </div>
           the new Jim Crow: 9-5 voting. I CAN DO THE&nbsp;
           <a href="https://thumbprint.us">ELECTIONS</a>&nbsp;or do paper ballots
@@ -1950,3 +1952,4 @@ export default class App extends React.Component {
     );
   }
 }
+
