@@ -37,7 +37,9 @@ export default class App extends React.Component {
             </a>
           </div>
           the new Jim Crow: 9-5 voting. I CAN DO THE&nbsp;
-          <a href="https://thumbprint.us">ELECTIONS</a>&nbsp;or do paper ballots
+          <a href="https://thumbprint.us">ELECTIONS</a>&nbsp;or do paper
+          ballots. Like security is integral to trade, voting ID is integral to
+          voting
           <br />
           <div
             style={{ position: "relative", width: "50%", minWidth: "100px" }}
@@ -1956,4 +1958,3 @@ export default class App extends React.Component {
     );
   }
 }
-
