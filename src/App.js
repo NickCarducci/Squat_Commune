@@ -408,23 +408,56 @@ export default class App extends React.Component {
           <a href="https://moldmask.co">wrong</a>&nbsp;and often
           <br />
           <br />
-          currency/person, same as trueGDP/person,
+          currency/person, same as trueGDP/person, as well as
           <br />
-          as well as (newDebt-trade)/person [damage from finance
-          price-inelasticity (time), debt-valuation (mislead of using lastTrade
-          assumption of fair value) on&nbsp;
-          <span
-            style={{ textDecoration: "underline" }}
-            onClick={() => this.tranche.current.scrollIntoView("smooth")}
-          >
-            tranche
+          (newDebt-trade)/person [damage from finance&nbsp;
+          <span style={{ backgroundColor: "rgb(255,200,150)" }}>
+            price-inelasticity
           </span>
-          &nbsp;(space) conspiracy ...in addition to monetary inflation]
+          &nbsp;(time),
+          <span style={{ backgroundColor: "rgb(255,200,150)" }}>
+            debt-valuation
+          </span>
+          &nbsp;as a matter of utility or previous works (mislead of using the
+          lastTrade assumption of fair value) or&nbsp;
+          <span style={{ backgroundColor: "rgb(255,200,150)" }}>
+            conspiracy&nbsp;
+            <span
+              style={{ textDecoration: "underline" }}
+              onClick={() => this.tranche.current.scrollIntoView("smooth")}
+            >
+              tranche
+            </span>
+          </span>
+          &nbsp;(space) ...in addition to and substantially larger than&nbsp;
+          <span style={{ backgroundColor: "rgb(150,200,255)" }}>
+            monetary inflation
+          </span>
+          ]
           <br />
           Bancruptcy happens the minute you increase the bid’s price with the
-          credit - reverse by working for the supply/creditor conspiracy or
-          launder your customer's money to loiter on the assets and again not
-          compete by winning customers but competing with them
+          credit -&nbsp;
+          <span style={{ backgroundColor: "rgb(100,215,150)" }}>reverse</span>
+          &nbsp;by doing &nbsp;
+          <span style={{ backgroundColor: "rgb(255,150,100)" }}>
+            work for the supply/creditor conspirators
+          </span>
+          &nbsp;or launder your&nbsp;
+          <span style={{ backgroundColor: "rgb(255,150,100)" }}>
+            customer's money
+          </span>
+          &nbsp;to&nbsp;
+          <span style={{ backgroundColor: "rgb(255,150,100)" }}>
+            loiter on the assets
+          </span>
+          &nbsp;and&nbsp;
+          <span style={{ backgroundColor: "rgb(100,215,150)" }}>
+            again not compete by winning customers
+          </span>
+          &nbsp;but&nbsp;
+          <span style={{ backgroundColor: "rgb(255,150,100)" }}>
+            competing with them
+          </span>
           <Fraud3 />
           <br />
           <br />
