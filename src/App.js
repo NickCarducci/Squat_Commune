@@ -22,8 +22,24 @@ export default function App() {
             fontFamily: '"Pacifico", sans-serif'
           }}
         >
-          Free-rider hearing
+          Free-rider hearing: exclusion without evidence more significant that
+          1/2000 for societal policy
         </h1>
+        I am a lawyguy: better than the bar! Once I estblish my products well in
+        the marketplace, my plan is to make you all suck my dick to get serviced
+        <br />
+        <br />
+        Given the cakes are custom and not readily available of trade (the
+        apparent intentional harassment regardless), the matter is the
+        supplier’s labor which is available for self-determination and is not
+        exclusionary
+        <br />
+        <br />
+        if the cakes were printed, this shouldn't be legally ok to exclude
+        unless "graphic" in accordance with some law please please please
+        (public indecency)
+        <br />
+        <br />
         "We listen to CDC WHO about 'harmful statements' no matter" - M. Zuck/
         Link to the source please
         <br />
