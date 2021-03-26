@@ -41,7 +41,13 @@ export default class App extends React.Component {
                 height: "auto",
                 width: "100%"
               }}
-              alt="newsmax presents new $3t bill with a smile Mar2021"
+              alt={`By 'local council' do you mean a notary? Having notary voting for anyone should not be an option no matter how much you can pay. By next election we can have government ID elections, if 
+              @logindotgov
+               weren't malfeasant.  I have been denied from working with 
+              @18F
+              /
+              @PIFgov
+               for what?`}
               src="https://www.dl.dropboxusercontent.com/s/0m95d0s3ufxams4/Screen%20Shot%202021-03-26%20at%206.23.35%20PM.png?dl=0"
             />
           </div>
@@ -53,7 +59,10 @@ export default class App extends React.Component {
                 height: "auto",
                 width: "100%"
               }}
-              alt="newsmax presents new $3t bill with a smile Mar2021"
+              alt={`I’ve heard if the election laws were followed by republicans that they would have won: I’ve heard if HR.1 is stopped, in the Republicans would have won 
+              @CNN
+              “For our case we’ve to get HR.1 passed” -Cliff
+              Is this just another case of law for thee but not for me? My Eff law is passed for my case, I am arguing bad precedence. You can be disbarred for advocating for a new law to make something legal.trying to change something in Cons?`}
               src="https://www.dl.dropboxusercontent.com/s/enev4jc9sv2726w/Screen%20Shot%202021-03-26%20at%206.22.57%20PM.png?dl=0"
             />
           </div>
