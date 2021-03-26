@@ -442,8 +442,8 @@ export default class App extends React.Component {
             person
           </span>
           &nbsp;where we pay $24k/year in public and private debt for the
-          following "services" without our consent in adjunicating and not
-          preventing credit promises (and the insidious movement through the
+          following "services" without our consent, in adjunicating and not
+          preventing, credit promises (and the insidious movement through the
           supply chain, enslaving-demand and instituting slavery-by-proxy
           therein):&nbsp;
           <span style={{ backgroundColor: "rgb(255,200,150)" }}>
