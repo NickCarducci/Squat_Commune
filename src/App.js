@@ -420,6 +420,11 @@ export default class App extends React.Component {
             tranche
           </span>
           &nbsp;(space) conspiracy ...in addition to monetary inflation]
+          <br />
+          Bancruptcy happens the minute you increase the bid’s price with the
+          credit - reverse by working for the supply/creditor conspiracy or
+          launder your customer's money to loiter on the assets and again not
+          compete by winning customers but competing with them
           <Fraud3 />
           <br />
           <br />
