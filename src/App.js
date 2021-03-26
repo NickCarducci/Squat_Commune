@@ -149,10 +149,10 @@ export default class App extends React.Component {
           would have to be as numerous as when the virus had just been released.
           One thing is for sure
           <h1>
-            The virus, if not just coincidence people dying in hospitals had the
+            The virus if, not just coincidence people dying in hospitals had the
             common virus, was actually and not just the presumed cause of death,
             killed in a way that must have a source, a person or institution
-            that pulled the trigger on its spread. China presumes the virus was
+            pulled the trigger on its spread. China presumes the virus was
             spread by the market, or was the&nbsp;
             <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(18)30006-9/fulltext">
               rubicon
@@ -1960,3 +1960,4 @@ export default class App extends React.Component {
     );
   }
 }
+
