@@ -53,7 +53,9 @@ export default class App extends React.Component {
             </span>
             &nbsp;hearing: exclusion without&nbsp;
             <a href="https://moldmask.co">evidence</a>&nbsp;more significant
-            that 1/2000 for societal policy
+            that 1/2000 for societal policy. 5m have died with this virus that
+            has plausibly been around for decades unless NIH literally made it
+            and pulled out is irrefutable admission of guilt
           </h1>
           I am a lawyguy: better than the bar! Once I establish my products well
           in the marketplace, my plan is to make you all suck my dick to get
