@@ -80,8 +80,11 @@ export default class App extends React.Component {
             common virus, was actually and not just the presumed cause of death,
             killed in a way that must have a source, a person or institution
             that pulled the trigger on its spread. China presumes the virus was
-            spread by the market, or was the rubicon for a human-contractable
-            mutation?
+            spread by the market, or was the&nbsp;
+            <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(18)30006-9/fulltext">
+              rubicon
+            </a>
+            &nbsp;for a human-contractable mutation?
           </h1>
           <br />
           <br />
