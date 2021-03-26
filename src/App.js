@@ -57,6 +57,36 @@ export default class App extends React.Component {
             has plausibly been around for decades unless NIH literally made it
             and pulled out is irrefutable admission of guilt
           </h1>
+          <br />
+          What would be evidence if not&nbsp;
+          <a href="https://www.healthline.com/health-news/noninvasive-saliva-tests-for-covid-19-as-effective-as-nose-throat-swabs">
+            this
+          </a>
+          , a blood test?&nbsp;
+          <a href="https://www.cochrane.org/news/how-accurate-are-routine-laboratory-tests-diagnosis-covid-19">
+            Unless
+          </a>
+          &nbsp;it is 100% accurate or with visible&nbsp;<b>evidence</b>,
+          exclusion is just conjecture. If there were to be&nbsp;
+          <b>symptoms or repeatable</b>&nbsp;and able to delegate decisions to
+          the business (with warnings of policies) in business-place realm, for
+          there to be any intervention in travel, well-controlled tests of
+          logistics rather than disparate events and unexplained or invisible
+          causality would forced-vaccines ever be plausible to travel, or deaths
+          would have to be as numerous as when the virus had just been released.
+          One thing is for sure
+          <h1>
+            The virus, if not just coincidence people dying in hospitals had the
+            common virus, was actually and not just the presumed cause of death,
+            killed in a way that must have a source, a person or institution
+            that pulled the trigger on its spread. China presumes the virus was
+            spread by the market, or was the rubicon for a human-contractable
+            mutation?
+          </h1>
+          <br />
+          <br />
+          <br />
+          <br />
           I am a lawyguy: better than the bar! Once I establish my products well
           in the marketplace, my plan is to make you all suck my dick to get
           serviced
