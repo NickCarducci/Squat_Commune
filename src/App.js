@@ -7,6 +7,10 @@ export default function App() {
   return (
     <div className="App">
       <div style={{ position: "relative", maxWidth: "600px" }}>
+        I think most people deserve precedential-acknowledgement to a simple
+        majority as to ethical-standard for significance
+        <br />
+        <br />
         "investors make startups, lending is not investment" - Larry Kudlow
         <br />
         <br />
