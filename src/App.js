@@ -47,7 +47,9 @@ export default class App extends React.Component {
           <br />
           <br />
           counterfeit wagering, buying without the intent to use but harm is why
-          we prohibit prohibiting trade by conspiracy with others or time
+          we prohibit prohibiting trade by conspiracy with others or time{" "}
+          {/*(laws
+          that help prevent prison rape)*/}
           <h1>This is not up for discussion</h1>
           "Debt is what made america great" Kudlow. "Sure! I wouldn't poo-poo
           inflation though" Yurio... you are talking to a crank who likes
@@ -85,11 +87,31 @@ export default class App extends React.Component {
           &nbsp;or the common item itself)
           <br />
           <br />
-          DEBT/trueGDP is just not velocity of all currencyComponentOfM1, which
-          most do not move (I would guess 80%)
+          trueGDP is not just velocity of all currencyComponentOfM1, which most
+          do not move (I would guess 80%)
           <br />
+          <div
+            style={{
+              padding: "4px 10px",
+              backgroundColor: "red",
+              width: "min-content"
+            }}
+          >
+            Bad
+          </div>
+          DEBT/trueGDP (red), Debt/currencyComponentOfM1 (blue)
           <Fraud7 />
           <br />
+          <div
+            style={{
+              padding: "4px 10px",
+              backgroundColor: "green",
+              width: "min-content"
+            }}
+          >
+            Good
+          </div>
+          trueGDP/Debt (red), currencyComponentOfM1/Debt (blue)
           <Fraud6 />
           <br />
           Public debt to lower&nbsp;
