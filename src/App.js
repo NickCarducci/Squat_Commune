@@ -18,6 +18,12 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          If I were to design a system to keep competition at baby
+          <br />
+          I would give pittance to those who do not work and take from
+          entrepreneurs and labor; while charging time for a loss
+          <br />
+          <br />
           If communism is serfdom, finance/rent/insurance not producing for but
           competing with consumers is its minimal viable form
           <h1>This is not up for discussion</h1>
