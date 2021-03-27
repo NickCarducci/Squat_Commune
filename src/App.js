@@ -14,6 +14,10 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Business is not income gained from creditors; a new company with
+          zero-nothing is and cannot “go out”
+          <br />
+          <br />
           60% vs 3% R&D by gov is monopsony and harms ease-of-life
           <br />
           <br />
