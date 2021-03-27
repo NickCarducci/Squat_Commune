@@ -14,6 +14,13 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          60% vs 3% R&D by gov is monopsony and harms ease-of-life
+          <br />
+          <br />
+          If everyone's wages, prices go up, that is not good (in fairness or
+          efficiency), only benefit - cost matters in ease-of-life
+          <br />
+          <br />
           9 years of work to buy a house and nothing else
           <br />
           in a perfectly efficient economy it would cost how much it takes to
@@ -27,7 +34,7 @@ export default class App extends React.Component {
               fontFamily: '"Pacifico", sans-serif'
             }}
           >
-            Capitalism or cannibalism?
+            Capitalism or cannibalism? Trade is neither if capital are humans
           </h1>
           Rutgers U the first to exclude people without commiting a crime that
           would have been helped by the "vaccine"/graft in the first place; and
