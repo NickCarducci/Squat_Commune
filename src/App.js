@@ -43,7 +43,12 @@ export default class App extends React.Component {
           <br />
           <br />
           To say the market of last trade goes down is to admit the same
-          discrepencies in an sdr (debt is not depositary)
+          discrepencies in an sdr (debt is not depositary, to which the
+          depositor can request the item back with the certificate's&nbsp;
+          <a href="https://www.imf.org/external/np/fin/data/rms_sdrv.aspx">
+            last sale
+          </a>
+          &nbsp; or the common item itself)
           <br />
           <br />
           DEBT/trueGDP is just not velocity of all currencyComponentOfM1, which
