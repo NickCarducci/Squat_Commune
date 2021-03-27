@@ -48,9 +48,13 @@ export default class App extends React.Component {
           discrepencies in an sdr (debt is not depositary, to which the
           depositor can request the item back with the certificate's&nbsp;
           <a href="https://www.imf.org/external/np/fin/data/rms_sdrv.aspx">
-            last sale
+            last sale to the depositary
           </a>
-          &nbsp; or the common item itself)
+          &nbsp;that was created in the amount of&nbsp;
+          <a href="https://vaults.biz">
+            last sale to the depositary/current shares/100
+          </a>
+          &nbsp;or the common item itself)
           <br />
           <br />
           DEBT/trueGDP is just not velocity of all currencyComponentOfM1, which
