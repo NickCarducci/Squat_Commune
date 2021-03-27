@@ -14,8 +14,9 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
-          Capital after-sale gains (competitive) are not sales, but they are
-          certainly not Capital gains when they have&nbsp;
+          Capital after-sale gains (competitive, "capital[-security] is labors'
+          best friend" - Kudlow) are not sales, but they are certainly not
+          Capital gains when they have&nbsp;
           <a href="https://foiegras.life">goosed-consumers</a>
           <br />
           <br />
