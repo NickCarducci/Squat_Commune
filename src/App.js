@@ -39,8 +39,8 @@ export default class App extends React.Component {
           <br />
           <br />
           Capital after-sale gains (competitive, "capital[-security] is labors'
-          best friend" - Kudlow) are not sales, but they are certainly not
-          Capital gains when they have&nbsp;
+          best friend" - Kudlow; failure is risk's worst enemy) are not sales,
+          but they are certainly not Capital gains when they have&nbsp;
           <a href="https://foiegras.life">goosed-consumers</a>
           <br />
           <br />
