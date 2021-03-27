@@ -18,6 +18,9 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          "Debt is what made america great" Kudlow. "Sure!" Yurio
+          <br />
+          <br />
           currency#, same as
           <br />
           trueGDP#, as well as
