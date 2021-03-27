@@ -27,7 +27,7 @@ export default class App extends React.Component {
           <br />
           As I want to give to Obama what is Obama's and yadda yadda yadda, I
           want to ensure in trade stewardship as is policy that no cost be laid
-          about royalty or lease without a customer first & settled
+          about royalty without a customer first & settled
           <br />
           <br />
           If communism is serfdom, finance/rent/insurance not producing for but
