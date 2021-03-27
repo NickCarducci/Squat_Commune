@@ -14,6 +14,10 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Public debt to lower taxes pays in price-inelasticity and
+          trust-building monopsony
+          <br />
+          <br />
           Rick scott doesn't understand royalty contracts w/max-profit per sale
           or withdrawal
           <br />
