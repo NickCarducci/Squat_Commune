@@ -2,6 +2,7 @@ import React from "react";
 import Fraud3 from "./Fraud3";
 import Fraud4 from "./Fraud4";
 import Fraud5 from "./Fraud5";
+import Fraud6 from "./Fraud6";
 import "./styles.css";
 
 export default class App extends React.Component {
@@ -18,6 +19,7 @@ export default class App extends React.Component {
           DEBT/trueGDP is just not velocity of all currencyComponentOfM1, which
           most do not move (I would guess 80%)
           <br />
+          <Fraud6 />
           <br />
           Public debt to lower&nbsp;
           <span
@@ -40,6 +42,8 @@ export default class App extends React.Component {
           never happen, unless (newDebt + newCurrencyComponentofM1 -
           (VelocityOfCurrencyComponentOfM1 * CurrencyComponentofM1)) is negative
           for a century
+          <br />
+          (DEBT:trueGDP)
           <br />
           <br />
           Capital after-sale gains (competitive, "capital[-security] is labors'
@@ -179,6 +183,10 @@ export default class App extends React.Component {
           everyone else around them. This understanding of people, society &
           government is the reason to make the&nbsp;
           <a href="https://saverparty.xyz">Perfect Society</a>
+          <br />
+          The minority can stop with one member - filabuster
+          <br />
+          Your constituencies are those who you have control over.
           <br />
           <br />
           "investors make startups, lending is not investment" - Larry Kudlow
@@ -708,7 +716,7 @@ export default class App extends React.Component {
             }}
           >
             We have to respect shareholders, if we don’t life is harder
-            (incentive, productive-earnings: individual-efficiency benefit/cost
+            (incentive, productive-earnings: individual-efficiency benefit/cost)
           </div>
           <br />
           <br />
