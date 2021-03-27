@@ -41,12 +41,17 @@ export default class App extends React.Component {
               />
             </a>
           </div>
+          I want to build the Tom's Shoes for phones (charity p2p grid
+          magnate.company x thumbprint.us)
+          <br />
+          <br />
           the new Jim Crow: 9-5 voting. I CAN DO THE&nbsp;
           <a href="https://thumbprint.us">ELECTIONS</a>&nbsp;or do paper
           ballots. Like security is integral to trade, voting ID is integral to
           voting. Signature matches never worked, neither does social security
-          number. if the government uses only that and your favorite color to
-          give-back residuals is liable
+          number nor notary-for-equal-opportunity/Photocopy-for-security; if
+          those and your favorite color to give-back residuals the
+          free-rider-immutable service is liable
           <br />
           <div
             style={{ position: "relative", width: "50%", minWidth: "100px" }}
@@ -1969,4 +1974,3 @@ export default class App extends React.Component {
     );
   }
 }
-
