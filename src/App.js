@@ -14,13 +14,17 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Rick scott doesn't understand royalty contracts w/max-profit per sale
+          or withdrawal
+          <br />
+          <br />
           const VelocityOfCurrencyComponentOfM1 = (Velocity of M2 - (GDP/(M2
           Money Stock-Currency Component of M1)))
           <br />
           Public and private debt are due by customers and tax-payers which can
-          never happen, unless ((VelocityOfCurrencyComponentOfM1 *
-          CurrencyComponentofM1) - Debt - CurrencyComponentofM1)/Population is
-          negative
+          never happen, unless (newDebt + newCurrencyComponentofM1 -
+          (VelocityOfCurrencyComponentOfM1 * CurrencyComponentofM1)) is negative
+          for a century
           <br />
           <br />
           Capital after-sale gains (competitive, "capital[-security] is labors'
@@ -29,8 +33,8 @@ export default class App extends React.Component {
           <a href="https://foiegras.life">goosed-consumers</a>
           <br />
           <br />
-          Investing is not lending granting the current contract precedence (not
-          law) of charges
+          Investing is not&nbsp;<a href="https://vaults.biz">lending</a>
+          &nbsp;granting the current contract precedence (not law) of charges
           <br />
           <br />
           Business is not income gained from creditors; a new company with
@@ -41,8 +45,9 @@ export default class App extends React.Component {
           <br />
           <br />
           If everyone's wages & prices go up (cannot happen if profits increase
-          unless equityutilitymoney splits), that is not good (in fairness or
-          efficiency), only benefit - cost matters in ease-of-life
+          unless equityutilitymoney splits{/* by promise or otherwise*/}), that
+          is not good (in fairness or efficiency), only benefit - cost matters
+          in ease-of-life
           <br />
           <br />
           9 years of work to buy a median house and nothing else
