@@ -18,6 +18,11 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          WAIT A SECOND: IF {"<"}$10k gifts aren't taxable, but {"<"}$2k sales
+          are. I have no problem with allowing non-tax trade for business
+          without a brand name but instead a person
+          <br />
+          <br />
           If I were to design a system to keep competition at baby
           <br />
           I would give pittance to those who do not work and take from
