@@ -50,8 +50,8 @@ export default class App extends React.Component {
           ballots. Like security is integral to trade, voting ID is integral to
           voting. Signature matches never worked, neither does social security
           number nor notary-for-equal-opportunity/Photocopy-for-security; if
-          those and your favorite color to give-back residuals the
-          free-rider-immutable service is liable
+          those and your favorite color to give-back residuals (SSA fraud) the
+          free-rider-immutable service is liable for loss
           <br />
           <div
             style={{ position: "relative", width: "50%", minWidth: "100px" }}
