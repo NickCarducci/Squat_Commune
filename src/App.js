@@ -15,6 +15,10 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          DEBT/trueGDP is just not velocity of all currencyComponentOfM1, which
+          most do not move (I would guess 80%)
+          <br />
+          <br />
           Public debt to lower&nbsp;
           <span
             style={{ textDecoration: "underline" }}
