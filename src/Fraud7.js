@@ -28,8 +28,9 @@ class Fraud7 extends React.Component {
         >
           <iframe
             style={{
+              border: "none",
               width: "600px",
-              height: "900px"
+              height: "450px"
             }}
             title="(( (v2- (GDP/(m2-currencyComponentOfM1)) )*currencyComponentOfM1 - NM - ND) / P) / currencyComponentOfM1"
             src={`https://fred.stlouisfed.org/graph/graph-landing.php?g=Co7F&width=600&height=400`}
