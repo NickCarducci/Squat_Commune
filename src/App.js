@@ -21,7 +21,8 @@ export default class App extends React.Component {
           If I were to design a system to keep competition at baby
           <br />
           I would give pittance to those who do not work and take from
-          entrepreneurs and labor; while charging time for a loss
+          entrepreneurs, and from labor its spoils; while charging time for a
+          loss
           <br />
           <br />
           As I want to give to Obama what is Obama's and yadda yadda yadda, I
