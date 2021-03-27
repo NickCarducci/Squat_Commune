@@ -14,6 +14,15 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          const VelocityOfCurrencyComponentOfM1 = (Velocity of M2 - (GDP/(M2
+          Money Stock-Currency Component of M1)))
+          <br />
+          Public and private debt are due by customers and tax-payers which can
+          never happen, unless ((VelocityOfCurrencyComponentOfM1 *
+          CurrencyComponentofM1) - Debt - CurrencyComponentofM1)/Population is
+          negative
+          <br />
+          <br />
           Capital after-sale gains (competitive, "capital[-security] is labors'
           best friend" - Kudlow) are not sales, but they are certainly not
           Capital gains when they have&nbsp;
