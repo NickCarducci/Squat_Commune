@@ -18,7 +18,17 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
-          "Debt is what made america great" Kudlow. "Sure!" Yurio
+          <h1>This is not up for discussion</h1>
+          "Debt is what made america great" Kudlow. "Sure! I wouldn't poo-poo
+          inflation though" Yurio... you are talking to a crank who likes
+          inflation.
+          <br />
+          All debt does is inflation, you are missing the forest for the trees,
+          the theta for alpha and alpha for the beta.
+          <br />
+          <br />
+          It doesn't make more opportunities it just makes the market
+          anticompetitive.
           <br />
           <br />
           currency#, same as
@@ -2072,4 +2082,3 @@ export default class App extends React.Component {
     );
   }
 }
-
