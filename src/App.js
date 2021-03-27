@@ -23,7 +23,8 @@ export default class App extends React.Component {
           <h1>This is not up for discussion</h1>
           "Debt is what made america great" Kudlow. "Sure! I wouldn't poo-poo
           inflation though" Yurio... you are talking to a crank who likes
-          inflation.
+          inflation. Then Kudlow says, "bancrupt pensions are tearing this
+          country apart." Holy crap
           <br />
           All debt-/residual-split-/fractional-reserve-spending does is
           inflation; you are missing the forest for the trees; mistaking theta
