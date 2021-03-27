@@ -22,7 +22,7 @@ export default class App extends React.Component {
           efficiency), only benefit - cost matters in ease-of-life
           <br />
           <br />
-          9 years of work to buy a house and nothing else
+          9 years of work to buy a median house and nothing else
           <br />
           in a perfectly efficient economy it would cost how much it takes to
           build (now about 2.9 years due to counterfeit-wagering)
