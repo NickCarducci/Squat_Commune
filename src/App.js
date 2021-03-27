@@ -9,13 +9,20 @@ export default class App extends React.Component {
     super(props);
     this.priceQuality = React.createRef();
     this.tranche = React.createRef();
+    this.taxes = React.createRef();
   }
   render() {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
-          Public debt to lower taxes pays in price-inelasticity and
-          trust-building monopsony
+          Public debt to lower&nbsp;
+          <span
+            style={{ textDecoration: "underline" }}
+            onClick={() => this.taxes.current.scrollIntoView("smooth")}
+          >
+            taxes
+          </span>
+          &nbsp;pays in price-inelasticity and trust-building monopsony
           <br />
           <br />
           Rick scott doesn't understand royalty contracts w/max-profit per sale
@@ -651,6 +658,7 @@ export default class App extends React.Component {
             &nbsp;but buying without the intent to use)
           </span>
           <div
+            ref={this.taxes}
             style={{
               display: "flex",
               width: "80%",
