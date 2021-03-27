@@ -4,6 +4,7 @@ import Fraud4 from "./Fraud4";
 import Fraud5 from "./Fraud5";
 import Fraud6 from "./Fraud6";
 import Fraud7 from "./Fraud7";
+import Fraud8 from "./Fraud8";
 import "./styles.css";
 
 export default class App extends React.Component {
@@ -17,11 +18,17 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
-          currency, same as
+          currency#, same as
           <br />
-          trueGDP, as well as
+          trueGDP#, as well as
           <br />
-          newDebt% - trueGDP
+          newDebt% - trueGDP#
+          <br />
+          <Fraud8 />
+          <br />
+          <br />
+          To say the market of last trade goes down is to admit the same
+          discrepencies in an sdr (debt is not depositary)
           <br />
           <br />
           DEBT/trueGDP is just not velocity of all currencyComponentOfM1, which
@@ -2062,3 +2069,4 @@ export default class App extends React.Component {
     );
   }
 }
+
