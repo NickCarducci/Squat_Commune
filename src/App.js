@@ -14,6 +14,11 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Capital after-sale gains (competitive) are not sales, but they are
+          certainly not Capital gains when they have&nbsp;
+          <a href="https://foiegras.life">goosed-consumers</a>
+          <br />
+          <br />
           Investing is not lending granting the current contract precedence (not
           law) of charges
           <br />
