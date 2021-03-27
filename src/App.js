@@ -17,7 +17,8 @@ export default class App extends React.Component {
           60% vs 3% R&D by gov is monopsony and harms ease-of-life
           <br />
           <br />
-          If everyone's wages, prices go up, that is not good (in fairness or
+          If everyone's wages & prices go up (cannot happen if profits increase
+          unless equityutilitymoney splits), that is not good (in fairness or
           efficiency), only benefit - cost matters in ease-of-life
           <br />
           <br />
