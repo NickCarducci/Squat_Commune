@@ -3,6 +3,7 @@ import Fraud3 from "./Fraud3";
 import Fraud4 from "./Fraud4";
 import Fraud5 from "./Fraud5";
 import Fraud6 from "./Fraud6";
+import Fraud7 from "./Fraud7";
 import "./styles.css";
 
 export default class App extends React.Component {
@@ -18,6 +19,8 @@ export default class App extends React.Component {
         <div style={{ position: "relative", maxWidth: "600px" }}>
           DEBT/trueGDP is just not velocity of all currencyComponentOfM1, which
           most do not move (I would guess 80%)
+          <br />
+          <Fraud7 />
           <br />
           <Fraud6 />
           <br />
