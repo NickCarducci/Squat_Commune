@@ -18,6 +18,8 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          if communism is serfdom, finance/rent/insurance not producing for but
+          competing with consumers is its minimal viable form
           <h1>This is not up for discussion</h1>
           "Debt is what made america great" Kudlow. "Sure! I wouldn't poo-poo
           inflation though" Yurio... you are talking to a crank who likes
