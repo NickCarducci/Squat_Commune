@@ -15,6 +15,10 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+        The minority can stop with one member - filabuster
+        <br/>Your constituencies are those who you have control over.
+        <br/>
+        <br/>
           DEBT/trueGDP is just not velocity of all currencyComponentOfM1, which
           most do not move (I would guess 80%)
           <br />
