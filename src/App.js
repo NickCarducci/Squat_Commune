@@ -14,6 +14,11 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Rutgers U the first to exclude people without commiting a crime that
+          would have been helped by the "vaccine"/graft in the first place; and
+          under duress, like financial-aid crime of counterfeit-wagering
+          <br />
+          <br />
           There is no evidence asymptomatic have virus, where vaccine would help
           in stopping the transmission (on the skin). Only if they are
           symptomatic (thru the skin) is vaccine useful (2 weeks after). in the
