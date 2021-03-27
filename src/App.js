@@ -18,6 +18,9 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Gottheimer: "I'm gonna get NJ's money back!  By applying for grants.  We can do it if we write a good application!"
+          <br />
+          <br />
           WAIT A SECOND: IF {"<"}$10k gifts aren't taxable, but {"<"}$2k sales
           are. I have no problem with allowing non-tax trade for business
           without a brand name but instead a person
