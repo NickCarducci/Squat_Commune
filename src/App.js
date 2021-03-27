@@ -14,6 +14,13 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          <h1
+            style={{
+              fontFamily: '"Pacifico", sans-serif'
+            }}
+          >
+            Capitalism or cannibalism?
+          </h1>
           Rutgers U the first to exclude people without commiting a crime that
           would have been helped by the "vaccine"/graft in the first place; and
           under duress, like financial-aid crime of counterfeit-wagering
