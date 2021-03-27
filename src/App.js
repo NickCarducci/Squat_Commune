@@ -18,7 +18,11 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
-          Gottheimer: "I'm gonna get NJ's money back!  By applying for grants.  We can do it if we write a good application!"
+          <a href="https://apps.irs.gov/app/eos/detailsPage?ein=830769850&name=Oath%20Keepers%20United&city=Salem&state=VA&countryAbbr=US&dba=&type=CHARITIES,%20DETERMINATIONLETTERS&orgTags=CHARITIES&orgTags=DETERMINATIONLETTERS">
+            Gottheimer
+          </a>
+          : "I'm gonna get NJ's money back! By applying for grants. We can do it
+          if we write a good application!"
           <br />
           <br />
           WAIT A SECOND: IF {"<"}$10k gifts aren't taxable, but {"<"}$2k sales
