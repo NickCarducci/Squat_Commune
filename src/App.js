@@ -14,6 +14,8 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Black market guns will cost more because it is hidden; credit is just
+          as green
           <h1
             style={{
               fontFamily: '"Pacifico", sans-serif'
