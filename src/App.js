@@ -26,7 +26,7 @@ export default class App extends React.Component {
           inflation.
           <br />
           All debt does is inflation, you are missing the forest for the trees,
-          the theta for alpha and alpha for the beta.
+          the theta for alpha and beta for the alpha.
           <br />
           <br />
           It doesn't make more opportunities it just makes the market
