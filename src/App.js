@@ -17,6 +17,13 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          currency, same as
+          <br />
+          trueGDP, as well as
+          <br />
+          newDebt% - trueGDP
+          <br />
+          <br />
           DEBT/trueGDP is just not velocity of all currencyComponentOfM1, which
           most do not move (I would guess 80%)
           <br />
