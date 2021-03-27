@@ -18,15 +18,16 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
-          if communism is serfdom, finance/rent/insurance not producing for but
+          If communism is serfdom, finance/rent/insurance not producing for but
           competing with consumers is its minimal viable form
           <h1>This is not up for discussion</h1>
           "Debt is what made america great" Kudlow. "Sure! I wouldn't poo-poo
           inflation though" Yurio... you are talking to a crank who likes
           inflation.
           <br />
-          All debt does is inflation, you are missing the forest for the trees,
-          the theta for alpha and beta for the alpha.
+          All debt-/residual-split-/fractional-reserve-spending does is
+          inflation; you are missing the forest for the trees; mistaking theta
+          for alpha, and beta for alpha.
           <br />
           <br />
           It doesn't make more opportunities it just makes the market
