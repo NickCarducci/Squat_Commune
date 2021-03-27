@@ -24,6 +24,11 @@ export default class App extends React.Component {
           entrepreneurs and labor; while charging time for a loss
           <br />
           <br />
+          As I want to give to Obama what is Obama's and yadda yadda yadda, I
+          want to ensure in trade stewardship as is policy that no cost be laid
+          about royalty or lease without a customer first & settled
+          <br />
+          <br />
           If communism is serfdom, finance/rent/insurance not producing for but
           competing with consumers is its minimal viable form
           <h1>This is not up for discussion</h1>
