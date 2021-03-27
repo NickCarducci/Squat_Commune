@@ -14,8 +14,12 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Investing is not lending granting the current contract precedence (not
+          law) of charges
+          <br />
+          <br />
           Business is not income gained from creditors; a new company with
-          zero-nothing is and cannot “go out.” Investing is not lending granting the current contract precedence (not law) of charges
+          zero-nothing is and cannot “go out.”
           <br />
           <br />
           60% vs 3% R&D by gov is monopsony and harms ease-of-life
