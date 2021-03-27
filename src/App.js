@@ -51,7 +51,10 @@ export default class App extends React.Component {
           voting. Signature matches never worked, neither does social security
           number nor notary-for-equal-opportunity/Photocopy-for-security; if
           those and your favorite color to give-back residuals (SSA fraud) the
-          free-rider-immutable service is liable for loss
+          free-rider-immutable service is&nbsp;
+          <a href="https://www.nclc.org/images/pdf/older_consumers/Your_Credit_Card_Rights.pdf">
+            liable for loss
+          </a>
           <br />
           <div
             style={{ position: "relative", width: "50%", minWidth: "100px" }}
