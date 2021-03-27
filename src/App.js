@@ -44,6 +44,10 @@ export default class App extends React.Component {
           <br />
           If communism is serfdom, finance/rent/insurance not producing for but
           competing with consumers is its minimal viable form
+          <br />
+          <br />
+          counterfeit wagering, buying without the intent to use but harm is why
+          we prohibit prohibiting trade by conspiracy with others or time
           <h1>This is not up for discussion</h1>
           "Debt is what made america great" Kudlow. "Sure! I wouldn't poo-poo
           inflation though" Yurio... you are talking to a crank who likes
