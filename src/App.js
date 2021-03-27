@@ -14,6 +14,12 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          9 years of work to buy a house and nothing else
+          <br />
+          in a perfectly efficient economy it would cost how much it takes to
+          build (now about 2.9 years due to counterfeit-wagering)
+          <br />
+          <br />
           Black market guns will cost more because it is hidden; credit is just
           as green
           <h1
