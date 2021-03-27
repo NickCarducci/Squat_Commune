@@ -51,7 +51,7 @@ export default class App extends React.Component {
           <br />
           trueGDP#, as well as
           <br />
-          newDebt% - trueGDP#
+          newDebt - trueGDP#
           <br />
           <Fraud8 />
           <br />
