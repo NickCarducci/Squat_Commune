@@ -19,6 +19,11 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          <a href="https://kbhgames.com/game/binding-of-isaac">
+            banksquat , serflord, counterfeitwagering, slaveryByProxy
+          </a>
+          <br />
+          <br />
           "Inversions will happen all over again, all over." Catsimitidis:
           "Larry Kudlow, I agree with you 110%"
           <br />
