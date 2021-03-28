@@ -18,6 +18,29 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Weed is money
+          <br />
+          <br />
+          Driving? I was kicked off JHU wrestling for performance
+          <br />
+          <br />
+          Marijuana is memory loss/psychosis? What is psychosis - a detective or
+          hallucination? Not creativity - that's a good thing
+          <br />
+          <br />
+          -8IQ put me in the study
+          <br />
+          <br />
+          not a fucking crossover test that was way different than the practice,
+          anyone would be flustered. My SAT third time went from 1200 to 1300
+          <br />
+          <br />
+          I was denied SSA for too good of memory (smokescreen)
+          <br />
+          <br />
+          "Not doing enough research, get business, save in it or they like it"
+          <br />
+          <br />
           carrot freedom whip erase history for reparations/torts
           <br />
           median frugality is gas price, the ask could be colluding to get as
