@@ -18,7 +18,7 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
-          Weed is money
+          Weed is money{/**investment banking */}
           <br />
           <br />
           Driving? I was kicked off JHU wrestling for performance
@@ -56,6 +56,13 @@ export default class App extends React.Component {
           </a>
           : "I'm gonna get NJ's money back! By applying for grants. We can do it
           if we write a good application!"
+          <br />
+          <br />
+          <h3>
+            Dr. Peter Michalos - How can you say the virus evades the antibodies
+            as a gain of function but say we should still risk B-cell
+            oncogenesis
+          </h3>
           <br />
           <br />
           WAIT A SECOND: IF {"<"}$10k gifts aren't taxable, but {"<"}$2k sales
