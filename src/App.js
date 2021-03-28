@@ -19,6 +19,16 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Make people who can stand on one leg stand
+          <br />
+          <br />
+          "Expand our democracy" means protecting asset values earned by
+          voluntary accustomed labor and including all non-violent or
+          financially-neglectful or intentionallly-cannibal globally and not a
+          501c3 asset as trifold of that very issue in conspiracy, malfeasance &
+          abject monopsony
+          <br />
+          <br />
           time duress correctness*poo-poo [cornering-economically into
           impossibility by conflating costs, time-used (where you cannot at the
           same time in {">"}places), and accrual]. HARAM
