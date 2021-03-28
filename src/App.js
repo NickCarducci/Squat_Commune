@@ -44,14 +44,14 @@ export default class App extends React.Component {
           "Not doing enough research, get business, save in it or they like it"
           <br />
           <br />
-          carrot freedom whip erase history for reparations/torts
+          carrot freedom whip erase history for&nbsp;<b>reparations</b>/torts
           <br />
           median frugality is gas price, the ask could be colluding to get as
           much cash into the economy
           <br />
           <br />
           credit is just as green but $24-48k/yr per person who most have no
-          more than $1.2k for repairations/
+          more than $1.2k for&nbsp;<b>repairations</b>/
           <a href="https://saverparty.xyz">Class-action-suit</a>
           <br />
           <a href="https://apps.irs.gov/app/eos/detailsPage?ein=830769850&name=Oath%20Keepers%20United&city=Salem&state=VA&countryAbbr=US&dba=&type=CHARITIES,%20DETERMINATIONLETTERS&orgTags=CHARITIES&orgTags=DETERMINATIONLETTERS">
