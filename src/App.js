@@ -58,7 +58,8 @@ export default class App extends React.Component {
           </div>
           <br />
           "Inversions will happen all over again, all over." Catsimitidis:
-          "Larry Kudlow, I agree with you 110%"
+          "Larry <b style={{ color: "purple" }}>Kudlow</b>, I agree with you
+          110%"
           <br />
           <br />
           That 10% has to be earned from some unrequited-third party or your
@@ -164,9 +165,10 @@ export default class App extends React.Component {
           <br />
           <br />
           "Debt is what made america great," remarks on new 77wabc saturday show
-          Kudlow. "Sure! I wouldn't poo-poo inflation though" Yurio... you are
-          talking to a crank who likes inflation. Then Kudlow says, "bancrupt
-          pensions are tearing this country apart." Holy crap
+          <b style={{ color: "purple" }}>Kudlow</b>. "Sure! I wouldn't poo-poo
+          inflation though" Yurio... you are talking to a crank who likes
+          inflation. Then <b style={{ color: "purple" }}>Kudlow</b> says,
+          "bancrupt pensions are tearing this country apart." Holy crap
           <br />
           All debt-/residual-split-/fractional-reserve-spending does is
           inflation; you are missing the forest for the trees; mistaking theta
@@ -254,8 +256,9 @@ export default class App extends React.Component {
           <br />
           <br />
           Capital after-sale gains (competitive, "capital[-security] is labors'
-          best friend" - Kudlow; failure is risk's worst enemy) are not sales,
-          but they are certainly not Capital gains when they have&nbsp;
+          best friend" - <b style={{ color: "purple" }}>Kudlow</b>; failure is
+          risk's worst enemy) are not sales, but they are certainly not Capital
+          gains when they have&nbsp;
           <a href="https://foiegras.life">goosed-consumers</a>
           <br />
           <br />
@@ -396,7 +399,8 @@ export default class App extends React.Component {
           Your constituencies are those who you have control over.
           <br />
           <br />
-          "investors make startups, lending is not investment" - Larry Kudlow
+          "investors make startups, lending is not investment" - Larry{" "}
+          <b style={{ color: "purple" }}>Kudlow</b>
           <br />
           <br />
           Catsimitidis and Schumer lying on their own radio station wabc that
