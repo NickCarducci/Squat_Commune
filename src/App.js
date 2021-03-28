@@ -19,6 +19,13 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Equity - (reparations,&nbsp;
+          <a href="https://en.wikipedia.org/wiki/The_Ricklantis_Mixup#Simple_Rick's">
+            -sweat
+          </a>
+          ) labor (repairations, -profits) - Reality
+          <br />
+          <br />
           Make people who can stand on one leg stand
           <br />
           <br />
