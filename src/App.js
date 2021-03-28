@@ -19,9 +19,31 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Is Rudy confused about how to void electoion for calling an election
+          fucking fraud/flop just like 9/11 you were in a nice-viewing area
+          <br />
+          <br />
           <a href="https://kbhgames.com/game/binding-of-isaac">
             banksquat , serflord, counterfeitwagering, slaveryByProxy
           </a>
+          <br />
+          <br />
+          <div
+            style={{ position: "relative", width: "50%", minWidth: "100px" }}
+          >
+            <a href="https://humanharvest.info">
+              <img
+                style={{
+                  height: "auto",
+                  width: "100%"
+                }}
+                alt="newsmax presents new $3t bill with a smile Mar2021: links to humanharvest.info"
+                src="https://www.dl.dropboxusercontent.com/s/w07zaycagd3zfzo/Trump-Waving.jpeg?dl=0"
+              />
+            </a>
+          </div>{" "}
+          <br />
+          Buy to rent not use
           <br />
           <br />
           "Inversions will happen all over again, all over." Catsimitidis:
@@ -127,10 +149,13 @@ export default class App extends React.Component {
           {/*(laws
           that help prevent prison rape)*/}
           <h1>This is not up for discussion</h1>
-          "Debt is what made america great" Kudlow. "Sure! I wouldn't poo-poo
-          inflation though" Yurio... you are talking to a crank who likes
-          inflation. Then Kudlow says, "bancrupt pensions are tearing this
-          country apart." Holy crap
+          "Trump and I love debt."
+          <br />
+          <br />
+          "Debt is what made america great," remarks on new 77wabc saturday show
+          Kudlow. "Sure! I wouldn't poo-poo inflation though" Yurio... you are
+          talking to a crank who likes inflation. Then Kudlow says, "bancrupt
+          pensions are tearing this country apart." Holy crap
           <br />
           All debt-/residual-split-/fractional-reserve-spending does is
           inflation; you are missing the forest for the trees; mistaking theta
