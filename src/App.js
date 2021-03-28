@@ -28,6 +28,9 @@ export default class App extends React.Component {
           </a>
           <br />
           <br />
+          Any credit is just as green
+          <br />
+          <br />
           <div
             style={{ position: "relative", width: "50%", minWidth: "100px" }}
           >
