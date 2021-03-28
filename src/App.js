@@ -19,6 +19,10 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Understanding builds our precedence and unreasonable possibilities;
+          unseen gov?
+          <br />
+          <br />
           Is Rudy confused about how to void electoion for calling an election
           fucking fraud/flop just like 9/11 you were in a nice-viewing area
           <br />
