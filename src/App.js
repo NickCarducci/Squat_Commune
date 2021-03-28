@@ -46,6 +46,17 @@ export default class App extends React.Component {
           Buy to rent not use
           <br />
           <br />
+          <div
+            style={{
+              padding: "10px",
+              backgroundColor: "rgb(20,20,50)",
+              color: "rgb(240,240,250)"
+            }}
+          >
+            It is as I expected & warned Jan2018, they will print to make up and
+            enslave people thru institutions
+          </div>
+          <br />
           "Inversions will happen all over again, all over." Catsimitidis:
           "Larry Kudlow, I agree with you 110%"
           <br />
