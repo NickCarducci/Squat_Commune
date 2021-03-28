@@ -20,7 +20,7 @@ export default class App extends React.Component {
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
           Yelling fire in a crowded theatre is critical if the fire is invisible
-          to sight as a methane fire woould be exhibited without
+          to sight as a methane fire would be exhibited without
           provable-existence from&nbsp;
           <a href="https://twitter.com/frankluntz">afar</a>.
           <br />
