@@ -27,9 +27,13 @@ export default class App extends React.Component {
           fucking fraud/flop just like 9/11 you were in a nice-viewing area
           <br />
           <br />
-          Voluntary sampling for sample/population is more random than random imo
-          <br/>
-          <br/>
+          Voluntary sampling for sample/population is more random than random
+          imo... Do you need a notary for a credible threat, Judge Janine? More
+          witnesses than Antarctic trekkers for desist flat earthers? Dominion
+          lawyer: "Relentless disregard for truth that Dominion accurately
+          tabbed votes"
+          <br />
+          <br />
           <a href="https://kbhgames.com/game/binding-of-isaac">
             banksquat , serflord, counterfeitwagering, slaveryByProxy
           </a>
