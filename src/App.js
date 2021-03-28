@@ -40,7 +40,13 @@ export default class App extends React.Component {
                   height: "auto",
                   width: "100%"
                 }}
-                alt="newsmax presents new $3t bill with a smile Mar2021: links to humanharvest.info"
+                alt={
+                  `newsmax presents new $3t bill with a smile Mar2021: ` +
+                  `links to humanharvest.info, trump since a little criminal I ` +
+                  `will decide, but you can suggest to me alt photos.  public crime ` +
+                  `or nicety publicity of officials need payment I think not but let me ` +
+                  `know if you want attribution`
+                }
                 src="https://www.dl.dropboxusercontent.com/s/w07zaycagd3zfzo/Trump-Waving.jpeg?dl=0"
               />
             </a>
