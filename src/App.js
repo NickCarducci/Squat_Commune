@@ -19,6 +19,12 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Yelling fire in a crowded theatre is critical if the fire is invisible
+          to sight as a methane fire woould be exhibited without
+          provable-existence from&nbsp;
+          <a href="https://twitter.com/frankluntz">afar</a>.
+          <br />
+          <br />
           Equity - (reparations,&nbsp;
           <a href="https://en.wikipedia.org/wiki/The_Ricklantis_Mixup#Simple_Rick's">
             -sweat
