@@ -23,7 +23,7 @@ export default class App extends React.Component {
           internet. NonVaults-taxation is before Vaults.biz
           <br />
           <br />
-          Weed is money{/**investment banking */}
+Weed is money/investment banking gains (not commercial lending)
           <br />
           <br />
           Driving? I was kicked off JHU wrestling for performance
