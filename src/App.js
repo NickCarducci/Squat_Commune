@@ -19,6 +19,10 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          If you, as an older person, want others to only go to Church and home
+          instead of the club, maybe you shouldn't leave your house at all
+          <br />
+          <br />
           Yelling fire in a crowded theatre is critical if the fire is invisible
           to sight as a methane fire would be exhibited without
           provable-existence from&nbsp;
