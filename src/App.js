@@ -18,12 +18,22 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Dick Morris: ‘Communists say, “we only need one election”’
+          <br />
+          <br />
+          Much to surprise/chagrin
+          <br />
+          <br />
+          Finance has industry 42 times over, $150k will not get me out, not all
+          the money in the world would get industry out
+          <br />
+          <br />
           Senators 2 by each state - needs to be proportional to
           population/greivances. Parties are to communicate ideas before the
           internet. NonVaults-taxation is before Vaults.biz
           <br />
           <br />
-Weed is money/investment banking gains (not commercial lending)
+          Weed is money/investment banking gains (not commercial lending)
           <br />
           <br />
           Driving? I was kicked off JHU wrestling for performance
