@@ -18,6 +18,9 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Senators 2 by each state.  Parties are to communicate ideas before the internet.  NonVaults-taxation is before Vaults.biz
+          <br />
+          <br />
           Weed is money{/**investment banking */}
           <br />
           <br />
