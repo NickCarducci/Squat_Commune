@@ -13,11 +13,27 @@ export default class App extends React.Component {
     this.priceQuality = React.createRef();
     this.tranche = React.createRef();
     this.taxes = React.createRef();
+    this.maxScott = React.createRef();
   }
   render() {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          "Inversions will happen all over again, all over." Catsimitidis:
+          "Larry Kudlow, I agree with you 110%"
+          <br />
+          <br />
+          That 10% has to be earned from some unrequited-third party or your
+          maker,&nbsp;
+          <span
+            style={{ textDecoration: "underline" }}
+            onClick={() => this.maxScott.current.scrollIntoView("smooth")}
+          >
+            investment
+          </span>
+          (not-lending) is labor's best friend
+          <br />
+          <br />
           Dick Morris: ‘Communists say, “we only need one election”’
           <br />
           <br />
@@ -179,8 +195,10 @@ export default class App extends React.Component {
           &nbsp;pays in price-inelasticity and trust-building monopsony
           <br />
           <br />
-          Rick scott doesn't understand royalty contracts w/max-profit per sale
-          or withdrawal
+          <span ref={this.maxScott}>
+            <b>Rick Scott</b>&nbsp;doesn't understand royalty contracts
+            w/max-profit per sale or withdrawal
+          </span>
           <br />
           <br />
           const VelocityOfCurrencyComponentOfM1 = (Velocity of M2 - (GDP/(M2
