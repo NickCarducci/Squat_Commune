@@ -19,12 +19,17 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          time duress correctness*poo-poo [cornering-economically into
+          impossibility by conflating costs, time-used (where you cannot at the
+          same time in {">"}places), and accrual]. HARAM
+          <br />
+          <br />
           Understanding builds our precedence and unreasonable possibilities;
           unseen gov?
           <br />
           <br />
-          Is Rudy confused about how to void electoion for calling an election
-          fucking fraud/flop just like 9/11 you were in a nice-viewing area
+          Is Rudy confused about how to void election for calling an election
+          ------- fraud/flop just like 9/11 you were in a nice-viewing area
           <br />
           <br />
           Voluntary sampling for sample/population is more random than random
