@@ -18,6 +18,11 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          carrot freedom whip erase history for reparations
+          <br />
+          credit is just as green but $24-48k/yr per person who most have no
+          more than $1.2k
+          <br />
           <a href="https://apps.irs.gov/app/eos/detailsPage?ein=830769850&name=Oath%20Keepers%20United&city=Salem&state=VA&countryAbbr=US&dba=&type=CHARITIES,%20DETERMINATIONLETTERS&orgTags=CHARITIES&orgTags=DETERMINATIONLETTERS">
             Gottheimer
           </a>
