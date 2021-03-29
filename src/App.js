@@ -25,7 +25,7 @@ export default class App extends React.Component {
           CNN: 'We bet Clear will be the ones to "authorize people to more
           readily take part in activities”' without symptoms a vaccine would not
           have helped. It needs to gestate in mask first (2) exclusionary-duress
-          - benefit / warning effect
+          - benefit / warning effect (not a vaccine)
           <br />
           <br />
           pre-ordained meditation
