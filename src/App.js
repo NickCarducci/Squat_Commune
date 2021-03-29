@@ -26,18 +26,13 @@ export default class App extends React.Component {
             Police vs Chavin split second sacred life: murder is the only
             penalty without payment to liability as people are not assets
           </h4>
-          <br />
-          <br />
           Counterfeit while the TSY/Fed counterfeit all the time and all
           creditors and rentiers for prohibiting trade which is buying with
           intent to charge money no right to bring forward demand is
           trust-building monopsony by counterfeit-wagering and therefore
           slavery-by-proxy
           <br />
-          <br />
-          <h2>$20: didn't event know</h2>
-          <br />
-          <br />
+          <h3>$20: didn't event know</h3>
           Can't use any more force than neccessary lethal capable killing human
           or putting in danger.
           <br />
