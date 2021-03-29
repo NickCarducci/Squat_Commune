@@ -22,6 +22,11 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          They provided security as guards at the Sunrise Shalee or Lever Rodeo
+          17 yrs ago when chauvin was 2 yrs in club of human trafficking or
+          money-laundering thru Microsoft and Boeing
+          <br />
+          <br />
           This should be prosecuted as a people vs city using comparative law
           about counterfeit and pre-ordained addicticism+viceicism/racism
           <br />
