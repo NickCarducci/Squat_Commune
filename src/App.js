@@ -29,6 +29,11 @@ export default class App extends React.Component {
           textAlign: "center"
         }}
       >
+        Define check: I think only threats or convicts certainly, but delusions
+        currently... maybe have a basic coherence test federalized? There is
+        some federal gun registry law that has to be repealed as well ...
+        <br />
+        <br />
         You're a moron I have been smoking for years and am smarter than you and
         Einstein @JCats2013
         <br />
@@ -36,8 +41,9 @@ export default class App extends React.Component {
         The testing is the problem you don't even give drug users a chance -
         instead you monopsonize it for your pharmacy @USEEOC
         <br />
-        Don’t smoke or else you’ll become smart enough that and realize that you
-        “Get a good job, sell out your time to no ends” your a fucking retard
+        Don’t smoke or else you’ll become smart enough that and to realize that
+        you “Get a good job, sell out your time to no ends” you've your fucking
+        retard thinking and can have it
         <br />
         <br />
         <a href="https://www.nysenate.gov/senators/todd-kaminsky">
