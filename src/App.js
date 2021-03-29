@@ -29,6 +29,17 @@ export default class App extends React.Component {
           textAlign: "center"
         }}
       >
+        You're a moron I have been smoking for years and am smarter than you and
+        Einstein @JCats2013
+        <br />
+        <br />
+        The testing is the problem you don't even give drug users a chance -
+        instead you monopsonize it for your pharmacy @USEEOC
+        <br />
+        Don’t smoke or else you’ll become smart enough that and realize that you
+        “Get a good job, sell out your time to no ends” your a fucking retard
+        <br />
+        <br />
         <a href="https://www.nysenate.gov/senators/todd-kaminsky">
           Bail reform means letting criminals on the streets, it's just business
         </a>
