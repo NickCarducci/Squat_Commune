@@ -32,7 +32,7 @@ export default class App extends React.Component {
           trust-building monopsony by counterfeit-wagering and therefore
           slavery-by-proxy
           <br />
-          <h3>$20: didn't event know</h3>
+          <h3>$20: didn't even know</h3>
           Can't use any more force than neccessary lethal capable killing human
           or putting in danger.
           <br />
