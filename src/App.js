@@ -14,11 +14,32 @@ export default class App extends React.Component {
     this.tranche = React.createRef();
     this.taxes = React.createRef();
     this.maxScott = React.createRef();
+    this.m501c3 = React.createRef();
+    this.m501c4 = React.createRef();
+    this.slack = React.createRef();
   }
   render() {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          <a href="https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia">
+            Microsoft Flight Simulator Pays Off the CDC
+          </a>
+          <br />
+          <br />
+          "Our last caller got pulled over for talking on his cell phone."
+          <br />
+          <br />
+          "Cut the guy some&nbsp;
+          <span onClick={() => this.slack.current.scrollIntoView("smooth")}>
+            slack
+          </span>
+          ," appeals Bernie. "He supports the police."
+          <br />
+          <br />
+          "Worse comes to worst, bring the ticket here."
+          <br />
+          <br />
           Poll: voluntary/random sample (n sample required) presentation
           <br />
           <br />
@@ -775,7 +796,7 @@ export default class App extends React.Component {
             />
           </div>
           {/*stop shouting fire in a crowded theatre when there is no fire
-        <br/>*/}
+          <br/>*/}
           I can punch your block out if you attempt to take my car, why not the
           election certification or my equity?
           <br />
@@ -1063,8 +1084,14 @@ export default class App extends React.Component {
           sell-out to someone who would not operate for government or profit)
           <br />
           <br />
-          Vote bus must be without candidate-ad; 2-2-1 at least assumes all 5
-          don't want to&nbsp;
+          <span
+            ref={this.slack}
+            onClick={() => this.m501c4.current.scrollIntoView("smooth")}
+          >
+            Vote bus/water-giving must be without candidate-ad; 2-2-1 at least
+            assumes all 5 don't want to
+          </span>
+          &nbsp;
           <a href="https://open.spotify.com/track/07RHDDr8WoGj0xK3C1GaWH?si=zTrPxcEsQx-yKLzeNwtanw">
             be
           </a>
@@ -1080,9 +1107,14 @@ export default class App extends React.Component {
           Government monopsony of ideas AND assets/profits
           <br />
           <br />
-          "No disclosure for 501c4 but for SuperPAC? Literally wtf. Need
-          registrar of internet, tv & radio ads not just newspaper tho..." -
-          Senator King & Mr. Potter
+          <span
+            ref={this.m501c4}
+            onClick={() => this.m501c3.current.scrollIntoView("smooth")}
+          >
+            "No disclosure for 501c4 but for SuperPAC? Literally wtf. Need
+            registrar of internet, tv & radio ads not just newspaper tho..." -
+            Senator King & Mr. Potter
+          </span>
           <br />
           <br />
           Fact-checking is illegal to promulgate if it is only
@@ -1176,13 +1208,15 @@ export default class App extends React.Component {
           </div>
           <br />
           <br />
-          One man's voter supression is another's sample bias by campaign
-          funding. Georgia 501c4 claiming they are voter education 501c3 (there
-          can be voter fraud easily by signature (cause it is hard to match it
-          is hard to prove a match is forged), there doesn't need to be a
-          mistake to prevent it especially when it probably already happened
-          without the (1) ability to check signatures because signatures are
-          useless
+          <span ref={this.m501c3}>
+            One man's voter supression is another's sample bias by campaign
+            funding. Georgia 501c4 claiming they are voter education 501c3
+            (there can be voter fraud easily by signature (cause it is hard to
+            match it is hard to prove a match is forged), there doesn't need to
+            be a mistake to prevent it especially when it probably already
+            happened without the (1) ability to check signatures because
+            signatures are useless
+          </span>
           <br />
           <br />
           <div
@@ -1513,7 +1547,7 @@ export default class App extends React.Component {
           <br />
           "Pick your favorite mechanic to do the work, and carsheild [runs up
           the bill]{/* does the
-        rest*/}" - Mark Levin
+          rest*/}" - Mark Levin
           <br />
           <div
             style={{ position: "relative", width: "50%", minWidth: "100px" }}
@@ -2087,8 +2121,8 @@ export default class App extends React.Component {
           <br />
           <br />
           {/*(reason) jealousy, efficiency, impact-charity, charity
-        <br />
-        <br />*/}
+          <br />
+          <br />*/}
           Commisioning of mental health assesments (you can sue certified
           physician monopsony-of-pharmaceutical members for libel) from owning a
           firearm should be barred for unless a threat is made, not an
