@@ -19,6 +19,10 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          John Harwood science is mc^2 on the basis of variables instead of
+          measuring in its own units
+          <br />
+          <br />
           If you, as an older person, want others to only go to Church and home
           instead of the club, maybe you shouldn't leave your house at all
           <br />
