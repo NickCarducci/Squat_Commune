@@ -37,7 +37,7 @@ export default class App extends React.Component {
           ," appeals Bernie. "He supports the police."
           <br />
           <br />
-          "Worse comes to worst, bring the ticket here."
+          "Worse comes to worst, bring the ticket here." - negotiates Sid
           <br />
           <br />
           Poll: voluntary/random sample (n sample required) presentation
