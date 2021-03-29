@@ -39,6 +39,13 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Information club $ (SEC)
+          <br />
+          vs
+          <br />
+          inventors (DOJ)/ Supply (jobs) / investors (lenders)
+          <br />
+          <br />
           <h1>Suing for expected monopsony</h1>
           13 state sue biden over gas, oil sales
           <br />
