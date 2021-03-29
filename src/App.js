@@ -39,6 +39,31 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <h1>Suing for expected monopsony</h1>
+          13 state sue biden over gas, oil sales
+          <br />
+          broken contracts, not produced? You can ask for what you paid for or
+          your money back. You can hold him&nbsp;
+          <a href="https://billbiden.org">personally liable?</a>
+          <div
+            style={{
+              position: "relative",
+              width: "50%",
+              minWidth: "100px",
+              maxWidth: "200px"
+            }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="13 state sue biden over gas, oil sales"
+              src="https://www.dl.dropboxusercontent.com/s/vola5m0telt10pa/MonopsonySuit.jpg?dl=0"
+            />
+          </div>
+          <br />
+          <br />
           Define check: I think only threats or convicts certainly, but
           delusions currently... maybe have a basic coherence test federalized?
           There is some federal gun registry law that has to be repealed as well
