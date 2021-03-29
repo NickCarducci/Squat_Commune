@@ -29,6 +29,11 @@ export default class App extends React.Component {
           textAlign: "center"
         }}
       >
+        <a href="https://www.nysenate.gov/senators/todd-kaminsky">
+          Bail reform means letting criminals on the streets, it's just business
+        </a>
+        <br />
+        <br />
         They provided security as guards at the Sunrise Shalee or Lever Rodeo 17
         yrs ago when chauvin was 2 yrs in club of human trafficking or
         money-laundering thru Microsoft and Boeing
@@ -169,9 +174,9 @@ export default class App extends React.Component {
         Chavin trained to do CPR; stopped fire/emergency check pulse/well-being
         reach for mace and point at her (sounds like she didn't get identify
         herself or)" "water or something" Floyd asks while pancaked
-        [crushing-trachea/-artery], "bogus [cheap-shot], enjoying it, not even resisting
-        arrest right now," and "nose is bleeding, they don't care about black
-        people" I presume he doesn't like drug-addicts
+        [crushing-trachea/-artery], "bogus [cheap-shot], enjoying it, not even
+        resisting arrest right now," and "nose is bleeding, they don't care
+        about black people" I presume he doesn't like drug-addicts
         <br />
         <br />
         The cannons say the writers of the Bible talked to G-d because Jesus IS
