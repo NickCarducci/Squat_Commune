@@ -19,6 +19,9 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Poll: voluntary/random sample (n sample required) presentation
+          <br />
+          <br />
           John Harwood science is mc^2 on the basis of variables instead of
           measuring in its own units
           <br />
