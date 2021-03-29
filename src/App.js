@@ -50,7 +50,9 @@ export default class App extends React.Component {
           <br />
           Chavin trained to do CPR; stopped fire/emergency check
           pulse/well-being reach for mace and point at her (sounds like she
-          didn't get identify herself or)" water or something wtf
+          didn't get identify herself or)" water or something wtf, "bogus
+          [cheap-shot], enjoying it, not even resisting arrest right now," and
+          "nose is bleeding"
           <br />
           <br />
           The cannons say the writers of the Bible talked to G-d because Jesus
