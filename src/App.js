@@ -22,6 +22,17 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          "No petricial hemorages, bruises; much CO2/fetenol/meth"
+          <br />
+          <br />
+          "Not mechanical axphixiation,
+          hypertension/coronary-disease/enlarged-heart/
+          <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4444766/">
+            Pheochromocytoma_tumor_of_increased_adrenoline
+          </a>
+          /swelling+debeatment_of_lungs, [shock from open-fracture nose, ]and "
+          <br />
+          <br />
           <div
             style={{
               position: "relative",
