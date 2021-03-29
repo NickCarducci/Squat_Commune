@@ -86,8 +86,9 @@ export default class App extends React.Component {
           <br />
           [mass(electrons_compositi)xlightspeedScales; light is the loss of
           electrons but most are exchanged as they move through the air. the
-          point of the equation was to describe gravity but that is the
-          electron. Do we know where electrons come from?&nbsp;
+          point of the equation was to describe gravity but that is the&nbsp;
+          <a href="https://pubs.acs.org/doi/10.1021/ac051323m">electron</a>. Do
+          we know where electrons come from?&nbsp;
           <a href="https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04500c">
             the Protons themselves
           </a>
