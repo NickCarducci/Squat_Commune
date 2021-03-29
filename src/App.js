@@ -1,3 +1,6 @@
+import React from "react";
+import Fraud3 from "./Fraud3";
+import Fraud4 from "./Fraud4";
 import Fraud5 from "./Fraud5";
 import Fraud6 from "./Fraud6";
 import Fraud7 from "./Fraud7";
@@ -92,6 +95,9 @@ export default class App extends React.Component {
             your
           </span>
           &nbsp;our care"
+          <br />
+          <br />
+          Chauvin: "It was what I was trained to do for 19 years"
           <br />
           <br />
           Chavin trained to do CPR; stopped fire/emergency check
