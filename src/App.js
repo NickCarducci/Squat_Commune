@@ -22,6 +22,12 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          I serve on behalf of my family, friends, all of you and those unseen
+          in research but not their money or their debts only their assets after
+          they have long lives and the fraction of the overpayment less the
+          loitering on the assets as chalk borrowers
+          <br />
+          <br />
           "Lynching of Freemason Floyd" - Al Sharpton
           <br />
           Is Chauvin an exhibited racist(orderOfPreference) * threat
