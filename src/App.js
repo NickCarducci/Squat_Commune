@@ -22,6 +22,11 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          pre-ordained meditation
+          <br />
+          "He broke his nose on the plexi-glass there"
+          <br />
+          <br />
           Sounds like you have discussed&nbsp;
           <b style={{ color: "blue" }}>this</b>&nbsp;before
           <br />
@@ -2534,4 +2539,3 @@ export default class App extends React.Component {
     );
   }
 }
-
