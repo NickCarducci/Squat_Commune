@@ -22,10 +22,21 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Cardio-pulmonary arrest, effect of death by breathing [lungs or heart
+          (lungs work with heart)]
           <h4>
-            Police vs Chavin split second sacred life: murder is the only
-            penalty without payment to liability as people are not assets
+            Police vs Chavin&nbsp;
+            <span style={{ fontWeight: "normal" }}>
+              [split second, sacred life, 11mg tolerable, proper for cancer
+              pain]: murder is the only penalty without payment to liability as
+              people are not assets
+            </span>
           </h4>
+          Axphyxiation by drug addict-hate, yet analysis discrepency of more
+          evidence as use of force and not without their own-integral by more
+          than 50% of derivative
+          <br />
+          <br />
           Counterfeit while the TSY/Fed counterfeit all the time and all
           creditors and rentiers for prohibiting trade which is buying with
           intent to charge money no right to bring forward demand is
