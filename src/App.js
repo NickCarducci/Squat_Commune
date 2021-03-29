@@ -23,7 +23,7 @@ export default class App extends React.Component {
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
           "Under penalty of a non-tort do you promise not to incriminate
-          yourself or incriminate another?"
+          yourself or incriminate another?" *Bashes continue*
           <br />
           <br />
           "No petricial hemorages, bruises; much CO2/fetenol/meth"
