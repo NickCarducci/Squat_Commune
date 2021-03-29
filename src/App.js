@@ -1,5 +1,3 @@
-import Fraud3 from "./Fraud3";
-import Fraud4 from "./Fraud4";
 import Fraud5 from "./Fraud5";
 import Fraud6 from "./Fraud6";
 import Fraud7 from "./Fraud7";
@@ -21,8 +19,27 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          <div
+            style={{
+              position: "relative",
+              width: "50%",
+              minWidth: "100px"
+            }}
+          >
+            <img
+              style={{
+                transform: "scale(-1,1)",
+                height: "auto",
+                width: "100%"
+              }}
+              alt={`Help detain passengers`}
+              src="https://www.dl.dropboxusercontent.com/s/mypvyko9h162kid/USSeal.png?dl=0"
+            />
+          </div>
+          <br />
+          <br />
           Cardio-pulmonary arrest, effect of death by breathing [lungs or heart
-          (lungs work with heart)]
+          (lungs work with heart)].{/* Did the officer have any marks?*/}
           <h4>
             Police vs Chavin&nbsp;
             <span style={{ fontWeight: "normal" }}>
