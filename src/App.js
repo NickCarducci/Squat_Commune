@@ -22,6 +22,10 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          This should be prosecuted as a people vs city using comparative law
+          about counterfeit and pre-ordained addicticism+viceicism/racism
+          <br />
+          <br />
           CNN: 'We bet Clear will be the ones to "authorize people to more
           readily take part in activities”' without symptoms a vaccine would not
           have helped. It needs to gestate in mask first (2) exclusionary-duress
