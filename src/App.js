@@ -22,6 +22,13 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          "Lynching of Freemason Floyd" - Al Sharpton
+          <br />
+          Is Chauvin an exhibited racist(orderOfPreference) * threat
+          <br />
+      "Why would you do that long as beg.  Add an appeal. 'Cop must say, "say uncle"'"
+          <br />
+          <br />
           <a href="https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia">
             Microsoft Flight Simulator Pays Off the CDC
           </a>
