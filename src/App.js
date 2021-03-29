@@ -22,6 +22,43 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          <h4>
+            Police vs Chavin split second sacred life: murder is the only
+            penalty without payment to liability as people are not assets
+          </h4>
+          <br />
+          <br />
+          Counterfeit while the TSY/Fed counterfeit all the time and all
+          creditors and rentiers for prohibiting trade which is buying with
+          intent to charge money no right to bring forward demand is
+          trust-building monopsony by counterfeit-wagering and therefore
+          slavery-by-proxy
+          <br />
+          <br />
+          <h2>$20: didn't event know</h2>
+          <br />
+          <br />
+          Can't use any more force than neccessary lethal capable killing human
+          or putting in danger.
+          <br />
+          <br />
+          Minn. Promise about Citizens:
+          <br />
+          <br />
+          "In your our custody in your our care"
+          <br />
+          <br />
+          Chavin trained to do CPR; stopped fire/emergency check
+          pulse/well-being reach for mace and point at her (sounds like she
+          didn't get identify herself or)" water or something wtf
+          <br />
+          <br />
+          The cannons say the writers of the Bible talked to G-d because Jesus
+          IS G-d to die like a sacrifice that we appreciate now because we are
+          all saved and that was a fish and now the Age of Aquarius. Mayan
+          Calendar ended 2012, Sounds fishy.
+          <br />
+          <br />
           Paris G., What do you[, RNC] stand for?
           <br />
           <br />
