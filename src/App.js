@@ -39,6 +39,13 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <a href="https://2052.live">backed into a corner</a>
+          &nbsp;Pattern-Day&nbsp;
+          <a href="https://en.wiktionary.org/wiki/like_shooting_fish_in_a_barrel">
+            Trader
+          </a>
+          <br />
+          <br />
           Information club $ (SEC)
           <br />
           vs
@@ -58,7 +65,7 @@ export default class App extends React.Component {
                 height: "auto",
                 width: "100%"
               }}
-              alt="13 state sue biden over gas, oil sales"
+              alt="free trial on market information (ask-bid)"
               src="https://www.dl.dropboxusercontent.com/s/v0vlh467wv70058/FreePreview.jpg?dl=0"
             />
           </div>
@@ -76,7 +83,7 @@ export default class App extends React.Component {
                 height: "auto",
                 width: "100%"
               }}
-              alt="13 state sue biden over gas, oil sales"
+              alt="Eating out the middle-class"
               src="https://www.dl.dropboxusercontent.com/s/zkoq9a6ohuz64n4/FoxBusiness.jpg?dl=0"
             />
           </div>
@@ -2672,3 +2679,4 @@ export default class App extends React.Component {
     );
   }
 }
+
