@@ -26,7 +26,8 @@ export default class App extends React.Component {
           <br />
           Is Chauvin an exhibited racist(orderOfPreference) * threat
           <br />
-      "Why would you do that long as beg.  Add an appeal. 'Cop must say, "say uncle"'"
+          "Why would you do that long as beg. Add an appeal. 'Cop must say, "say
+          uncle"'"
           <br />
           <br />
           <a href="https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia">
@@ -52,6 +53,10 @@ export default class App extends React.Component {
           <br />
           John Harwood science is mc^2 on the basis of variables instead of
           measuring in its own units
+          <br />
+          <br />
+          CNN says the triggering-integral of 1% derivative scaliarity is the
+          cause of the equated unit change in time
           <br />
           <br />
           If you, as an older person, want others to only go to Church and home
