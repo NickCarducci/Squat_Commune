@@ -83,6 +83,11 @@ export default class App extends React.Component {
           <br />
           John Harwood science is mc^2 on the basis of variables instead of
           measuring in its own units
+          [mass(electrons_compositi)xlightspeedScales; light is the loss of
+          electrons but most are exchanged as they move through the air. the
+          point of the equation was to describe gravity but that is the
+          electron. Do we know where electrons come from? the Protons
+          themselves?]
           <br />
           <br />
           CNN says the triggering-integral of 1% derivative scaliarity is the
