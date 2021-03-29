@@ -22,6 +22,30 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Paris G., What do you[, RNC] stand for?
+          <br />
+          <br />
+          "America First," replies to me in my phone.
+          <br />
+          <br />
+          <div
+            style={{ position: "relative", width: "50%", minWidth: "100px" }}
+          >
+            <a href="https://en.wikipedia.org/wiki/Paris_Dennard">
+              <img
+                style={{
+                  height: "auto",
+                  width: "100%"
+                }}
+                alt={`America First sect `}
+                src="https://www.dl.dropboxusercontent.com/s/q8qijp2ier4suqn/ParisRNCSpoke.png?dl=0"
+              />
+            </a>
+          </div>
+          <br />
+          That is the people and holders of equityutilitymoney
+          <br />
+          <br />
           I serve on behalf of my family, friends, all of you and those unseen
           in research but not their money or their debts only their assets after
           they have long lives and the fraction of the overpayment less the
