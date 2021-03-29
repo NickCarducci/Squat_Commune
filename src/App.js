@@ -22,6 +22,16 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <div style={{ position: "relative", maxWidth: "600px" }}>
+          Google Drive nonprofit entraps your drawings if you leave the
+          government
+          <br />
+          their Takeout only delivers mail and not drawings for your personal
+          account. When I asked years ago, they told me I would be just as
+          well-served by sharing the document, lying also by saying they,
+          "understand my worry" for keeping revision records while stop paying
+          them got G Suite as an ngo.
+          <br />
+          <br />
           "Under penalty of a non-tort do you promise not to incriminate
           yourself or incriminate another?" *Bashes continue*
           <br />
