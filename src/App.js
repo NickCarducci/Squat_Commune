@@ -1,4 +1,3 @@
-import React from "react";
 import Fraud3 from "./Fraud3";
 import Fraud4 from "./Fraud4";
 import Fraud5 from "./Fraud5";
@@ -35,6 +34,14 @@ export default class App extends React.Component {
           Axphyxiation by drug addict-hate, yet analysis discrepency of more
           evidence as use of force and not without their own-integral by more
           than 50% of derivative
+          <br />
+          <br />
+          'Lived for years happened in those 9'29""'
+          <br />
+          <br />
+          "I think I will die if they put be in the&nbsp;
+          <a href="https://en.wikipedia.org/wiki/Jerome_Powell">squad car</a>" -
+          Floyd
           <br />
           <br />
           Counterfeit while the TSY/Fed counterfeit all the time and all
