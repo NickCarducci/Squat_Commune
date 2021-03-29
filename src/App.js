@@ -103,14 +103,16 @@ export default class App extends React.Component {
               maxWidth: "200px"
             }}
           >
-            <img
-              style={{
-                height: "auto",
-                width: "100%"
-              }}
-              alt="13 state sue biden over gas, oil sales"
-              src="https://www.dl.dropboxusercontent.com/s/vola5m0telt10pa/MonopsonySuit.jpg?dl=0"
-            />
+            <a href="https://gov.alaska.gov/home/meet-mike-dunleavy/">
+              <img
+                style={{
+                  height: "auto",
+                  width: "100%"
+                }}
+                alt="13 state sue biden over gas, oil sales"
+                src="https://www.dl.dropboxusercontent.com/s/vola5m0telt10pa/MonopsonySuit.jpg?dl=0"
+              />
+            </a>
           </div>
           <br />
           <br />
@@ -2679,4 +2681,3 @@ export default class App extends React.Component {
     );
   }
 }
-
