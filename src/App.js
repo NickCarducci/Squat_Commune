@@ -45,6 +45,42 @@ export default class App extends React.Component {
           <br />
           inventors (DOJ)/ Supply (jobs) / investors (lenders)
           <br />
+          <div
+            style={{
+              position: "relative",
+              width: "50%",
+              minWidth: "100px",
+              maxWidth: "200px"
+            }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="13 state sue biden over gas, oil sales"
+              src="https://www.dl.dropboxusercontent.com/s/v0vlh467wv70058/FreePreview.jpg?dl=0"
+            />
+          </div>
+          <br />
+          <div
+            style={{
+              position: "relative",
+              width: "50%",
+              minWidth: "100px",
+              maxWidth: "200px"
+            }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="13 state sue biden over gas, oil sales"
+              src="https://www.dl.dropboxusercontent.com/s/zkoq9a6ohuz64n4/FoxBusiness.jpg?dl=0"
+            />
+          </div>
+          <br />
           <br />
           <h1>Suing for expected monopsony</h1>
           13 state sue biden over gas, oil sales
