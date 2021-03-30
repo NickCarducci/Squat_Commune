@@ -39,6 +39,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <h3>
+            "Please use experience[ about responsive questions], not opinion"
+          </h3>
           As you tighten budget for free-rider-immutable services only useless
           price-hikes cease. Keystone
           <br />
@@ -328,6 +331,12 @@ export default class App extends React.Component {
           same answer
           <br />
           "Disregard for life, touched my chest after stepping off-the-curb"
+          <br />
+          <br />
+          "You are angry"
+          <br />
+          Do not answer that, I tell my phone
+          <br />
           <br />
           <br />
           "I dare you to touch me like that, I would slap the fuck out of you"
@@ -2787,3 +2796,4 @@ export default class App extends React.Component {
     );
   }
 }
+
