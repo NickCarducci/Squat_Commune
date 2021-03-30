@@ -38,7 +38,9 @@ export default class App extends React.Component {
             maxWidth: "600px",
             position: "relative"
           }}
-        >
+        >As you tighten budget for free-rider-immutable services only useless price-hikes cease. Keystone
+        <br/>
+        <br/>
           “Animals were likely source of coronavirus, not lab leak, WHO says”
           means it existed for years and the deaths were from bad policy or
           other situational factors
