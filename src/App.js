@@ -342,6 +342,14 @@ export default class App extends React.Component {
           Floyd
           <br />
           <br />
+          If Chauvin knows a long term artery fixation will be lethal continuing
+          to do so is not self-defense
+          <br />
+          <br />
+          "Chauvin responded to get up upon warning of unconciousness" - what
+          where did this witness come from...
+          <br />
+          <br />
           "objection: non-responsive"
           <br />
           same answer
