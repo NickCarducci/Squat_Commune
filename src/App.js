@@ -38,9 +38,11 @@ export default class App extends React.Component {
             maxWidth: "600px",
             position: "relative"
           }}
-        >As you tighten budget for free-rider-immutable services only useless price-hikes cease. Keystone
-        <br/>
-        <br/>
+        >
+          As you tighten budget for free-rider-immutable services only useless
+          price-hikes cease. Keystone
+          <br />
+          <br />
           “Animals were likely source of coronavirus, not lab leak, WHO says”
           means it existed for years and the deaths were from bad policy or
           other situational factors
@@ -319,6 +321,13 @@ export default class App extends React.Component {
           "I think I will die if they put be in the&nbsp;
           <a href="https://en.wikipedia.org/wiki/Jerome_Powell">squad car</a>" -
           Floyd
+          <br />
+          <br />
+          "objection: non-responsive"
+          <br />
+          same answer
+          <br />
+          "Disregard for life, touched my chest after stepping off-the-curb"
           <br />
           <br />
           Counterfeit while the TSY/Fed counterfeit all the time and all
