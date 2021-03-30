@@ -39,9 +39,15 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Eating out the middle-class
+          <br />
+          <br />
+          Box me in on nomenclature obfuscation
+          <br />
+          <br />
           Why does interstate not have tolls?
-        <br />
-        <br />
+          <br />
+          <br />
           Ted Cruz video taping the shit going down in his state is like the
           arsonist, you know, doing that
           <br />
