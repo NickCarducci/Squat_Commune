@@ -39,13 +39,43 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          “HUD FTC Biden administration to keep renters in their homes,” not
-          their homes, you are conspiring to prohibit trade literally admitted
+          "Out of date tax code, some can pay more. If you can get people back
+          to work we would hear it. Work for works sake is not what people or
+          economists want," only Psaki. She promises to not allow Rutgers to
+          duress grafts on students, let alone for no added safety as per
+          transmissability only from&nbsp;
+          <a href="https://moldmask.co">cough/touch</a>
+          {/* it could just be mentioned in the advertising*/}
           <br />
           <br />
-          If you are hiring someone based on looking in their eyes, make sure they respect you first
-        <br />
-        <br />
+          “HUD FTC Biden administration to keep renters in their homes,”
+          <br />
+          <div
+            style={{
+              position: "relative",
+              width: "50%",
+              minWidth: "100px",
+              maxWidth: "200px"
+            }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt="Prevent Prices from Dropping"
+              src="https://www.dl.dropboxusercontent.com/s/y23e4bwv1dg5ug9/AdmissionPsaki.jpg?dl=0"
+            />
+          </div>
+          <br />
+          not their homes, you are conspiring to prohibit trade literally
+          admitted
+          <br />
+          <br />
+          If you are hiring someone based on looking in their eyes, make sure
+          they respect you first
+          <br />
+          <br />
           Eating out the middle-class: the first amendment doesn't protect
           private discrimination, but free-ridership of static gains in
           assets/profits from labor for you to enjoy does - even my volunteer
