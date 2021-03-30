@@ -39,6 +39,13 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <h1
+            style={{
+              fontFamily: '"Pacifico", sans-serif'
+            }}
+          >
+            I don't have time for this
+          </h1>
           Not enough for debt or invoices
           <br />
           <br />
