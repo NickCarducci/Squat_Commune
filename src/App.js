@@ -84,8 +84,13 @@ export default class App extends React.Component {
           <br />
           <br />
           “No massive welfare state and open borders = “M. Friedman. Kamala in
-          charge of root causes (FEC) “moving out of border security facilities,
-          not the root cause of that, to be clear.” -Psaki
+          charge of&nbsp;
+          <a href="https://www.researchgate.net/publication/344197041_FEC_government_spending_as_advertised_in_political_campaigns_as_free_to_even_the_beneficiary_when_actually_it_is_misleading_towards_indentured_servitude_heightened_cost_capacity_requires_dollar-split">
+            root causes
+          </a>
+          . “moving out of border security facilities, not the root cause of
+          that, to be clear.” -Psaki. “To study the root cause of child abuse
+          being the bring a child get in free policy of the Joe Biden” - T Cruz
           <br />
           <br />
           If you are hiring someone based on looking in their eyes, make sure
