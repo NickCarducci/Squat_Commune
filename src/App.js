@@ -336,7 +336,8 @@ export default class App extends React.Component {
           <br />
           26 times hobo
           <br />
-          "no, 'more professional'-[fighter defender-of-civil-rights]*"
+          "no, 'more professional'-[fighter defender-of-civil-rights, no
+          mercy]*"
           <br />
           <br />
           "Within the next few years you will shoot youself Tao, Chauvin"
@@ -2786,3 +2787,4 @@ export default class App extends React.Component {
     );
   }
 }
+
