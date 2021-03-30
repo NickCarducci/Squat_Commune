@@ -336,8 +336,8 @@ export default class App extends React.Component {
           <br />
           26 times hobo
           <br />
-          "no, 'more professional'-[fighter defender-of-civil-rights,
-          sacred-life, no mercy]*"
+          "no, 'more professional'-[fighter defender(No DVR), sacred-life, no
+          mercy, visibly-unconcious]*"
           <br />
           <br />
           "Within the next few years you will shoot youself Tao, Chauvin"
