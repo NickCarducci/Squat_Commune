@@ -74,7 +74,7 @@ export default class App extends React.Component {
                 height: "auto",
                 width: "100%"
               }}
-              alt="Prevent Prices from Dropping"
+              alt="Psaki waving away savers: Prevent Housing Prices from Dropping"
               src="https://www.dl.dropboxusercontent.com/s/y23e4bwv1dg5ug9/AdmissionPsaki.jpg?dl=0"
             />
           </div>
