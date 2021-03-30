@@ -59,8 +59,8 @@ export default class App extends React.Component {
           producers but consumers, the basis of the Sherman Act and Amendment
           14, 13). Prohibiting trade in login.gov e2e encryption x t-0 exchange
           and vaults.biz 86
-          counterfeit-wagering/squat/build-to-rent/slavery-by-proxy & reverse to
-          debt:cash net gain/loss Y2Y
+          counterfeit-wagering/squat/build-to-rent/slavery-by-proxy/monopsony-beyond-free-rider-immutable-collective-purchases-unless-voluntary-and-of-settled-collateral
+          & reverse to debt:cash net gain/loss Y2Y
           <br />
           <br />
           Get out of my house,&nbsp;
@@ -2845,4 +2845,3 @@ export default class App extends React.Component {
     );
   }
 }
-
