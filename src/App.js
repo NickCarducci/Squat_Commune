@@ -39,6 +39,10 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          “HUD FTC Biden administration to keep renters in their homes,” not
+          their homes, you are conspiring to prohibit trade literally admitted
+          <br />
+          <br />
           If you are hiring someone based on looking in their eyes, make sure they respect you first
         <br />
         <br />
