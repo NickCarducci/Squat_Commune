@@ -519,7 +519,13 @@ export default class App extends React.Component {
           ) labor (repairations, -profits) - Reality
           <br />
           <br />
-          Make people who can stand on one leg stand
+          Make people who can stand on one leg stand - I&nbsp;
+          <a href="I stand all day in pain to try avoiding atrophy, but my laceration was jagged">
+            stand all day
+          </a>
+          &nbsp;in pain to try avoiding atrophy, but my laceration was jagged;
+          or I rest and let it&nbsp;
+          <a href="https://www.google.com/search?q=dr+dickerson">weaken</a>
           <br />
           <br />
           "Expand our democracy" means protecting asset values earned by
