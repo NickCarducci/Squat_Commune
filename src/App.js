@@ -39,7 +39,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          <h3>Judea, did the knee on the neck kill George Floyd? NOOOOO</h3>
+          <h3 style={{ color: "orange", WebkitTextStroke: ".3px black" }}>
+            Judea, did the knee on the neck kill George Floyd? NOOOOO
+          </h3>
           <h1
             style={{
               fontFamily: '"Pacifico", sans-serif'
@@ -246,13 +248,15 @@ export default class App extends React.Component {
           </a>
           <br />
           <br />
-          They provided security as guards at the Sunrise Shalee or Lever Rodeo
-          17 yrs ago when chauvin was 2 yrs in club of human trafficking or
-          money-laundering thru Microsoft and Boeing
-          <br />
-          <br />
-          This should be prosecuted as a people vs city using comparative law
-          about counterfeit and pre-ordained addicticism+viceicism/racism
+          <span style={{ color: "orange", WebkitTextStroke: ".3px black" }}>
+            They provided security as guards at the Sunrise Shalee or Lever
+            Rodeo 17 yrs ago when chauvin was 2 yrs in club of human trafficking
+            or money-laundering thru Microsoft and Boeing
+            <br />
+            <br />
+            This should be prosecuted as a people vs city using comparative law
+            about counterfeit and pre-ordained addicticism+viceicism/racism
+          </span>
           <br />
           <br />
           CNN: 'We bet Clear will be the ones to "authorize people to more
@@ -261,184 +265,190 @@ export default class App extends React.Component {
           - benefit / warning effect (not a vaccine)
           <br />
           <br />
-          pre-ordained meditation
-          <br />
-          "He broke his nose on the plexi-glass there"
-          <br />
-          <br />
-          Sounds like you have discussed&nbsp;
-          <b style={{ color: "blue" }}>this</b>&nbsp;before
-          <br />
-          "Laying on these guys," dispatcher witness says, "'Not to be a snitch,
-          I never seen&nbsp;<b style={{ color: "blue" }}>it</b>&nbsp;and when I
-          saw it I was like woah' to sargent"
-          <br />
-          <br />
-          Google Drive nonprofit entraps your drawings if you leave the
-          government
-          <br />
-          their Takeout only delivers mail and not drawings for your personal
-          account. When I asked years ago, they told me I would be just as
-          well-served by sharing the document, lying also by saying they,
-          "understand my worry" for keeping revision records while stop paying
-          them got G Suite as an ngo.
-          <br />
-          <br />
-          "Under penalty of a non-tort do you promise not to incriminate
-          yourself or incriminate another?" *Bashes continue*
-          <br />
-          <br />
-          "No petricial hemorages, bruises; much CO2/fetenol/meth"
-          <br />
-          <br />
-          "Not mechanical axphixiation,
-          hypertension/coronary-disease/enlarged-heart/
-          <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4444766/">
-            Pheochromocytoma_tumor_of_increased_adrenoline
-          </a>
-          /swelling+debeatment_of_lungs, [shock from open-fracture nose, ]and "
-          <br />
-          <br />
-          <div
-            style={{
-              position: "relative",
-              width: "50%",
-              minWidth: "100px",
-              maxWidth: "200px"
-            }}
-          >
-            <img
+          <span style={{ color: "orange", WebkitTextStroke: ".3px black" }}>
+            pre-ordained meditation
+            <br />
+            "He broke his nose on the plexi-glass there"
+            <br />
+            <br />
+            Sounds like you have discussed&nbsp;
+            <b style={{ color: "blue" }}>this</b>&nbsp;before
+            <br />
+            "Laying on these guys," dispatcher witness says, "'Not to be a
+            snitch, I never seen&nbsp;<b style={{ color: "blue" }}>it</b>
+            &nbsp;and when I saw it I was like woah' to sargent"
+            <br />
+            <br />
+            Google Drive nonprofit entraps your drawings if you leave the
+            government
+            <br />
+            their Takeout only delivers mail and not drawings for your personal
+            account. When I asked years ago, they told me I would be just as
+            well-served by sharing the document, lying also by saying they,
+            "understand my worry" for keeping revision records while stop paying
+            them got G Suite as an ngo.
+            <br />
+            <br />
+            "Under penalty of a non-tort do you promise not to incriminate
+            yourself or incriminate another?" *Bashes continue*
+            <br />
+            <br />
+            "No petricial hemorages, bruises; much CO2/fetenol/meth"
+            <br />
+            <br />
+            "Not mechanical axphixiation,
+            hypertension/coronary-disease/enlarged-heart/
+            <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4444766/">
+              Pheochromocytoma_tumor_of_increased_adrenoline
+            </a>
+            /swelling+debeatment_of_lungs, [shock from open-fracture nose, ]and
+            "
+            <br />
+            <br />
+            <div
               style={{
-                transform: "scale(-1,1)",
-                height: "auto",
-                width: "100%"
+                position: "relative",
+                width: "50%",
+                minWidth: "100px",
+                maxWidth: "200px"
               }}
-              alt={`Help detain passengers`}
-              src="https://www.dl.dropboxusercontent.com/s/mypvyko9h162kid/USSeal.png?dl=0"
-            />
-          </div>
-          <br />
-          <h2>Resisting arrest:</h2>
-          5th brandish threat but not act allowed by cops for cops
-          <br />
-          <br />
-          “I don’t know or remember.” It was probably the covid “Police are
-          always messing with people, as Chauvin was doing with Mr. Floyd. It is
-          wrong, and not right.” - ----- -----, Safeway
-          <br />
-          <br />
-          Cardio-pulmonary arrest, effect of death by breathing [lungs or heart
-          (lungs work with heart)].{/* Did the officer have any marks?*/}
-          <h4>
-            Police vs Chavin&nbsp;
-            <span style={{ fontWeight: "normal" }}>
-              [split second, sacred life, 11mg tolerable, proper for cancer
-              pain]: murder is the only penalty without payment to liability as
-              people are not assets
+            >
+              <img
+                style={{
+                  transform: "scale(-1,1)",
+                  height: "auto",
+                  width: "100%"
+                }}
+                alt={`Help detain passengers`}
+                src="https://www.dl.dropboxusercontent.com/s/mypvyko9h162kid/USSeal.png?dl=0"
+              />
+            </div>
+            <br />
+            <h2>Resisting arrest:</h2>
+            5th brandish threat but not act allowed by cops for cops
+            <br />
+            <br />
+            “I don’t know or remember.” It was probably the covid “Police are
+            always messing with people, as Chauvin was doing with Mr. Floyd. It
+            is wrong, and not right.” - ----- -----, Safeway
+            <br />
+            <br />
+            Cardio-pulmonary arrest, effect of death by breathing [lungs or
+            heart (lungs work with heart)].
+            {/* Did the officer have any marks?*/}
+            <h4>
+              Police vs Chavin&nbsp;
+              <span style={{ fontWeight: "normal" }}>
+                [split second, sacred life, 11mg tolerable, proper for cancer
+                pain]: murder is the only penalty without payment to liability
+                as people are not assets
+              </span>
+            </h4>
+            Axphyxiation by drug addict-hate, yet analysis discrepency of more
+            evidence as use of force and not without their own-integral by more
+            than 50% of derivative
+            <br />
+            <br />
+            'Lived for years happened in those 9'29""'
+            <br />
+            <br />
+            "I think I will die if they put be in the&nbsp;
+            <a href="https://en.wikipedia.org/wiki/Jerome_Powell">squad car</a>"
+            - Floyd
+            <br />
+            <br />
+            If Chauvin knows a long term artery fixation will be lethal
+            continuing to do so is not self-defense
+            <br />
+            <br />
+            "Chauvin responded to get up upon warning of unconciousness" - what
+            where did this witness come from...
+            <br />
+            <br />
+            "objection: non-responsive"
+            <br />
+            same answer
+            <br />
+            "Disregard for life, touched my chest after stepping off-the-curb"
+            <br />
+            <br />
+            "You are angry"
+            <br />
+            Do not answer that, I tell my phone
+            <br />
+            <br />
+            <br />
+            "I dare you to touch me like that, I would slap the fuck out of you"
+            <br />
+            "fair to say, you got angier and angrier"
+            <br />
+            26 times hobo
+            <br />
+            "no, 'more professional'-[fighter defender(No DVR), sacred-life, no
+            mercy, visibly-unconcious]*"
+            <br />
+            <br />
+            "Within the next few years you will shoot youself Tao, Chauvin"
+            <br />
+            <br />
+            If you are unconcious in an MMA fight and you get up, the match
+            would have already been called because the unconcious-label is only
+            reasonable at 10s
+            <br />
+            <br />
+            Counterfeit while the TSY/Fed counterfeit all the time and all
+            creditors and rentiers for prohibiting trade which is buying with
+            intent to charge money no right to bring forward demand is
+            trust-building monopsony by counterfeit-wagering and therefore
+            slavery-by-proxy
+            <br />
+            <h3>$20: didn't even know</h3>
+            Can't use any more force than neccessary lethal capable killing
+            human or putting in danger.
+            <br />
+            <br />
+            Minn. Promise about Citizens:
+            <br />
+            <br />
+            "In&nbsp;
+            <span
+              style={{
+                textDecoration: "line-through"
+              }}
+            >
+              your
             </span>
-          </h4>
-          Axphyxiation by drug addict-hate, yet analysis discrepency of more
-          evidence as use of force and not without their own-integral by more
-          than 50% of derivative
-          <br />
-          <br />
-          'Lived for years happened in those 9'29""'
-          <br />
-          <br />
-          "I think I will die if they put be in the&nbsp;
-          <a href="https://en.wikipedia.org/wiki/Jerome_Powell">squad car</a>" -
-          Floyd
-          <br />
-          <br />
-          If Chauvin knows a long term artery fixation will be lethal continuing
-          to do so is not self-defense
-          <br />
-          <br />
-          "Chauvin responded to get up upon warning of unconciousness" - what
-          where did this witness come from...
-          <br />
-          <br />
-          "objection: non-responsive"
-          <br />
-          same answer
-          <br />
-          "Disregard for life, touched my chest after stepping off-the-curb"
-          <br />
-          <br />
-          "You are angry"
-          <br />
-          Do not answer that, I tell my phone
-          <br />
-          <br />
-          <br />
-          "I dare you to touch me like that, I would slap the fuck out of you"
-          <br />
-          "fair to say, you got angier and angrier"
-          <br />
-          26 times hobo
-          <br />
-          "no, 'more professional'-[fighter defender(No DVR), sacred-life, no
-          mercy, visibly-unconcious]*"
-          <br />
-          <br />
-          "Within the next few years you will shoot youself Tao, Chauvin"
-          <br />
-          <br />
-          If you are unconcious in an MMA fight and you get up, the match would
-          have already been called because the unconcious-label is only
-          reasonable at 10s
-          <br />
-          <br />
-          Counterfeit while the TSY/Fed counterfeit all the time and all
-          creditors and rentiers for prohibiting trade which is buying with
-          intent to charge money no right to bring forward demand is
-          trust-building monopsony by counterfeit-wagering and therefore
-          slavery-by-proxy
-          <br />
-          <h3>$20: didn't even know</h3>
-          Can't use any more force than neccessary lethal capable killing human
-          or putting in danger.
-          <br />
-          <br />
-          Minn. Promise about Citizens:
-          <br />
-          <br />
-          "In&nbsp;
-          <span
-            style={{
-              textDecoration: "line-through"
-            }}
-          >
-            your
+            &nbsp;our custody in&nbsp;
+            <span
+              style={{
+                textDecoration: "line-through"
+              }}
+            >
+              your
+            </span>
+            &nbsp;our care"
+            <br />
+            <br />
+            Chauvin: "It was what I was trained to do for 19 years"
+            <br />
+            <br />
+            Chavin trained to do CPR; stopped fire/emergency check
+            pulse/well-being reach for mace and point at her (sounds like she
+            didn't get identify herself or)" "water or something" Floyd asks
+            while pancaked [crushing
+            <span style={{ textDecoration: "line-through" }}>-trachea</span>
+            /-artery], "bogus [cheap-shot], enjoying it, not even resisting
+            arrest right now," and "nose is bleeding, they don't care about
+            black people" I presume he doesn't like drug-addicts
           </span>
-          &nbsp;our custody in&nbsp;
-          <span
-            style={{
-              textDecoration: "line-through"
-            }}
-          >
-            your
+          <br />
+          <br />
+          <span style={{ color: "purple", WebkitTextStroke: ".3px black" }}>
+            The cannons say the writers of the Bible talked to G-d because Jesus
+            IS G-d to die like a sacrifice that we appreciate now because we are
+            all saved and that was a fish and now the Age of Aquarius. Mayan
+            Calendar ended 2012, Sounds fishy.
           </span>
-          &nbsp;our care"
-          <br />
-          <br />
-          Chauvin: "It was what I was trained to do for 19 years"
-          <br />
-          <br />
-          Chavin trained to do CPR; stopped fire/emergency check
-          pulse/well-being reach for mace and point at her (sounds like she
-          didn't get identify herself or)" "water or something" Floyd asks while
-          pancaked [crushing
-          <span style={{ textDecoration: "line-through" }}>-trachea</span>
-          /-artery], "bogus [cheap-shot], enjoying it, not even resisting arrest
-          right now," and "nose is bleeding, they don't care about black people"
-          I presume he doesn't like drug-addicts
-          <br />
-          <br />
-          The cannons say the writers of the Bible talked to G-d because Jesus
-          IS G-d to die like a sacrifice that we appreciate now because we are
-          all saved and that was a fish and now the Age of Aquarius. Mayan
-          Calendar ended 2012, Sounds fishy.
           <br />
           <br />
           Paris G., What do you[, RNC] stand for?
@@ -2834,3 +2844,4 @@ export default class App extends React.Component {
     );
   }
 }
+
