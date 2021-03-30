@@ -39,6 +39,17 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          “Animals were likely source of coronavirus, not lab leak, WHO says”
+          means it existed for years and the deaths were from bad policy or
+          other situational factors
+          <br />
+          <br />
+          If we don’t want Iran to have weapons because they will use it for
+          weapons, why do we think they won’t be able to be nuclear without us
+          or with China? If we cannot assume that, why aren’t we being blown up
+          right now?
+          <br />
+          <br />
           "Out of date tax code, some can pay more. If you can get people back
           to work we would hear it. Work for works sake is not what people or
           economists want," only Psaki. She promises to not allow Rutgers to
@@ -72,6 +83,11 @@ export default class App extends React.Component {
           admitted
           <br />
           <br />
+          “No massive welfare state and open borders = “M. Friedman. Kamala in
+          charge of root causes (FEC) “moving out of border security facilities,
+          not the root cause of that, to be clear.” -Psaki
+          <br />
+          <br />
           If you are hiring someone based on looking in their eyes, make sure
           they respect you first
           <br />
@@ -82,7 +98,8 @@ export default class App extends React.Component {
           work
           <br />
           <br />
-          Box me in on nomenclature obfuscation
+          Box me in on nomenclature obfuscation. Exercise your right between two
+          candidates conflating nearly infinite issues into two boxes
           <br />
           <br />
           Why does interstate not have tolls?
