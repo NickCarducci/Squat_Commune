@@ -58,7 +58,7 @@ export default class App extends React.Component {
           impossible contract and in price-quality (to not compete with
           producers but consumers, the basis of the Sherman Act and Amendment
           14, 13). Prohibiting trade in login.gov e2e encryption x t-0 exchange
-          and vaults.biz 86 counterfeit-wagering & reverse to debt:cash net
+          and vaults.biz 86 counterfeit-wagering/squat & reverse to debt:cash net
           gain/loss Y2Y
           <br />
           <br />
