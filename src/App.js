@@ -39,7 +39,10 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          Eating out the middle-class
+          Eating out the middle-class: the first amendment doesn't protect
+          private discrimination, but free-ridership of static gains in
+          assets/profits from labor for you to enjoy does - even my volunteer
+          work
           <br />
           <br />
           Box me in on nomenclature obfuscation
