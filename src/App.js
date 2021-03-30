@@ -330,6 +330,18 @@ export default class App extends React.Component {
           "Disregard for life, touched my chest after stepping off-the-curb"
           <br />
           <br />
+          "I dare you to touch me like that, I would slap the fuck out of you"
+          <br />
+          "fair to say, you got angier and angrier"
+          <br />
+          26 times hobo
+          <br />
+          "no, 'more professional'-[fighter defender-of-civil-rights]*"
+          <br />
+          <br />
+          "Within the next few years you will shoot youself Tao, Chauvin"
+          <br />
+          <br />
           If you are unconcious in an MMA fight and you get up, the match would
           have already been called because the unconcious-label is only
           reasonable at 10s
