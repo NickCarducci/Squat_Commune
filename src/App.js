@@ -330,6 +330,11 @@ export default class App extends React.Component {
           "Disregard for life, touched my chest after stepping off-the-curb"
           <br />
           <br />
+          If you are unconcious in an MMA fight and you get up, the match would
+          have already been called because the unconcious-label is only
+          reasonable at 10s
+          <br />
+          <br />
           Counterfeit while the TSY/Fed counterfeit all the time and all
           creditors and rentiers for prohibiting trade which is buying with
           intent to charge money no right to bring forward demand is
