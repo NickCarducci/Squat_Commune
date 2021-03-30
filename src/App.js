@@ -39,6 +39,15 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          We have already established this. The case is over. The Federal
+          Reserve & its regulators are guilty of multiple counts of false
+          advertising, implied malfeasance theremore & intent to harm in
+          impossible contract and in price-quality (to not compete with
+          producers but consumers, the basis of the Sherman Act and Amendment
+          14, 13). Prohibiting trade in login.gov e2e encryption x t-0 exchange
+          and vaults.biz
+          <br />
+          <br />
           Get out of my house&nbsp;
           <a href="https://fred.stlouisfed.org/series/TCMDO">squatters</a>
           <h3>
@@ -2798,4 +2807,3 @@ export default class App extends React.Component {
     );
   }
 }
-
