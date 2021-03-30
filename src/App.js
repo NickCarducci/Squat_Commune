@@ -39,6 +39,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          If you are hiring someone based on looking in their eyes, make sure they respect you first
+        <br />
+        <br />
           Eating out the middle-class: the first amendment doesn't protect
           private discrimination, but free-ridership of static gains in
           assets/profits from labor for you to enjoy does - even my volunteer
