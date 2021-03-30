@@ -39,6 +39,10 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Ted Cruz video taping the shit going down in his state is like the
+          arsonist, you know, doing that
+          <br />
+          <br />
           <a href="https://2052.live">backed into a corner</a>
           &nbsp;Pattern-Day&nbsp;
           <a href="https://en.wiktionary.org/wiki/like_shooting_fish_in_a_barrel">
