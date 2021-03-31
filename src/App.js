@@ -39,7 +39,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          Sea people! I'm sleeping like a baby<br/><br/>
+          Sea people! I'm sleeping like a baby
+          <br />
+          <br />
           We should all be working, not for&nbsp;
           <b style={{ color: "purple" }}>jobs</b>, but our own equity.&nbsp;
           <b style={{ color: "blue" }}>Sales tax under 2k</b>&nbsp;plan is
@@ -119,7 +121,7 @@ export default class App extends React.Component {
           We have already established this. The case is over. The Federal
           Reserve & its regulators are guilty of multiple counts of false
           advertising, implied malfeasance theremore & intent to harm in
-          impossible contract and in price-quality (to not compete with
+          impossible contract and in price-quality/duress (to not compete with
           producers but consumers, the basis of the Sherman Act and Amendment
           14, 13). Prohibiting trade in login.gov e2e encryption x t-0 exchange
           and vaults.biz 86
