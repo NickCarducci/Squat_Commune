@@ -39,6 +39,13 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Geico: "
+          <a href="https://www.researchgate.net/publication/346041766_The_FTC_has_responded_to_my_complaints_and_so_has_the_industry_Allstate_Progressive_Geico_all_say_they_save_you_money_by_switching_or_bundling_yet_neo-insurance_companies_like_CarShieldUSA_still_says_">
+            saving you money{"<br/>"}on life insurance
+          </a>
+          "
+          <br />
+          <br />
           Sea people! I'm sleeping like a baby
           <br />
           <br />
@@ -76,9 +83,9 @@ export default class App extends React.Component {
           400b home and disabled care
           <br />
           All intentioned to bail out finance, I contend [fraud - 'investment'
-          as monopsony (static), largest corporate taxes but the outstanding
-          debt is being price-fixed and any debt is
-          counterfeit-in-contract-or-wagering all for not more
+          as monopsony (static) with *residual-unrequited-split* UBI, largest
+          corporate taxes but the outstanding debt is being price-fixed and any
+          debt is counterfeit-in-contract-or-wagering all for not more
           equityulilitymoney/money] Taking from corporations is not as efficient
           as using tolls for highways and tax only for local consumer storefront
           locations and everything else free-rider-mutable and per the most
