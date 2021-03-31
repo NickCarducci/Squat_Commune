@@ -39,6 +39,28 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          We should all be working, not for&nbsp;
+          <b style={{ color: "purple" }}>jobs</b>, but our own equity.&nbsp;
+          <b style={{ color: "blue" }}>Sales tax under 2k</b>&nbsp;plan is
+          intended for&nbsp;
+          <b style={{ color: "purple" }}>grocery, auto and appliance stores</b>
+          &nbsp;(home-sale unless realtor is not 'business' and therefore not
+          taxable) as per required, free-rider immutable services as
+          local-tolless roads and security are that we have come to know as
+          better than carrying (responsive-threat) [btw vs. open
+          (apparent-threat) or having ezpass (
+          <b style={{ color: "blue" }}>
+            free-rider-mutable monopsony, 'necessary' as given by current
+            technology/rights
+          </b>
+          , must be margin-targeted as would efficiently&nbsp;
+          <b style={{ color: "blue" }}>
+            {"<"}20 producers in a business-type && mutually-exclusive
+            geograpghy
+          </b>
+          )]
+          <br />
+          <br />
           Biden Infrastructure and jobs plan episode 1
           <br />
           <br />
