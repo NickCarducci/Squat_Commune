@@ -39,6 +39,42 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Biden Infrastructure and jobs plan episode 1
+          <br />
+          <br />
+          600b infrastructure
+          <br />
+          400b home infrastrucure
+          <br />
+          300b energy infrastructure
+          <br />
+          400b home and disabled care
+          <br />
+          All intentioned to bail out finance, I contend [fraud - 'investment'
+          as monopsony (static), largest corporate taxes but the outstanding
+          debt is being price-fixed and any debt is
+          counterfeit-in-contract-or-wagering all for not more
+          equityulilitymoney/money] Taking from corporations is not as efficient
+          as using tolls for highways and tax only for local consumer storefront
+          locations and everything else free-rider-mutable and per the most
+          frugal supplier and demander...
+          <br />
+          <br />
+          Rocket cannot promise my money to you to conspire to prohibit trade
+          @RocketMortgage
+          <br />
+          <br />
+          All the interests and price-in elasticity 40:41 is my money
+          <br />
+          <br />
+          The first exchange of interest per time is counterfeit-wagering if
+          this were a business-line or profit-share. This is just undefinable as
+          trade (settled mutual-benefits)
+          <br />
+          <br />
+          Without that, you would never lend
+          <br />
+          <br />
           My requisites for employment, must sign your lineage into slavery to
           take me from expunging us before I turn 30. I also must work remote at
           least 4/5 days since my SSA will not pay me for my bartending money
