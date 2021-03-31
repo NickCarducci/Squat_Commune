@@ -39,7 +39,7 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          Sea people!<br/><br/>
+          Sea people! I'm sleeping like a baby<br/><br/>
           We should all be working, not for&nbsp;
           <b style={{ color: "purple" }}>jobs</b>, but our own equity.&nbsp;
           <b style={{ color: "blue" }}>Sales tax under 2k</b>&nbsp;plan is
