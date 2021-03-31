@@ -39,6 +39,11 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          My requisites for employment, must sign your lineage into slavery to
+          take me from expunging us before I turn 30. I also must work remote at
+          least 4/5 days since my SSA will not pay me for my bartending money
+          (free time)
+          <br />
           <h3 style={{ color: "orange", WebkitTextStroke: ".3px black" }}>
             Judea, did the knee on the neck kill George Floyd? NOOOOO
           </h3>
@@ -90,7 +95,27 @@ export default class App extends React.Component {
           duress grafts on students, let alone for no added safety as per
           transmissability only from&nbsp;
           <a href="https://moldmask.co">cough/touch</a>
-          {/* it could just be mentioned in the advertising*/}
+          {/* it could just be mentioned in the advertising*/}Poll means
+          voluntary so “poll of n of population” is required
+          <br />
+          <br />
+          With debt, what are you accomplishing? If you like the jobs, know you
+          are only raising price, have to earn it back and take away opportunity
+          from others, namely those with the money you promised to yourself. If
+          you want to invest, buy the equity or future profits
+          <br />
+          <br />
+          Work for somebody else, give them the profits? Probably the flouride
+          <br />
+          <br />
+          Credit based work is just as sad as volunteer bootstrapping but more
+          harmful and less good
+          <br />
+          <br />
+          ReadNotifications alert from reactions + comments (combo sort) total
+          <br />
+          <br />
+          Eating out the middle-class
           <br />
           <br />
           “HUD FTC Biden administration to keep renters in their homes,”
