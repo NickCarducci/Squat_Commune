@@ -39,6 +39,25 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          There are businesses and then there are entrepreneurs, both part of
+          supply. As consumers, unless you are a rentier-colonist, do you want
+          there to be austerity in less than twenty services or people buying
+          assets for not the intent to add value and sell them but to prohibit
+          trade of another consumer that is&nbsp;
+          <a href="https://saverparty.xyz">
+            <b style={{ color: "#a64d79" }}>a little more frugal</b>
+          </a>
+          <br />
+          <br />
+          Free to choose is a misnomer for someone who provides&nbsp;
+          <a href="https://en.wikipedia.org/wiki/Friedman_rule">
+            regressive "investment" launderings
+          </a>
+          &nbsp;and outright, abject theft and endangerment - compete in winning
+          favor of consumers not prohibiting tech adv in efficiency, privacy or
+          modularity
+          <br />
+          <br />
           <span style={{ color: "orange", WebkitTextStroke: ".3px black" }}>
             The store owner says, "I wish I didn't take that dollar." Is anyone
             looking into if this was a entrapment by minnesota police
