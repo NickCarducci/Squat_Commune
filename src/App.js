@@ -39,6 +39,12 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <span style={{ color: "orange", WebkitTextStroke: ".3px black" }}>
+            The store owner says, "I wish I didn't take that dollar." Is anyone
+            looking into if this was a entrapment by minnesota police
+          </span>
+          <br />
+          <br />
           Geico: "
           <a href="https://www.researchgate.net/publication/346041766_The_FTC_has_responded_to_my_complaints_and_so_has_the_industry_Allstate_Progressive_Geico_all_say_they_save_you_money_by_switching_or_bundling_yet_neo-insurance_companies_like_CarShieldUSA_still_says_">
             saving you money{"<br/>"}on life insurance
