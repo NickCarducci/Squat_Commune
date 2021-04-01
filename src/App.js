@@ -39,6 +39,20 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <div style={{ wordWrap: "break-word" }}>
+            Credit is counterfeit-wagering and monopsony of service-labor;
+            group-credit or insurance is the same but with collective bargain if
+            it were not settled gift certificates and of an input cost (like an
+            artist’s non-compete-contract). I will write for the journal’s
+            concerns, but this is what will happen if adjudication happens in a
+            Class-action-suit on a few counts of false advertising,
+            slaveryByProxy, buyWithIntentToRent, competingWithCustomersAndLabor,
+            unequalLaw, prohibitingSettledTrade, priceFixingAndLoitering,&nbsp;
+            <b style={{ color: "rgb(225,100,150)" }}>
+              borrowersCustomerAndLaborArtistVolunteerPreRevInventorDistress
+            </b>
+            &nbsp;and Saverparty.xyz.
+          </div>
           <h1
             style={{
               fontFamily: '"Pacifico", sans-serif'
