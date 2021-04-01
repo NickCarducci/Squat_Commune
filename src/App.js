@@ -39,7 +39,11 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          The heart pumps the lungs pumps the heart pumps
+          stage for safety kinda; whose safety? asistilate/PEA into-oslo permit,
+          history of stuggle with arrest: treat for overdose become VIOLENT WITH
+          ADRENOLINE
+          <br />
+          The heart pumps the lungs pumps the vastus-medialis pumps
           <div style={{ wordWrap: "break-word" }}>
             Credit is counterfeit-wagering and monopsony of service-labor;
             group-credit or insurance is the same but with collective bargain if
