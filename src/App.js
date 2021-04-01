@@ -190,7 +190,7 @@ export default class App extends React.Component {
           debt is counterfeit-in-contract-or-wagering all for not more
           equityulilitymoney/money] Taking from corporations is not as efficient
           as using tolls for highways and tax only for local consumer storefront
-          locations and everything else free-rider-mutable and per the most
+          locations and everything else free-rider-mutable and per the LEAST
           frugal supplier and demander...
           <br />
           <br />
@@ -2899,7 +2899,7 @@ export default class App extends React.Component {
           <br />
           <br />
           free trade is settled, individual trade (
-          <a href="https://micro-theory.com">most frugal supply and demand</a>
+          <a href="https://micro-theory.com">LEAST frugal supply and demand</a>
           &nbsp;
           <a href="https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/volume-on-the-bid-and-ask-bavol/">
             last trade
