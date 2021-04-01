@@ -39,7 +39,7 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          stage for safety kinda; whose safety? asistilate/PEA into-oslo permit,
+          stage for safety kinda; whose safety? asistilate/PEA intro-oslo permit,
           history of stuggle with arrest: treat for overdose become VIOLENT WITH
           ADRENOLINE
           <br />
