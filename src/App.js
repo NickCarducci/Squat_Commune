@@ -39,9 +39,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          stage for safety kinda; whose safety? asistilate/PEA intro-oslo permit,
-          history of stuggle with arrest: treat for overdose become VIOLENT WITH
-          ADRENOLINE
+          stage for safety kinda; whose safety? asistilate/PEA, intro-["oslo,"
+          aortic?] permit, history of stuggle with arrest: treat for overdose
+          become VIOLENT WITH ADRENOLINE
           <br />
           The heart pumps the lungs pumps the vastus-medialis pumps
           <div style={{ wordWrap: "break-word" }}>
