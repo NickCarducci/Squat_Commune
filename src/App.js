@@ -23,7 +23,7 @@ export default class App extends React.Component {
       <div
         style={{
           margin: 0,
-          overflow: "hidden",
+          overflowX: "hidden",
           width: "100%",
           fontFamily: "sans-serif",
           textAlign: "center"
@@ -39,6 +39,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Mr. Ambulance driver, if you were to judge this case, what would you digress
+        <br />
+        <br />
           Narcotic-money substance counterfeit scripts
           <br />
           <br />
