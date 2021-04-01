@@ -39,6 +39,11 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          State of mind has nothing to do with death, where was the foam? Did he
+          eat it #chauvintrial #ChauvinIsGuilty #ChauvinisInnocent we all know
+          who is on trial here: the Fed, creditors and its regulators
+          <br />
+          <br />
           <a href="https://americanaddictioncenters.org/health-complications-addiction/signs-drug-use-eyes">
             Pinpoint (
             <b style={{ backgroundColor: "black", color: "white" }}>heroine</b>)
