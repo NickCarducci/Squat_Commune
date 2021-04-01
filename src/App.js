@@ -39,6 +39,11 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Addicted to hot takes. no, just weed
+          <br />
+          all the plea evidence has is
+          <br />
+          <br />
           "First emt did not immediately move chauvin off for a&nbsp;<b>bit</b>"
           <br />
           State of mind has nothing to do with death, where was the foam? Did he
