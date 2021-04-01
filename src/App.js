@@ -128,7 +128,7 @@ export default class App extends React.Component {
               position: "relative",
               width: "100%",
               minWidth: "100px",
-              maxWidth: "200px"
+              maxWidth: "500px"
             }}
           >
             <img
