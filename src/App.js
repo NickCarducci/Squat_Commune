@@ -39,6 +39,14 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <h1
+            style={{
+              fontFamily: '"Pacifico", sans-serif'
+            }}
+          >
+            literally on strike of credit;&nbsp;
+            <a href="https://twitter.com/saverparty">help: like my beats.</a>
+          </h1>
           There are businesses and then there are entrepreneurs, both part of
           supply. As consumers, unless you are a rentier-colonist, do you want
           there to be austerity in less than twenty services or people buying
