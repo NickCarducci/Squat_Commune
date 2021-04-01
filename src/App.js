@@ -118,6 +118,37 @@ export default class App extends React.Component {
           frugal supplier and demander...
           <br />
           <br />
+          They keep lowering it, you can notice a depreciation of their value,
+          abject price-fixing for certain consumers not based on viability of
+          business-line (never consumer purchase monopsony-conspiracy banksquat
+          with borrower upon savers, laborers, pre-rev inventors, volunteers and
+          open-source artists...) but time owed
+          <div
+            style={{
+              position: "relative",
+              width: "100%",
+              minWidth: "100px",
+              maxWidth: "200px"
+            }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt={
+                `unrequited equitydollar-split fraud for counterfeit-wagerers ` +
+                `(I did this in comparative law/spite knowing it is all going to be ` +
+                `reversed to the point of no action be taken with malintent to not compete ` +
+                `for, but with, customers of businesses not creditors (not a customer, a ` +
+                `conspirator to loiter on the counterfeit means[reposession,borrowers' ` +
+                `consumers' down-payments and rights])`
+              }
+              src="https://www.dl.dropboxusercontent.com/s/stzp3uea3o3y85y/FullSizeRender.jpeg?dl=0"
+            />
+          </div>
+          <br />
+          <br />
           Rocket cannot promise my money to you to conspire to prohibit trade
           @RocketMortgage
           <br />
