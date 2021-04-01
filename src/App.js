@@ -40,7 +40,7 @@ export default class App extends React.Component {
           }}
         >
           <a href="https://americanaddictioncenters.org/health-complications-addiction/signs-drug-use-eyes">
-            Pinpoint (meth) - (shrooms/lsd) dilated
+            Pinpoint (heroine) - (meth/shrooms/lsd) dilated
           </a>
           <br />
           <br />
