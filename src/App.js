@@ -61,11 +61,13 @@ export default class App extends React.Component {
           }}
         >
           Stackoverflow takes our content then locks it in by disabling
-          accessibility (is that not as of a matter of ux for diabled/tart
+          accessibility (is that not as of a matter of ux but for diabled/tard
           only?)
           <br />
           <br />
-          Cops not trained to do CPR after fighting with a non-member bank
+          <span style={{ color: "orange", WebkitTextStroke: ".3px black" }}>
+            Cops not trained to do CPR after fighting with a non-member bank
+          </span>
           <br />
           <br />
           Addicted to hot takes. no, just weed
@@ -73,34 +75,42 @@ export default class App extends React.Component {
           all the plea evidence has is
           <br />
           <br />
-          "First emt did not immediately move chauvin off for a&nbsp;<b>bit</b>"
-          <br />
-          State of mind has nothing to do with death, where was the foam? Did he
-          eat it #chauvintrial #ChauvinIsGuilty #ChauvinisInnocent we all know
-          who is on trial here:&nbsp;
-          <b style={{ color: "blue" }}>the Fed, creditors and its regulators</b>
-          <br />
-          <br />
-          <a href="https://americanaddictioncenters.org/health-complications-addiction/signs-drug-use-eyes">
-            Pinpoint (
-            <b style={{ backgroundColor: "black", color: "white" }}>heroine</b>)
-            - (<b style={{ backgroundColor: "black", color: "white" }}>meth</b>
-            /shrooms/lsd) dilated
-          </a>
-          <br />
-          <br />
-          Mr. Ambulance driver, if you were to judge this case, what would you
-          digress
-          <br />
-          <br />
-          Narcotic-money substance counterfeit scripts
-          <br />
-          <br />
-          stage for safety kinda; whose safety? asistilate/PEA, intro-["oslo,"
-          aortic?] permit, history of stuggle with arrest: treat for overdose
-          become VIOLENT WITH ADRENOLINE
-          <br />
-          The heart pumps the lungs pumps the vastus-medialis pumps
+          <span style={{ color: "orange", WebkitTextStroke: ".3px black" }}>
+            "First emt did not immediately move chauvin off for a&nbsp;
+            <b>bit</b>"
+            <br />
+            State of mind has nothing to do with death, where was the foam? Did
+            he eat it #chauvintrial #ChauvinIsGuilty #ChauvinisInnocent we all
+            know who is on trial here:&nbsp;
+            <b style={{ color: "blue" }}>
+              the Fed, creditors and its regulators
+            </b>
+            <br />
+            <br />
+            <a href="https://americanaddictioncenters.org/health-complications-addiction/signs-drug-use-eyes">
+              Pinpoint (
+              <b style={{ backgroundColor: "black", color: "white" }}>
+                heroine
+              </b>
+              ) - (
+              <b style={{ backgroundColor: "black", color: "white" }}>meth</b>
+              /shrooms/lsd) dilated
+            </a>
+            <br />
+            <br />
+            Mr. Ambulance driver, if you were to judge this case, what would you
+            digress
+            <br />
+            <br />
+            Narcotic-money substance counterfeit scripts
+            <br />
+            <br />
+            stage for safety kinda; whose safety? asistilate/PEA, intro-["oslo,"
+            aortic?] permit, history of stuggle with arrest: treat for overdose
+            become VIOLENT WITH ADRENOLINE
+            <br />
+            The heart pumps the lungs pumps the vastus-medialis pumps
+          </span>
           <div style={{ wordWrap: "break-word" }}>
             Credit is counterfeit-wagering and monopsony of service-labor;
             group-credit or insurance is the same but with collective bargain if
