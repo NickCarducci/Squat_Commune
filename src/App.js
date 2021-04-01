@@ -39,9 +39,12 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          "First emt did not immediately move chauvin off for a&nbsp;<b>bit</b>"
+          <br />
           State of mind has nothing to do with death, where was the foam? Did he
           eat it #chauvintrial #ChauvinIsGuilty #ChauvinisInnocent we all know
-          who is on trial here: the Fed, creditors and its regulators
+          who is on trial here:&nbsp;
+          <b style={{ color: "blue" }}>the Fed, creditors and its regulators</b>
           <br />
           <br />
           <a href="https://americanaddictioncenters.org/health-complications-addiction/signs-drug-use-eyes">
