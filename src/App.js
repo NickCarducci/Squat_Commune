@@ -62,6 +62,7 @@ export default class App extends React.Component {
             The store owner says, "I wish I didn't take that dollar." Is anyone
             looking into if this was a entrapment by minnesota police
           </span>
+          &nbsp;1k members a day join the NRA
           <br />
           <br />
           Geico: "
