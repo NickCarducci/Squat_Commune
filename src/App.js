@@ -22,6 +22,8 @@ export default class App extends React.Component {
     return (
       <div
         style={{
+          fontSize: "19px",
+          WebkitTextStroke: "1px white",
           margin: 0,
           overflowX: "hidden",
           width: "100%",
@@ -30,8 +32,27 @@ export default class App extends React.Component {
         }}
       >
         <div
+          style={{ top: "0px", right: "0px", position: "fixed", width: "56px" }}
+        >
+          <img
+            style={{
+              height: "auto",
+              width: "100%"
+            }}
+            alt={
+              `unrequited equitydollar-split fraud for counterfeit-wagerers ` +
+              `(I did this in comparative law/spite knowing it is all going to be ` +
+              `reversed to the point of no action be taken with malintent to not compete ` +
+              `for, but with, customers of businesses not creditors (not a customer, a ` +
+              `conspirator to loiter on the counterfeit means[reposession,borrowers' ` +
+              `consumers' down-payments and rights])`
+            }
+            src="https://www.dl.dropboxusercontent.com/s/y2nws5vjjlj7mws/vaultslogo--1-.png?dl=0"
+          />
+        </div>
+        <div
           style={{
-            left: "10px",
+            left: "0px",
             textAlign: "left",
             top: "0px",
             width: "90%",
@@ -60,9 +81,10 @@ export default class App extends React.Component {
           </a>
           <br />
           <br />
-          Mr. Ambulance driver, if you were to judge this case, what would you digress
-        <br />
-        <br />
+          Mr. Ambulance driver, if you were to judge this case, what would you
+          digress
+          <br />
+          <br />
           Narcotic-money substance counterfeit scripts
           <br />
           <br />
