@@ -60,6 +60,11 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Stackoverflow takes our content then locks it in by disabling
+          accessibility (is that not as of a matter of ux for diabled/tart
+          only?)
+          <br />
+          <br />
           Cops not trained to do CPR after fighting with a non-member bank
           <br />
           <br />
@@ -1378,6 +1383,10 @@ export default class App extends React.Component {
           make&nbsp;
           <a href="https://www.ncdc.noaa.gov/news/picture-climate-what-can-we-learn-ice">
             sense
+          </a>
+          , this is&nbsp;
+          <a href="https://www.ems1.com/ems-products/medical-equipment/airway-management/articles/why-co2-monitoring-in-ems-is-expanding-So1Rz4CwJtbhQhwI/#:~:text=end-tidal">
+            end-tidal
           </a>
           <br />
           <br />
