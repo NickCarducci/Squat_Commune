@@ -61,8 +61,10 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          Protecting back-rent equity of only those who cannot pay is
-          evident-abject cross-party risk intended (harm)
+          Protecting back-rent equity&nbsp;
+          <b style={{ color: "blue" }}>(often)</b>&nbsp;of only those who cannot
+          pay is evident-abject cross-party risk intended (harm of tax for
+          non-free-rider-immutable things)
           <br />
           <br />
           Coca-cola lobbies againts anti-slavery bill in congress, what are the
