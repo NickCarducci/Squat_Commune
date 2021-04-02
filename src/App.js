@@ -22,8 +22,9 @@ export default class App extends React.Component {
     return (
       <div
         style={{
+          backgroundColor: "rgb(240,240,240)",
           fontSize: "19px",
-          WebkitTextStroke: "1px white",
+          WebkitTextStroke: ".7px white",
           margin: 0,
           overflowX: "hidden",
           width: "100%",
@@ -60,6 +61,15 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Coca-cola lobbies againts anti-slavery bill in congress, what are the
+          actions to be done or is it just 'resolution'...?
+          <br />
+          <br />
+          . @CDC Director says the graft which makes antibodies prevent you from
+          carrying the virus, but only the variation they originally made it
+          for? Still weigh the risk of B-cell oncogenesis @Microsoft
+          <br />
+          <br />
           All banks operate on credit (counterfeit-wagering). Investing is
           buying equity or profit share. Lending and rent-seeking is laundering
           from consumers
