@@ -61,6 +61,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Team player, or not going far (or maintaining equity for efficiency of profit-bearing
+          <br/>
+          <br/>
           "We are hiring people with depths of experience but what more income &
           opportunity equality"
           <br />
