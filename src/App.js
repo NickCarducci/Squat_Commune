@@ -61,6 +61,10 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Protecting back-rent equity of only those who cannot pay is
+          evident-abject cross-party risk intended (harm)
+          <br />
+          <br />
           Coca-cola lobbies againts anti-slavery bill in congress, what are the
           actions to be done or is it just 'resolution'...?
           <br />
