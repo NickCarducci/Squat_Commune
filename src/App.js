@@ -60,6 +60,15 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          All banks operate on credit (counterfeit-wagering). Investing is
+          buying equity or profit share. Lending and rent-seeking is laundering
+          from consumers
+          <br />
+          <br />
+          "Appropriate actions with the public, 80% work is medical," fire captn
+          explained for faster less experiences (more numerous?)
+          <br />
+          <br />
           Stackoverflow takes our content then locks it in by disabling
           accessibility (is that not as of a matter of ux but for diabled/tard
           only?)
