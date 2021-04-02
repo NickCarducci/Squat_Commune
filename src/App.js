@@ -76,7 +76,8 @@ export default class App extends React.Component {
           <br />
           <br />
           "Appropriate actions with the public, 80% work is medical," fire captn
-          explained for faster less experiences (more numerous?)
+          explained for faster less experiences (more numerous?). Fire captain
+          says response to murder, before ambulance who say otherwise?
           <br />
           <br />
           Stackoverflow takes our content then locks it in by disabling
@@ -129,6 +130,8 @@ export default class App extends React.Component {
             become VIOLENT WITH ADRENOLINE
             <br />
             The heart pumps the lungs pumps the vastus-medialis pumps
+            <br />
+            positionary-axphyxia force
           </span>
           <div style={{ wordWrap: "break-word" }}>
             Credit is counterfeit-wagering and monopsony of service-labor;
