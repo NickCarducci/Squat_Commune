@@ -61,6 +61,10 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          "We are hiring people with depths of experience but what more income &
+          opportunity equality"
+          <br />
+          <br />
           Protecting back-rent equity&nbsp;
           <b style={{ color: "blue" }}>(often)</b>&nbsp;of only those who cannot
           pay is evident-abject cross-party risk intended (harm of tax for
