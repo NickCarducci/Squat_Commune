@@ -61,11 +61,15 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          Team player, or not going far (or maintaining equity for efficiency of profit-bearing
-          <br/>
-          <br/>
+          Team player, or not going far (or maintaining equity for efficiency of
+          profit-bearing
+          <br />
+          <br />
           "We are hiring people with depths of experience but what more income &
           opportunity equality"
+          <br />
+          <br />
+          To design simply is to realize all of that which we cannot plan for
           <br />
           <br />
           Protecting back-rent equity&nbsp;
@@ -643,6 +647,21 @@ export default class App extends React.Component {
             <br />
             "Chauvin responded to get up upon warning of unconciousness" - what
             where did this witness come from...
+            <br />
+            <br />
+            <div
+              style={{
+                color: "rgb(197,179,88)",
+                borderRadius: "10px",
+                border: "1px solid grey",
+                margin: "10px",
+                padding: "10px"
+              }}
+            >
+              straw man is where your questions are posed to not have a logical
+              response. You haven’t commented on the counts of promising my
+              money to your lender.
+            </div>
             <br />
             <br />
             "objection: non-responsive"
@@ -3128,3 +3147,4 @@ export default class App extends React.Component {
     );
   }
 }
+
