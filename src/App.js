@@ -61,6 +61,40 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <a
+          href="https://billbiden.org"
+            style={{
+              border: "1px solid grey",
+              margin: "10px",
+              padding: "10px",
+              borderRadius: "10px"
+            }}
+          >
+            George Francis I will be suing you for suing and you're welcome to
+            sue me for that
+            <br />
+            <br />
+            Nick Carducci you can will anything but doesnt mean you can
+            <br />
+            <br />
+            Civil liberties is a case in favor of the asymptomatic antivaxxer
+            being included, && you without evidence Latent TB is not contagious
+            but Covid-19-causing-virus one of many probably gained-lab-function
+            and “vaccine”/graft b-cell dysregulation duress can only stay home
+            @CNN
+            <br />
+            <br />
+            if the cakes were printed, this shouldn't be legally ok to exclude
+            unless "graphic" in accordance with some law please please please
+            (public indecency)
+            <br />
+            <br />
+            Especially if the gain-of-function, from lab-or-bat, does not
+            require spittle && there-not-being-tests-of-virus-on-table as for
+            Latent-TB
+          </a>
+          <br />
+          <br />
           Team player, or not going far (or maintaining equity for efficiency of
           profit-bearing
           <br />
