@@ -65,7 +65,7 @@ export default class App extends React.Component {
           intent to harm-usury-haram (buy, build or invest to not use, sell or
           produce). what you need or bundling is not less than not pooling
           demand instead of settling with your own equityutilitymoney.com
-          residualsplit.us rights
+          residualsplit.us rights micro-theory.com
           <br />
           <br />
           If most are fat, old, afro or Hispanic and 80% effectiveness to boot.
