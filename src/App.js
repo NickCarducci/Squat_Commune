@@ -50,6 +50,9 @@ export default class App extends React.Component {
             }
             src="https://www.dl.dropboxusercontent.com/s/y2nws5vjjlj7mws/vaultslogo--1-.png?dl=0"
           />
+          <span style={{ bottom: "-20px", right: "0px", position: "absolute" }}>
+            also,&nbsp;<a href="https://saverparty.xyz">saver</a>
+          </span>
         </div>
         <div
           style={{
@@ -61,16 +64,30 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          Prisoners' dilemma duress foiegras.life as a strategy is admitted
-          intent to harm-usury-haram (buy, build or invest to not use, sell or
-          produce). what you need or bundling is not less than not pooling
-          demand instead of settling with your own equityutilitymoney.com
-          residualsplit.us rights micro-theory.com
+          expiring depositary, non-outstanding treasury, movement with
+          hung-jury-conviction/-permit, disability on&nbsp;
+          <a href="https://truncatedsalestax.com">
+            mental health conflict of interest
+          </a>
+          &nbsp;all are fallacies. Many more include about &nbsp;
+          <a href="https://magnate.company">light speed</a>, carbon combustion
+          is CO2, not emissions. ice-cores are carbon.
           <br />
           <br />
-          If most are fat, old, afro or Hispanic and 80% effectiveness to boot.
-          I can withhold people based on that correlation and not on subjective
-          minimal viable product
+          Prisoners' dilemma duress&nbsp;
+          <a href="https://foiegras.life">foiegras.life</a>&nbsp;as a strategy
+          is admitted intent to harm-usury-haram (buy, build or invest to not
+          use, sell or produce). what you need or bundling is not less than not
+          pooling demand instead of settling with your own&nbsp;
+          <a href="https://equityutilitymoney.com">equityutilitymoney.com</a>
+          &nbsp;<a href="https://residualsplit.us">residualsplit.us</a>&nbsp;
+          <a href="https://micro-theory.com">rights</a>
+          <br />
+          <br />
+          If most are&nbsp;
+          <a href="https://froth.app">fat, old, afro or Hispanic</a>&nbsp;and
+          80% effectiveness to boot. I can withhold people based on that
+          correlation and not on subjective minimal viable product
           <br />
           <br />
           50% worsened lymphoma obviously. J&J not advertised as being cultured
